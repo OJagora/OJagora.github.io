@@ -1,8 +1,8 @@
 # Data Science and Management Student
 
 ### Education
-Data Science @ Télécom Paris
-Management @ Sciences Po
+- Master of Science in Engineering, Specialized in Data Science @ Télécom Paris
+- Management @ Sciences Po
 
 ### Work Experience
 President (2023-2024) of the Junior Entreprise of Telecom Paris --> Telecom Etude
