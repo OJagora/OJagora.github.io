@@ -23,7 +23,7 @@
     > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
     
 
-- **Management and Digital Innovation** 
+- **Master in Management and Digital Innovation** 
 
     > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
 
@@ -96,11 +96,15 @@ The project is based on different techniques such as:
 ##### Crowdfunding Campaign Success Prediction (2024)
 In this project with a team of 2 students, we aimed to predict the success of a crowdfunding campaign based on several features such as the category of the project, the goal, the duration etc.
 
+![Crowdfunding](./assets/projects/Crowdfunding/proba.png)
+
 We used different models such as:
 - **Logistic Regression**
 - **Bayesian Regression**
 
 We anylized more deeply the context of crowdfunding campaigns and the impact of the features on the success of the campaign.
+
+![Crowdfunding](./assets/projects/Crowdfunding/impact.png)
 
 ##### FALL-E : Fall Detection System (2022)
 I constructed a first prototype of a fall detection system based on a inertial measurement unit (IMU) and an analysis of the signal with metrics such as the Head Injury Criterion (HIC) and the Fall Index (FI).
