@@ -61,12 +61,11 @@ I mainly worked on :
 - Proposal of a function to quantify novelty of a compound
 
 #### Personal Projects
-##### CHIME : Molecule to Taxonomy ML Model(2024)
+##### CHIME : Molecule to Taxonomy ML Model (2024)
 CHIME is an application that allows chemists to predict the taxonomic group of a compound based on its SMILES representation.
 
 ![CHIME](./assets/projects/CHIME/chime_app.png)
 
-> [!TIP]
 > This is a screenshot of the output of CHIME application when predicting the taxonomic group of Aflatoxin, a mycotoxin.
 
 The application is based on a **SVM model** trained on *libsvm* with a dataset of 270k compounds.
@@ -75,12 +74,13 @@ The use of **SHAP values** allows to explain the model's predictions by highligh
 
 ![Visualisations](./assets/projects/CHIME/mean_fingerprints_170_cool.png)
 
-> [!NOTE]
 > This visualization was used during the early development of the model to understand the distribution of the features in the dataset.
 
-#### MRB : Molecular Graph Deep Learning  (2024)
+#### MRB : Molecular Graph Deep Learning (2024)
 
 ![MRB](./assets/projects/MRB/lotus_cluster_zoom1.png)
+
+> This is a graph of molecular similarity between different compounds using fingerprints and tanimoto similarity.
 
 MRB is a work in progress personal research project that aims to benchmark the different representations of molecules in the context of a **similarity search**.
 
