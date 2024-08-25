@@ -72,7 +72,7 @@ The use of **SHAP values** allows to explain the model's predictions by highligh
 
 ![MRB](/assets/project/MRB/lotus_cluster_zoom1.png)
 
-MRB is a personal research project that aims to benchmark the different representations of molecules in the context of a **similarity search**.
+MRB is a work in progress personal research project that aims to benchmark the different representations of molecules in the context of a **similarity search**.
 
 The project is based on different techniques such as:
 - Graph Theory (Louvain Clustering)
