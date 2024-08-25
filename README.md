@@ -6,11 +6,11 @@
 - [Projects](#projects)
     - [Professional Projects](#professional-projects)
         - [Lead Tech Projects Manager](#lead-tech-projects-manager-2023-2024)
-    - [Research Projects](#research-projects)
-        - [Research Assistant](#research-assistant-2023)
     - [Personal Projects](#personal-projects)
         - [CHIME : Molecule to Taxonomy ML Model](#chime--molecule-to-taxonomy-ml-model-2024)
         - [MRB : Molecular Graph Deep Learning](#mrb--molecular-graph-deep-learning-2024)
+    - [Research Projects](#research-projects)
+        - [Research Assistant](#research-assistant-2023)
     - [Academic Projects](#academic-projects)
         - [Crowdfunding Campaign Success Prediction](#crowdfunding-campaign-success-prediction-2024)
         - [FALL-E : Fall Detection System](#fall-e--fall-detection-system-2022)
@@ -50,24 +50,6 @@ My main responsibilities were:
     - A **GPS tracking system**
 - In charge of a 30k€ budget and a 1-year deadline
 
-#### Research Projects
-##### Research Assistant (2023)
-As an intern at the CNRS [BioCIS](https://www.pamir.fr/reseau/biocis/) lab (2023) I worked with a team of two professors and a PhD student on a project to develop a new method to quantify the novelty of a compound.
-
-![sensibility](./assets/projects/stage/sensibility1.png)
-
-> This is an extract of the results of the sensibility analysis of the confidence function regarding a parameter.
-
-I mainly worked on :
-- Analysis of indices (Tanimoto and Modified Cosine) definition and implementation by different tools
-- Analysis of fingerprints generation methods (such as Morgan Fingerprints)
-- Sensibility analysis of a confidence function
-- Proposal of a function to quantify novelty of a compound
-
-![senstivity](./assets/projects/stage/sensibility2.png)
-
-> This is antoher extract of the results of the sensibility analysis. The full work is available in the resources of the project.
-
 #### Personal Projects
 ##### CHIME : Molecule to Taxonomy ML Model (2024)
 CHIME is an application that allows chemists to predict the taxonomic group of a compound based on its SMILES representation.
@@ -100,6 +82,24 @@ The project is based on different techniques such as:
 - Gradient Boosting Trees (XGBoost)
 - Support Vector Machines (SVM)
 
+#### Research Projects
+##### Research Assistant (2023)
+As an intern at the CNRS [BioCIS](https://www.pamir.fr/reseau/biocis/) lab (2023) I worked with a team of two professors and a PhD student on a project to develop a new method to quantify the novelty of a compound.
+
+![sensibility](./assets/projects/stage/sensibility1.png)
+
+> This is an extract of the results of the sensibility analysis of the confidence function regarding a parameter.
+
+I mainly worked on :
+- Analysis of indices (Tanimoto and Modified Cosine) definition and implementation by different tools
+- Analysis of fingerprints generation methods (such as Morgan Fingerprints)
+- Sensibility analysis of a confidence function
+- Proposal of a function to quantify novelty of a compound
+
+![senstivity](./assets/projects/stage/sensibility2.png)
+
+> This is antoher extract of the results of the sensibility analysis. The full work is available in the resources of the project.
+
 #### Academic Projects
 ##### Crowdfunding Campaign Success Prediction (2024)
 In this project with a team of 2 students, we aimed to predict the success of a crowdfunding campaign based on several features such as the category of the project, the goal, the duration etc.
@@ -117,12 +117,18 @@ We anylized more deeply the context of crowdfunding campaigns and the impact of 
 ##### FALL-E : Fall Detection System (2022)
 I constructed a first prototype of a fall detection system based on a inertial measurement unit (IMU) and an analysis of the signal with metrics such as the Head Injury Criterion (HIC) and the Fall Index (FI).
 
+![FALL-E](./assets/projects/TIPE/casque.png)
+
 The system was able to correctly detect falls from a circuit motorbike online dataset and a home made cyclist databse.
+
+![FALL-E](./assets/projects/TIPE/HIC.png)
 
 ##### Phytoextraction : Using Plants to Clean Radioactive Soil (2018)
 As a High School student, I worked with 14 other students and three teachers on a project to clean radioactive soil with plants, after having met with Fukushima students.
 
-We worked with the [CEA](https://www.cea.fr/) and the [IRSN](https://www.irsn.fr/) to grow cesium-135 contaminated plants and measure the amount of cesium absorbed by the plants using mass spectrometry.
+We worked with the [CEA](https://www.cea.fr/) and the [IRSN](https://www.irsn.fr/) to grow cesium-133 contaminated plants and measure the amount of cesium absorbed by the plants using mass spectrometry.
+
+![Phytoextraction](./assets/projects/club/concentration.png)
 
 With two other students, we presented the results of our research before three professional juries at the national CGénial competition and won the first prize.
 
