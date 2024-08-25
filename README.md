@@ -54,11 +54,19 @@ My main responsibilities were:
 ##### Research Assistant (2023)
 As an intern at the CNRS [BioCIS](https://www.pamir.fr/reseau/biocis/) lab (2023) I worked with a team of two professors and a PhD student on a project to develop a new method to quantify the novelty of a compound.
 
+![sensibility](./assets/projects/stage/sensibility1.png)
+
+> This is an extract of the results of the sensibility analysis of the confidence function regarding a parameter.
+
 I mainly worked on :
 - Analysis of indices (Tanimoto and Modified Cosine) definition and implementation by different tools
 - Analysis of fingerprints generation methods (such as Morgan Fingerprints)
 - Sensibility analysis of a confidence function
 - Proposal of a function to quantify novelty of a compound
+
+![senstivity](./assets/projects/stage/sensibility2.png)
+
+> This is antoher extract of the results of the sensibility analysis. The full work is available in the resources of the project.
 
 #### Personal Projects
 ##### CHIME : Molecule to Taxonomy ML Model (2024)
