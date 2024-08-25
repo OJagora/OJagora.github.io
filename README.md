@@ -1,17 +1,15 @@
 # Data Science and Management Student
 
 ### Education
-- Master of Science in Engineering, Specialized in 
+- **Master of Science in Engineering**, 
+    Specialized in Data Science 
 
-        Data Science Télécom Paris 
-        
-    (2022-2025)
+    > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
+    
 
-- Management and Innovation 
+- **Management and Digital Innovation** 
 
-        Sciences Po Paris 
-        
-    (2024-2025)
+    > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
 
 ### Work Experience
 President (2023-2024) of the Junior Entreprise of Telecom Paris --> Telecom Etude
