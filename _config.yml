@@ -1,4 +1,7 @@
 title: Octave Jagora
-#logo : /assets/img/profile_picture
+logo : /assets/img/photo_octave.jpg
 description: test text
 theme: jekyll-theme-minimal
+
+# we change the background color of the header
+header_background: '#333'
