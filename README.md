@@ -5,12 +5,12 @@
 - [Work Experience](#work-experience)
 - [Projects](#projects)
     - [Professional Projects](#professional-projects)
-        - [Lead Tech Project Manager for a private Company](#lead-tech-project-manager-for-a-private-company-2023-2024)
+        - [Lead Tech Projects Manager](#lead-tech-projects-manager-2023-2024)
     - [Research Projects](#research-projects)
-        - [Research Assistant at the CNRS BioCIS lab](#research-assistant-at-the-cnrs-biocis-lab-2023)
+        - [Research Assistant](#research-assistant-2023)
     - [Personal Projects](#personal-projects)
-        - [CHIME : Molecule to Taxonomy ML Model](#chime)
-        - [MRB : Molecular Graph Learning](#mrb)
+        - [CHIME : Molecule to Taxonomy ML Model](#chime--molecule-to-taxonomy-ml-model-2024)
+        - [MRB : Molecular Graph Deep Learning](#mrb--molecular-graph-deep-learning-2024)
     - [Academic Projects](#academic-projects)
         - [Crowdfunding Campaign Success Prediction](#crowdfunding-campaign-success-prediction-2024)
         - [FALL-E : Fall Detection System](#fall-e--fall-detection-system-2022)
@@ -61,16 +61,16 @@ I mainly worked on :
 - Proposal of a function to quantify novelty of a compound
 
 #### Personal Projects
-##### CHIME (2024)
+##### CHIME : Molecule to Taxonomy ML Model(2024)
 CHIME is an application that allows chemists to predict the taxonomic group of a compound based on its SMILES representation.
 
 The application is based on a **SVM model** trained on *libsvm* with a dataset of 270k compounds.
 
 The use of **SHAP values** allows to explain the model's predictions by highlighting the most important features in a similarity map of the compound.
 
-#### MRB (2024)
+#### MRB : Molecular Graph Deep Learning  (2024)
 
-![MRB](/assets/project/MRB/lotus_cluster_zoom1.png)
+![MRB](./assets/projects/MRB/lotus_cluster_zoom1.png)
 
 MRB is a work in progress personal research project that aims to benchmark the different representations of molecules in the context of a **similarity search**.
 
