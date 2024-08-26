@@ -38,17 +38,15 @@ President (2023-2024) of the Junior Entreprise of Telecom Paris : [Telecom Etude
 ### Projects
 #### Professional Projects
 ##### Lead Tech Projects Manager (2023-2024)
-I was the Lead Tech Projects Manager for a private Company.
-My main responsibilities were:
+I was the Lead Tech Projects Manager for a private Company in the Plastic Recycling Industry. Our goal was to develop a suite of products to enable the company to tackle the challenges of recycling plastic waste logistics in foreign countries.
 
-- Managed a team of 10 people
-- Primary tech contact for the client and its partners
-- Supervised the development of four products :
-    - A **mobile application**
-    - A **web application**, its **API** and its **database**
-    - Two **ML models**
-    - A **GPS tracking system**
-- In charge of a 30k€ budget and a 1-year deadline
+![info](./assets/other/infographie_gp.png)
+
+Our efforts were focused on the development of 4 main products:
+
+![products](./assets/other/products_gp.png)
+
+Today, the project is still ongoing, led by my successor, and the company is planning to launch the first product in the coming months.
 
 #### Personal Projects
 ##### CHIME : Molecule to Taxonomy ML Model (2024)
@@ -61,6 +59,8 @@ CHIME is an application that allows chemists to predict the taxonomic group of a
 The application is based on a **SVM model** trained on *libsvm* with a dataset of 270k compounds.
 
 The use of **SHAP values** allows to explain the model's predictions by highlighting the most important features in a similarity map of the compound.
+
+This tool enable researchers to understand what features of a molecule a caracteristic of a taxonomic group, allowing them do better predict the structure of new compounds.
 
 ![Visualisations](./assets/projects/CHIME/mean_fingerprints_170_cool.png)
 
@@ -82,6 +82,8 @@ The project is based on different techniques such as:
 - Gradient Boosting Trees (XGBoost)
 - Support Vector Machines (SVM)
 
+The goal is to understand the impact of the representation of a molecule on the prediction of activity of a compound.
+
 #### Research Projects
 ##### Research Assistant (2023)
 As an intern at the CNRS [BioCIS](https://www.pamir.fr/reseau/biocis/) lab (2023) I worked with a team of two professors and a PhD student on a project to develop a new method to quantify the novelty of a compound.
@@ -95,6 +97,8 @@ I mainly worked on :
 - Analysis of fingerprints generation methods (such as Morgan Fingerprints)
 - Sensibility analysis of a confidence function
 - Proposal of a function to quantify novelty of a compound
+
+Currently, the project is still ongoing and the team is working on the publication of the results that will be presented at the end of the year (2024).
 
 ![senstivity](./assets/projects/stage/sensibility2.png)
 
@@ -114,6 +118,8 @@ We anylized more deeply the context of crowdfunding campaigns and the impact of 
 
 ![Crowdfunding](./assets/projects/Crowdfunding/impact.png)
 
+> For example, this graph illustrate the importance of raising money during the first quarter of the campaign. We can see that the probability of success is almost two to three times higher per percentage of the goal raised during the first quarter. **When a project raises 20% of its goal during the first quarter, the probability of success in the end is of 50%.**
+
 ##### FALL-E : Fall Detection System (2022)
 I constructed a first prototype of a fall detection system based on a inertial measurement unit (IMU) and an analysis of the signal with metrics such as the Head Injury Criterion (HIC) and the Fall Index (FI).
 
@@ -123,12 +129,18 @@ The system was able to correctly detect falls from a circuit motorbike online da
 
 ![FALL-E](./assets/projects/TIPE/HIC.png)
 
+**This system could be miniaturized and integrated into a helmet to detect falls in real time and alert the emergency services in case of an accident.** 
+
+The algorithm used enables to tailor the detection based on the mean of transportation : bike, scooter, ski etc.
+
 ##### Phytoextraction : Using Plants to Clean Radioactive Soil (2018)
 As a High School student, I worked with 14 other students and three teachers on a project to clean radioactive soil with plants, after having met with Fukushima students.
 
 We worked with the [CEA](https://www.cea.fr/) and the [IRSN](https://www.irsn.fr/) to grow cesium-133 contaminated plants and measure the amount of cesium absorbed by the plants using mass spectrometry.
 
 ![Phytoextraction](./assets/projects/club/concentration.png)
+
+> This is a Table of the concentration of cesium in the plants after 3 weeks of growth. We calculated the *Transfer Factor* of cesium in the plants to measure the capcity of plants to absorb the radioactive element present in the soil and store it in their tissues.
 
 With two other students, we presented the results of our research before three professional juries at the national CGénial competition and won the first prize.
 
