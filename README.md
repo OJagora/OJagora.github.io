@@ -1,5 +1,17 @@
 # Data Science and Management Student
 
+### Education
+- **Master of Science in Engineering**, 
+    Specialized in Data Science 
+
+    > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
+    
+
+- **Master in Management and Digital Innovation** 
+
+    > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
+
+
 ## Table of Contents
 - [Education](#education)
 - [Work Experience](#work-experience)
@@ -15,17 +27,6 @@
         - [Crowdfunding Campaign Success Prediction](#crowdfunding-campaign-success-prediction-2024)
         - [FALL-E : Fall Detection System](#fall-e--fall-detection-system-2022)
         - [Phytoextraction : Using Plants to Clean Radioactive Soil](#phytoextraction--using-plants-to-clean-radioactive-soil-2018)
-
-### Education
-- **Master of Science in Engineering**, 
-    Specialized in Data Science 
-
-    > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
-    
-
-- **Master in Management and Digital Innovation** 
-
-    > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
 
 ### Work Experience
 President (2023-2024) of the Junior Entreprise of Telecom Paris : [Telecom Etude](https://telecom-etude.fr/)
@@ -127,7 +128,7 @@ I constructed a first prototype of a fall detection system based on a inertial m
 
 The system was able to correctly detect falls from a circuit motorbike online dataset and a home made cyclist databse.
 
-![FALL-E](./assets/projects/TIPE/HIC.png)
+![FALL-E](./assets/projects/TIPE/hic.png)
 
 **This system could be miniaturized and integrated into a helmet to detect falls in real time and alert the emergency services in case of an accident.** 
 
