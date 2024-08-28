@@ -1,16 +1,11 @@
 # Data Science and Management Student
 
-### Education
-- **Master of Science in Engineering**, 
-    Specialized in Data Science 
+## Contacts
+*LinkedIn :
+ [Octave Jagora](www.linkedin.com/in/octave-jagora-474a08246)*
 
-    > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
-    
-
-- **Master in Management and Digital Innovation** 
-
-    > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
-
+*Mail :
+[octave.jagora@telecom-paris.fr](mailto:octave.jagora@telecom-paris.fr)*
 
 ## Table of Contents
 - [Education](#education)
@@ -27,6 +22,18 @@
         - [Crowdfunding Campaign Success Prediction](#crowdfunding-campaign-success-prediction-2024)
         - [FALL-E : Fall Detection System](#fall-e--fall-detection-system-2022)
         - [Phytoextraction : Using Plants to Clean Radioactive Soil](#phytoextraction--using-plants-to-clean-radioactive-soil-2018)
+
+
+### Education
+- **Master of Science in Engineering**, 
+    Specialized in Data Science 
+
+    > [Télécom Paris](https://www.telecom-paris.fr/en/home) (2022-2025) 
+    
+
+- **Master in Management and Digital Innovation** 
+
+    > [Sciences Po Paris](https://www.sciencespo.fr/en/) (2024-2025)
 
 ### Work Experience
 President (2023-2024) of the Junior Entreprise of Telecom Paris : [Telecom Etude](https://telecom-etude.fr/)
