@@ -1,6 +1,6 @@
 # Data Science and Management Student
 
-[Resume](./assets/resume/Octave%20Jagora%20Resume.pdf)
+[Resume Download](./assets/resume/Octave%20Jagora%20Resume.pdf)
 
 ## Contacts
 *LinkedIn :
