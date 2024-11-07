@@ -40,10 +40,12 @@
 ### Work Experience
 President (2023-2024) of the Junior Entreprise of Telecom Paris : [Telecom Etude](https://telecom-etude.fr/)
 - Led a team of 32 people
-- Supervised 23 projects with 15 clients of different sizes and sectors
+- Supervised 23 technical projects with 15 clients of different sizes and sectors
 - Managed a 100k€ budget
 - Conserved our ISO 9001 certification
 - Organized a Regional Congress with 400 participants
+
+![performance](./assets/other/performance.png)
 
 ### Projects
 #### Professional Projects
