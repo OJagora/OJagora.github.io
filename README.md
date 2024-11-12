@@ -1,4 +1,4 @@
-# Data Science and Management Student
+# Data Science Student
 
 [Resume Download](./assets/resume/Octave%20Jagora%20Resume.pdf)
 
