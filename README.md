@@ -110,7 +110,7 @@ I mainly worked on :
 - Sensibility analysis of a confidence function
 - Proposal of a function to quantify novelty of a compound
 
-Currently, the project is still ongoing and the team is working on the publication of the results that will be presented at the end of the year (2024).
+The final paper by the team was published septemeber 10th 2025 in **Chemistry Europe** and is available [here](https://doi.org/10.1002/cmtd.202400088)
 
 ![senstivity](./assets/projects/stage/sensibility2.png)
 
