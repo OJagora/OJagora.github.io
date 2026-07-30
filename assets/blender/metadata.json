@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "project": "Black Hole",
+            "date": "2024",
+            "title": "Interstellar Inspired Black Holes",
+            "rank": 3,
+            "artworks": ["black_hole test-2.png", "black_hole test-4.png", "black_hole test-5.png"]
+        },
+        {
+            "project": "Star Wars",
+            "date": "2025",
+            "title": "Star Wars Inspired Concept Art",
+            "rank": 2,
+            "artworks": ["planetv8.png", "planetv4.png", "groundv9.png"]
+        },
+        {
+            "project": "Nature",
+            "date": "2026",
+            "title": "Natural Landscape Study",
+            "rank": 1,
+            "artworks": ["untitled5.png"]
+        },
+        {
+            "project": "Lego",
+            "date": "2025",
+            "title": "LEGO Rendering",
+            "rank": 4,
+            "artworks": ["lego2.png", "lego3.png", "lego6.png"]
+        },
+        {
+            "project": "Japan",
+            "date": "2023",
+            "title": "Fantasy Landscape",
+            "rank": 5,
+            "artworks": ["final1png.png"]
+        },
+        {
+            "project": "Wall-E",
+            "date": "2024",
+            "title": "Wall-E Inspired Concept Art",
+            "rank": 6,
+            "artworks": ["rendu2.png"]
+        },
+        {
+            "project": "Underwater",
+            "date": "2024",
+            "title": "Underwater Scene",
+            "rank": 7,
+            "artworks": ["plastic.png"]
+        },
+        {
+            "project": "Strange",
+            "date": "2022",
+            "title": "Procedural Strange Design",
+            "rank": 8,
+            "artworks": ["stranged.png", "untitled2.jpg"]
+        },
+        {
+            "project": "Fire",
+            "date": "2021",
+            "title": "Fire Simulation",
+            "rank": 9,
+            "artworks": ["flame1.png"]
+        }
+    ]
+}
