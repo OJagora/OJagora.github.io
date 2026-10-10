@@ -1,0 +1,27 @@
+{
+  "index.html": {
+    "file": "assets/index-CS9IHHIh.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/AiEfficiencyPage.jsx",
+      "src/components/AiEfficiencyPage.jsx"
+    ],
+    "css": [
+      "assets/index-Np6gm6U5.css"
+    ]
+  },
+  "src/components/AiEfficiencyPage.jsx": {
+    "file": "assets/AiEfficiencyPage-CT8jo31M.js",
+    "name": "AiEfficiencyPage",
+    "src": "src/components/AiEfficiencyPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  }
+}

@@ -1,0 +1,1277 @@
+{
+  "aa-api": {
+    "title": "Artificial Analysis free language-model API snapshot",
+    "url": "https://artificialanalysis.ai/api/v2/language/models/free",
+    "type": "benchmark_api",
+    "retrieved_at": "2026-10-06T15:09:42.908Z",
+    "file": "aa-api-response.json",
+    "sha256": "ad2f478779e2052c0807ccbd28fb408a3d6bfd21d3ff8c88a758275b9584ba47",
+    "supports": [
+      "model_name",
+      "lab",
+      "release_date",
+      "intelligence_index",
+      "configuration",
+      "pricing",
+      "median_latency"
+    ],
+    "limitations": "Free tier omits architecture, estimation flag, per-evaluation results and token counts. Authentication key is not stored."
+  },
+  "aa-methodology": {
+    "title": "Artificial Analysis API documentation and index versioning",
+    "url": "https://artificialanalysis.ai/data-api/docs",
+    "type": "benchmark_methodology",
+    "retrieved_on": "2026-10-06",
+    "supports": [
+      "index_version"
+    ],
+    "note": "Current patch v4.3.2. API major.minor 4.3 verified separately."
+  },
+  "aa-tokens-methodology": {
+    "title": "Artificial Analysis intelligence benchmarking",
+    "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+    "type": "benchmark_methodology",
+    "retrieved_on": "2026-10-06",
+    "note": "Provider-reported benchmark tokens where available; weighted tasks and counts vary by evaluation. Prefill, attention, speculative work and grader compute are uncounted by our decode proxy."
+  },
+  "mistral-large-4-docs": {
+    "title": "Mistral Large 4 official documentation",
+    "url": "https://docs.mistral.ai/models/mistral-large",
+    "type": "official_documentation",
+    "retrieved_on": "2026-10-06",
+    "facts": {
+      "total_b": 1050,
+      "active_b": 52,
+      "vision_encoder_b": 1.6,
+      "context_window": 1000000
+    },
+    "note": "Technical docs now report 52B active; launch says 49B, also seen in earlier cached docs. Use 52B preferred with 49-52B discrepancy range. Total 1.05T and separate 1.6B vision. Provider endpoint context differs.",
+    "last_checked_on": "2026-10-08",
+    "supporting_source_id": "mistral-large-4-launch"
+  },
+  "mistral-large-4-launch": {
+    "title": "Mistral Large 4 launch announcement",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "type": "official_announcement",
+    "retrieved_on": "2026-10-06",
+    "note": "Preview available; weights announced for end of month. Weights not available at snapshot.",
+    "facts": {
+      "active_b": 49,
+      "total_b_marketing_rounding": 1000
+    },
+    "last_checked_on": "2026-10-07"
+  },
+  "google-gemma-3": {
+    "title": "Google Gemma 3 model card",
+    "url": "https://ai.google.dev/gemma/docs/core/model_card_3",
+    "type": "official_model_card",
+    "retrieved_on": "2026-10-06",
+    "facts": {
+      "dense_sizes_b": [
+        1,
+        4,
+        12,
+        27
+      ]
+    }
+  },
+  "meta-llama-4": {
+    "title": "Meta Llama 4 announcement",
+    "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+    "type": "official_announcement",
+    "retrieved_on": "2026-10-06",
+    "facts": {
+      "maverick": {
+        "total_b": 400,
+        "active_b": 17,
+        "experts": 128
+      },
+      "scout": {
+        "total_b": 109,
+        "active_b": 17,
+        "experts": 16
+      }
+    }
+  },
+  "aa-table-mimo-v2-6-pro-vs-glm-5-3": {
+    "title": "Artificial Analysis comparison: mimo-v2-6-pro-vs-glm-5-3",
+    "url": "https://artificialanalysis.ai/models/comparisons/mimo-v2-6-pro-vs-glm-5-3",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-kimi-k3-vs-inkling": {
+    "title": "Artificial Analysis comparison: kimi-k3-vs-inkling",
+    "url": "https://artificialanalysis.ai/models/comparisons/kimi-k3-vs-inkling",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-deepseek-v4-1-flash-vs-deepseek-v4-pro": {
+    "title": "Artificial Analysis comparison: deepseek-v4-1-flash-vs-deepseek-v4-pro",
+    "url": "https://artificialanalysis.ai/models/comparisons/deepseek-v4-1-flash-vs-deepseek-v4-pro",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-8-27b-vs-qwen3-6-27b": {
+    "title": "Artificial Analysis comparison: qwen3-8-27b-vs-qwen3-6-27b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-8-27b-vs-qwen3-6-27b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-gpt-oss-120b-vs-gpt-oss-20b": {
+    "title": "Artificial Analysis comparison: gpt-oss-120b-vs-gpt-oss-20b",
+    "url": "https://artificialanalysis.ai/models/comparisons/gpt-oss-120b-vs-gpt-oss-20b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-glm-5-3-flash-vs-glm-5-2": {
+    "title": "Artificial Analysis comparison: glm-5-3-flash-vs-glm-5-2",
+    "url": "https://artificialanalysis.ai/models/comparisons/glm-5-3-flash-vs-glm-5-2",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-minimax-m3-vs-minimax-m2-7": {
+    "title": "Artificial Analysis comparison: minimax-m3-vs-minimax-m2-7",
+    "url": "https://artificialanalysis.ai/models/comparisons/minimax-m3-vs-minimax-m2-7",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-nvidia-nemotron-3-ultra-550b-a55b-vs-nvidia-nemotron-3-super-120b-a12b": {
+    "title": "Artificial Analysis comparison: nvidia-nemotron-3-ultra-550b-a55b-vs-nvidia-nemotron-3-super-120b-a12b",
+    "url": "https://artificialanalysis.ai/models/comparisons/nvidia-nemotron-3-ultra-550b-a55b-vs-nvidia-nemotron-3-super-120b-a12b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-gemma-4-31b-vs-mistral-small-4": {
+    "title": "Artificial Analysis comparison: gemma-4-31b-vs-mistral-small-4",
+    "url": "https://artificialanalysis.ai/models/comparisons/gemma-4-31b-vs-mistral-small-4",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-deepseek-r1-0120-vs-deepseek-v3": {
+    "title": "Artificial Analysis comparison: deepseek-r1-0120-vs-deepseek-v3",
+    "url": "https://artificialanalysis.ai/models/comparisons/deepseek-r1-0120-vs-deepseek-v3",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-mistral-large-3-vs-gpt-oss-120b": {
+    "title": "Artificial Analysis comparison: mistral-large-3-vs-gpt-oss-120b",
+    "url": "https://artificialanalysis.ai/models/comparisons/mistral-large-3-vs-gpt-oss-120b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-kimi-k2-6-vs-kimi-k2-5": {
+    "title": "Artificial Analysis comparison: kimi-k2-6-vs-kimi-k2-5",
+    "url": "https://artificialanalysis.ai/models/comparisons/kimi-k2-6-vs-kimi-k2-5",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-glm-5-1-vs-glm-5": {
+    "title": "Artificial Analysis comparison: glm-5-1-vs-glm-5",
+    "url": "https://artificialanalysis.ai/models/comparisons/glm-5-1-vs-glm-5",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-mimo-v2-6-flash-vs-deepseek-v4-1-flash": {
+    "title": "Artificial Analysis comparison: mimo-v2-6-flash-vs-deepseek-v4-1-flash",
+    "url": "https://artificialanalysis.ai/models/comparisons/mimo-v2-6-flash-vs-deepseek-v4-1-flash",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-inkling-small-vs-inkling": {
+    "title": "Artificial Analysis comparison: inkling-small-vs-inkling",
+    "url": "https://artificialanalysis.ai/models/comparisons/inkling-small-vs-inkling",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-5-397b-a17b-vs-gpt-oss-120b": {
+    "title": "Artificial Analysis comparison: qwen3-5-397b-a17b-vs-gpt-oss-120b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-5-397b-a17b-vs-gpt-oss-120b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-gemma-3-27b-vs-gemma-3-12b": {
+    "title": "Artificial Analysis comparison: gemma-3-27b-vs-gemma-3-12b",
+    "url": "https://artificialanalysis.ai/models/comparisons/gemma-3-27b-vs-gemma-3-12b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-8-2-4t-a95b-vs-kimi-k3": {
+    "title": "Artificial Analysis comparison: qwen3-8-2-4t-a95b-vs-kimi-k3",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-8-2-4t-a95b-vs-kimi-k3",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-mistral-medium-3-5-vs-gemma-4-31b": {
+    "title": "Artificial Analysis comparison: mistral-medium-3-5-vs-gemma-4-31b",
+    "url": "https://artificialanalysis.ai/models/comparisons/mistral-medium-3-5-vs-gemma-4-31b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-5-122b-a10b-vs-gpt-oss-120b": {
+    "title": "Artificial Analysis comparison: qwen3-5-122b-a10b-vs-gpt-oss-120b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-5-122b-a10b-vs-gpt-oss-120b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-nvidia-nemotron-3-nano-30b-a3b-reasoning-vs-gpt-oss-20b": {
+    "title": "Artificial Analysis comparison: nvidia-nemotron-3-nano-30b-a3b-reasoning-vs-gpt-oss-20b",
+    "url": "https://artificialanalysis.ai/models/comparisons/nvidia-nemotron-3-nano-30b-a3b-reasoning-vs-gpt-oss-20b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-devstral-2-vs-devstral-small-2": {
+    "title": "Artificial Analysis comparison: devstral-2-vs-devstral-small-2",
+    "url": "https://artificialanalysis.ai/models/comparisons/devstral-2-vs-devstral-small-2",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-mimo-v2-5-pro-vs-kimi-k2-6": {
+    "title": "Artificial Analysis comparison: mimo-v2-5-pro-vs-kimi-k2-6",
+    "url": "https://artificialanalysis.ai/models/comparisons/mimo-v2-5-pro-vs-kimi-k2-6",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-5-9b-vs-gpt-oss-20b": {
+    "title": "Artificial Analysis comparison: qwen3-5-9b-vs-gpt-oss-20b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-5-9b-vs-gpt-oss-20b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-6-27b-vs-qwen3-6-35b-a3b": {
+    "title": "Artificial Analysis comparison: qwen3-6-27b-vs-qwen3-6-35b-a3b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-6-27b-vs-qwen3-6-35b-a3b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-deepseek-v4-flash-vs-deepseek-v4-pro": {
+    "title": "Artificial Analysis comparison: deepseek-v4-flash-vs-deepseek-v4-pro",
+    "url": "https://artificialanalysis.ai/models/comparisons/deepseek-v4-flash-vs-deepseek-v4-pro",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "aa-table-qwen3-8-flash-next-vs-qwen3-8-27b": {
+    "title": "Artificial Analysis comparison: qwen3-8-flash-next-vs-qwen3-8-27b",
+    "url": "https://artificialanalysis.ai/models/comparisons/qwen3-8-flash-next-vs-qwen3-8-27b",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-06",
+    "index_version": "4.3.2",
+    "note": "Manually read table. Tokens rounded to nearest 1k; benchmark-level results are rounded. Index score itself comes from saved API, not this rounded table."
+  },
+  "arch-mimo-v2-6-pro": {
+    "title": "Creator model card: XiaomiMiMo/MiMo-V2.6-Pro-RL",
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:48.917Z",
+    "revision": "73875d00b30a89ef8cc353a0b60b0e9f9561952d",
+    "readme_sha256": "bf373f444efcd309534804edd1fadadd1eb0ad64f7b0474c96fdac946614c13e",
+    "config_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/config.json",
+    "facts": {
+      "total_b": 1020,
+      "active_b": 42,
+      "parameter_status": "official"
+    },
+    "note": "Published backbone; checkpoint also contains modality encoders and prediction modules."
+  },
+  "arch-mimo-v2-6-flash": {
+    "title": "Creator model card: XiaomiMiMo/MiMo-V2.6-Flash-RL",
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL/blob/5711b268169967567844e1e560e8a3966da959b1/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:49.284Z",
+    "revision": "5711b268169967567844e1e560e8a3966da959b1",
+    "readme_sha256": "132596ea76492320f5283756015e3f696f289b87fcf38e4b71602a8c901b0557",
+    "config_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL/blob/5711b268169967567844e1e560e8a3966da959b1/config.json",
+    "facts": {
+      "total_b": 309,
+      "active_b": 15,
+      "parameter_status": "official"
+    },
+    "note": "Published backbone; checkpoint also contains modality encoders and prediction modules."
+  },
+  "arch-mimo-v2-5-pro": {
+    "title": "Creator model card: XiaomiMiMo/MiMo-V2.5-Pro",
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro/blob/21d1ecfecd7bd70f31be25ca49d7edd21f003659/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:49.666Z",
+    "revision": "21d1ecfecd7bd70f31be25ca49d7edd21f003659",
+    "readme_sha256": "5387cd822ba7b6e6570107bb9b265490cece72fd1c179da503f83243c8f1698f",
+    "config_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro/blob/21d1ecfecd7bd70f31be25ca49d7edd21f003659/config.json",
+    "facts": {
+      "total_b": 1020,
+      "active_b": 42,
+      "parameter_status": "official"
+    },
+    "note": "Published 1.02T total; auxiliary-module accounting differs from stored tensor total."
+  },
+  "arch-glm-5-3": {
+    "title": "Creator model card: zai-org/GLM-5.3",
+    "url": "https://huggingface.co/zai-org/GLM-5.3/blob/aca966e4e02791568aa6a4ced368624b3d897f42/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:50.036Z",
+    "revision": "aca966e4e02791568aa6a4ced368624b3d897f42",
+    "readme_sha256": "ed1c0a4563c437a32f8953d637a1db9bd831de1b24bd3062a5ace9e04340b1cf",
+    "config_url": "https://huggingface.co/zai-org/GLM-5.3/blob/aca966e4e02791568aa6a4ced368624b3d897f42/config.json",
+    "facts": {
+      "total_b": 753,
+      "active_b": 40,
+      "parameter_status": "independent_estimate"
+    },
+    "note": "AA size summary, corroborated by creator configuration. Card does not directly publish both counts; excluded from core. Same base as GLM-5.2 according to creator."
+  },
+  "arch-glm-5-3-flash": {
+    "title": "Creator model card: zai-org/GLM-5.3-Flash",
+    "url": "https://huggingface.co/zai-org/GLM-5.3-Flash/blob/eb9eb208eb0d988989d07a6a12d0fdeb5f52574a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:50.401Z",
+    "revision": "eb9eb208eb0d988989d07a6a12d0fdeb5f52574a",
+    "readme_sha256": "e6c5d41400e28f5a89418a0d15b09b9c113314a7553d40d7d4a8a72fcdb87d02",
+    "config_url": "https://huggingface.co/zai-org/GLM-5.3-Flash/blob/eb9eb208eb0d988989d07a6a12d0fdeb5f52574a/config.json",
+    "facts": {
+      "total_b": 320,
+      "active_b": 18,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts."
+  },
+  "arch-glm-5-2": {
+    "title": "Creator model card: zai-org/GLM-5.2",
+    "url": "https://huggingface.co/zai-org/GLM-5.2/blob/cf457fa734ab149ffef225f80893eb38c6ff5cdc/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:50.777Z",
+    "revision": "cf457fa734ab149ffef225f80893eb38c6ff5cdc",
+    "readme_sha256": "7ba22185651d8f69fbf6227ee718eb680fd834ec8e79ba78df6fa54896614b3d",
+    "config_url": "https://huggingface.co/zai-org/GLM-5.2/blob/cf457fa734ab149ffef225f80893eb38c6ff5cdc/config.json",
+    "facts": {
+      "total_b": 753,
+      "active_b": 40,
+      "parameter_status": "independent_estimate"
+    },
+    "note": "AA size summary, corroborated by creator configuration; excluded from core because both counts are not published on the card."
+  },
+  "arch-glm-5-1": {
+    "title": "Creator model card: zai-org/GLM-5.1",
+    "url": "https://huggingface.co/zai-org/GLM-5.1/blob/26e1bd6e011feb778d25ae34b09b07074139d92d/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:51.168Z",
+    "revision": "26e1bd6e011feb778d25ae34b09b07074139d92d",
+    "readme_sha256": "2cb148b732f596716f8c9366edf072e35746de6d06fe69c92301ddb492557077",
+    "config_url": "https://huggingface.co/zai-org/GLM-5.1/blob/26e1bd6e011feb778d25ae34b09b07074139d92d/config.json",
+    "facts": {
+      "total_b": 744,
+      "active_b": 40,
+      "parameter_status": "independent_estimate"
+    },
+    "note": "AA size summary, corroborated by creator configuration; excluded from core because both counts are not published on the card."
+  },
+  "arch-glm-5": {
+    "title": "Creator model card: zai-org/GLM-5",
+    "url": "https://huggingface.co/zai-org/GLM-5/blob/c183ef8c61faee82855eca1ed9bb3a9a7ce3b0b2/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:51.542Z",
+    "revision": "c183ef8c61faee82855eca1ed9bb3a9a7ce3b0b2",
+    "readme_sha256": "4f8859aa1e0585e25f4fc61b5c17b2c488c767f37f41231818bc065a865ceae7",
+    "config_url": "https://huggingface.co/zai-org/GLM-5/blob/c183ef8c61faee82855eca1ed9bb3a9a7ce3b0b2/config.json",
+    "facts": {
+      "total_b": 744,
+      "active_b": 40,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current index is marked estimated in the public comparison table."
+  },
+  "arch-glm-4-7": {
+    "title": "Creator model card: zai-org/GLM-4.7",
+    "url": "https://huggingface.co/zai-org/GLM-4.7/blob/602d01efcdd332c5238ca4bcede555defbe83eb7/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:52.064Z",
+    "revision": "602d01efcdd332c5238ca4bcede555defbe83eb7",
+    "readme_sha256": "ad072cbe81374f18149a107f2e1cbed93f27a6b220409a6bb34ba97a4d36757e",
+    "config_url": "https://huggingface.co/zai-org/GLM-4.7/blob/602d01efcdd332c5238ca4bcede555defbe83eb7/config.json",
+    "facts": {
+      "total_b": null,
+      "active_b": null,
+      "parameter_status": "unknown"
+    },
+    "note": "No model-specific active and total counts verified; do not inherit predecessor numbers."
+  },
+  "arch-glm-4.5": {
+    "title": "Creator model card: zai-org/GLM-4.5",
+    "url": "https://huggingface.co/zai-org/GLM-4.5/blob/cbb2c7cfb52fa128a9660cb1a7a78e017899e115/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:52.49Z",
+    "revision": "cbb2c7cfb52fa128a9660cb1a7a78e017899e115",
+    "readme_sha256": "b88456f5d679312860924870b8c557e578d18c7e3612b4f9d1ea22be38ea95c3",
+    "config_url": "https://huggingface.co/zai-org/GLM-4.5/blob/cbb2c7cfb52fa128a9660cb1a7a78e017899e115/config.json",
+    "facts": {
+      "total_b": 355,
+      "active_b": 32,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current-index measurement status not verified."
+  },
+  "arch-kimi-k3": {
+    "title": "Creator model card: moonshotai/Kimi-K3",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3/blob/f831ab66814297da540d832a5235f8e904f29d06/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:52.883Z",
+    "revision": "f831ab66814297da540d832a5235f8e904f29d06",
+    "readme_sha256": "57de265b5842dfa465c6e73b368b0e15a89b8793b5450528dad577da202cc6fe",
+    "config_url": "https://huggingface.co/moonshotai/Kimi-K3/blob/f831ab66814297da540d832a5235f8e904f29d06/config.json",
+    "facts": {
+      "total_b": 2800,
+      "active_b": 104,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published backbone; 896 routed experts, 16 selected plus 2 shared."
+  },
+  "arch-kimi-k2-6": {
+    "title": "Creator model card: moonshotai/Kimi-K2.6",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.6/blob/7eb5002f6aadc958aed6a9177b7ed26bb94011bb/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:53.255Z",
+    "revision": "7eb5002f6aadc958aed6a9177b7ed26bb94011bb",
+    "readme_sha256": "95db3be1d0473e482c7aa901f237ad7af8bb7929625a777b27428081bb8ea9f7",
+    "config_url": "https://huggingface.co/moonshotai/Kimi-K2.6/blob/7eb5002f6aadc958aed6a9177b7ed26bb94011bb/config.json",
+    "facts": {
+      "total_b": 1000,
+      "active_b": 32,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published backbone; 384 routed experts, 8 selected plus 1 shared."
+  },
+  "arch-kimi-k2-5": {
+    "title": "Creator model card: moonshotai/Kimi-K2.5",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5/blob/4d01dfe0332d63057c186e0b262165819efb6611/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:53.629Z",
+    "revision": "4d01dfe0332d63057c186e0b262165819efb6611",
+    "readme_sha256": "1b04bed9c6c25894171c0ab5e0b4c4d57667698a654dbfd5a6c1649b922810a5",
+    "config_url": "https://huggingface.co/moonshotai/Kimi-K2.5/blob/4d01dfe0332d63057c186e0b262165819efb6611/config.json",
+    "facts": {
+      "total_b": 1000,
+      "active_b": 32,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current index is marked estimated in the public comparison table."
+  },
+  "arch-kimi-k2-thinking": {
+    "title": "Creator model card: moonshotai/Kimi-K2-Thinking",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking/blob/a51ccc050d73dab088bf7b0e2dd9b30ae85a4e55/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:54.073Z",
+    "revision": "a51ccc050d73dab088bf7b0e2dd9b30ae85a4e55",
+    "readme_sha256": "8343341da86d2a74ee576768ea2f8c0be2d3e9cf1cb51838a794581e7a1466cd",
+    "config_url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking/blob/a51ccc050d73dab088bf7b0e2dd9b30ae85a4e55/config.json",
+    "facts": {
+      "total_b": 1000,
+      "active_b": 32,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current-index measurement status not verified."
+  },
+  "arch-deepseek-v4-1-flash": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V4.1-Flash",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/2cba9e42aa026125f3ed06c6d98c1db82f7ca027/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:54.452Z",
+    "revision": "2cba9e42aa026125f3ed06c6d98c1db82f7ca027",
+    "readme_sha256": "347c9db4e5506acb531cbc3b724407ab88e9af8781679152f0823d7bac16d251",
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/2cba9e42aa026125f3ed06c6d98c1db82f7ca027/config.json",
+    "facts": {
+      "total_b": 552,
+      "active_b": 16,
+      "parameter_status": "official"
+    },
+    "note": "16B during decode; 8B during prefill. Published 552B backbone excludes 196B Engram memory and vision/prediction modules. Resource proxy is explicitly decode-only."
+  },
+  "arch-deepseek-v4-pro": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V4-Pro",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/b5968e9190ef611bbf34a7229255be88a0e937c1/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:15:31.149Z",
+    "revision": "b5968e9190ef611bbf34a7229255be88a0e937c1",
+    "readme_sha256": null,
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/b5968e9190ef611bbf34a7229255be88a0e937c1/config.json",
+    "facts": {
+      "total_b": 1600,
+      "active_b": 49,
+      "parameter_status": "derived_from_official_architecture"
+    },
+    "note": "0813 card explicitly inherits preview model structure; preview card publishes 1.6T/49B. DSpark adds auxiliary inference work.",
+    "supporting_source_id": "original-deepseek-v4-pro"
+  },
+  "original-deepseek-v4-pro": {
+    "title": "Creator architecture: deepseek-ai/DeepSeek-V4-Pro",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/b5968e9190ef611bbf34a7229255be88a0e937c1/README.md",
+    "type": "creator_model_card",
+    "revision": "b5968e9190ef611bbf34a7229255be88a0e937c1",
+    "retrieved_at": "2026-10-06T15:15:31.149Z",
+    "facts": {
+      "total_b": 1600,
+      "active_b": 49
+    }
+  },
+  "arch-deepseek-v4-flash": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V4-Flash",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/60d8d70770c6776ff598c94bb586a859a38244f1/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:15:31.522Z",
+    "revision": "60d8d70770c6776ff598c94bb586a859a38244f1",
+    "readme_sha256": null,
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/60d8d70770c6776ff598c94bb586a859a38244f1/config.json",
+    "facts": {
+      "total_b": 284,
+      "active_b": 13,
+      "parameter_status": "derived_from_official_architecture"
+    },
+    "note": "0731 card inherits preview/DSpark structure; preview card publishes 284B/13B. Auxiliary inference work remains uncounted.",
+    "supporting_source_id": "original-deepseek-v4-flash"
+  },
+  "original-deepseek-v4-flash": {
+    "title": "Creator architecture: deepseek-ai/DeepSeek-V4-Flash",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/60d8d70770c6776ff598c94bb586a859a38244f1/README.md",
+    "type": "creator_model_card",
+    "revision": "60d8d70770c6776ff598c94bb586a859a38244f1",
+    "retrieved_at": "2026-10-06T15:15:31.522Z",
+    "facts": {
+      "total_b": 284,
+      "active_b": 13
+    }
+  },
+  "arch-deepseek-v3-2-reasoning": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V3.2",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/blob/a7e62ac04ecb2c0a54d736dc46601c5606cf10a6/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:55.569Z",
+    "revision": "a7e62ac04ecb2c0a54d736dc46601c5606cf10a6",
+    "readme_sha256": "22b9f57e1ece2df27f9de0e71377e19481f7a6892eca8bc23e73fcdffe1d845c",
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/blob/a7e62ac04ecb2c0a54d736dc46601c5606cf10a6/config.json",
+    "facts": {
+      "total_b": null,
+      "active_b": null,
+      "parameter_status": "unknown"
+    },
+    "note": "Do not inherit V3 size without verifying the added sparse indexer accounting."
+  },
+  "arch-deepseek-r1-0120": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-R1",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1/blob/56d4cbbb4d29f4355bab4b9a39ccb717a14ad5ad/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:55.951Z",
+    "revision": "56d4cbbb4d29f4355bab4b9a39ccb717a14ad5ad",
+    "readme_sha256": "d26d26ddb518fee60c6c6bf7a708bd751b1619d93a4944f188143693d956c77f",
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-R1/blob/56d4cbbb4d29f4355bab4b9a39ccb717a14ad5ad/config.json",
+    "facts": {
+      "total_b": 671,
+      "active_b": 37,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes 671B backbone; AA total-size summary includes additional weights (685B)."
+  },
+  "arch-deepseek-v3": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V3",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/e815299b0bcbac849fa540c768ef21845365c9eb/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:56.305Z",
+    "revision": "e815299b0bcbac849fa540c768ef21845365c9eb",
+    "readme_sha256": "3739763a851074c810f1565f9823956f3a095231f8c591dd3c254581bdd3cf08",
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/e815299b0bcbac849fa540c768ef21845365c9eb/config.json",
+    "facts": {
+      "total_b": 671,
+      "active_b": 37,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published backbone; stored tensors also include auxiliary prediction layers."
+  },
+  "arch-deepseek-v3-0324": {
+    "title": "Creator model card: deepseek-ai/DeepSeek-V3-0324",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/blob/e9b33add76883f293d6bf61f6bd89b497e80e335/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:56.812Z",
+    "revision": "e9b33add76883f293d6bf61f6bd89b497e80e335",
+    "readme_sha256": "598c401e426453f87161fb90a7c28a62e395b023a683c43d0793bf0d45753ba9",
+    "config_url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/blob/e9b33add76883f293d6bf61f6bd89b497e80e335/config.json",
+    "facts": {
+      "total_b": null,
+      "active_b": null,
+      "parameter_status": "unknown"
+    },
+    "note": "No version-specific active count verified in the accessed card."
+  },
+  "arch-qwen3-8-2-4t-a95b": {
+    "title": "Creator model card: Qwen/Qwen3.8-2.4T-A95B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B/blob/207bd685a7e3696cfaff12ded7c6a7ea0f88c996/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:57.302Z",
+    "revision": "207bd685a7e3696cfaff12ded7c6a7ea0f88c996",
+    "readme_sha256": "7690c680c2d6eb284179ef5dd4db63260d248531cae9087b09b2c2200230f331",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B/blob/207bd685a7e3696cfaff12ded7c6a7ea0f88c996/config.json",
+    "facts": {
+      "total_b": 2400,
+      "active_b": 95,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published 2.4T/95B; backbone plus auxiliary modules differs from stored tensor count."
+  },
+  "arch-qwen3-8-flash-next": {
+    "title": "Creator model card: Qwen/Qwen3.8-Flash-Next",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next/blob/de4b8e4d43b917e7706784d8bb445c9af86a3540/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:57.69Z",
+    "revision": "de4b8e4d43b917e7706784d8bb445c9af86a3540",
+    "readme_sha256": "35ca37ccc366f1ba478dab33841a2c0c18ce53fd62f291ca05341f7728b225b2",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next/blob/de4b8e4d43b917e7706784d8bb445c9af86a3540/config.json",
+    "facts": {
+      "total_b": 125,
+      "active_b": 6,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes 125B backbone plus 51B n-gram embeddings and 4B MTP. Using 125B as backbone; alternative total 180B evaluated separately."
+  },
+  "arch-qwen3-8-27b": {
+    "title": "Creator model card: Qwen/Qwen3.8-27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B/blob/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:58.076Z",
+    "revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+    "readme_sha256": "57e4bdb258ee1a7d2635c5174ebd4e56abe392505cdb5f8bbb356b0dc4293641",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.8-27B/blob/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0/config.json",
+    "facts": {
+      "total_b": 27,
+      "active_b": 27,
+      "parameter_status": "official"
+    },
+    "note": "Published dense decoder size; modality encoders explain a larger checkpoint total."
+  },
+  "arch-qwen3-6-27b": {
+    "title": "Creator model card: Qwen/Qwen3.6-27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-27B/blob/6a9e13bd6fc8f0983b9b99948120bc37f49c13e9/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:58.459Z",
+    "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+    "readme_sha256": "bb936d6da51014f1edc9aa4cf9abf28d98695b7616ad56adfeeebfa752051d3d",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.6-27B/blob/6a9e13bd6fc8f0983b9b99948120bc37f49c13e9/config.json",
+    "facts": {
+      "total_b": 27,
+      "active_b": 27,
+      "parameter_status": "official"
+    },
+    "note": "Published dense decoder size; modality encoders explain a larger checkpoint total."
+  },
+  "arch-qwen3-6-35b-a3b": {
+    "title": "Creator model card: Qwen/Qwen3.6-35B-A3B",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/blob/995ad96eacd98c81ed38be0c5b274b04031597b0/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:58.857Z",
+    "revision": "995ad96eacd98c81ed38be0c5b274b04031597b0",
+    "readme_sha256": "c4ddaa065649ff6352648f64747a16eda31726f3e34add94ce04abb461c77b75",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/blob/995ad96eacd98c81ed38be0c5b274b04031597b0/config.json",
+    "facts": {
+      "total_b": 35,
+      "active_b": 3,
+      "parameter_status": "official"
+    },
+    "note": "Published 35B/3B backbone; AA size summary rounds complete checkpoint to 36B."
+  },
+  "arch-qwen3-5-397b-a17b": {
+    "title": "Creator model card: Qwen/Qwen3.5-397B-A17B",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B/blob/8472618112abcbd45acbcdc58436aff4233c23f7/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:59.247Z",
+    "revision": "8472618112abcbd45acbcdc58436aff4233c23f7",
+    "readme_sha256": "bda4b24e975f65ac677985306ddbad33362e65064637660654c8bb7dea7edf50",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B/blob/8472618112abcbd45acbcdc58436aff4233c23f7/config.json",
+    "facts": {
+      "total_b": 397,
+      "active_b": 17,
+      "parameter_status": "official"
+    },
+    "note": "Published backbone; checkpoint includes additional modules."
+  },
+  "arch-qwen3-5-122b-a10b": {
+    "title": "Creator model card: Qwen/Qwen3.5-122B-A10B",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B/blob/dc4d348443bc740c68e2d77492492c11606384d5/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:11:59.687Z",
+    "revision": "dc4d348443bc740c68e2d77492492c11606384d5",
+    "readme_sha256": "1775bb720398d6107cce3da0c3129abfd24ec639fd9853d5134df1e5c6118a4d",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B/blob/dc4d348443bc740c68e2d77492492c11606384d5/config.json",
+    "facts": {
+      "total_b": 122,
+      "active_b": 10,
+      "parameter_status": "official"
+    },
+    "note": "Published backbone; AA size summary counts complete checkpoint at 125B."
+  },
+  "arch-qwen3-5-27b": {
+    "title": "Creator model card: Qwen/Qwen3.5-27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-27B/blob/fc05daec18b0a78c049392ed2e771dde82bdf654/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:00.08Z",
+    "revision": "fc05daec18b0a78c049392ed2e771dde82bdf654",
+    "readme_sha256": "8c6303cd5e89dc378d11fb4b70a0ff9c3cccb55a031133c69d9cbde9481f1a8c",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.5-27B/blob/fc05daec18b0a78c049392ed2e771dde82bdf654/config.json",
+    "facts": {
+      "total_b": 27,
+      "active_b": 27,
+      "parameter_status": "official"
+    },
+    "note": "Published dense size; current-index measurement status not verified."
+  },
+  "arch-qwen3-5-9b": {
+    "title": "Creator model card: Qwen/Qwen3.5-9B",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-9B/blob/c202236235762e1c871ad0ccb60c8ee5ba337b9a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:00.482Z",
+    "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+    "readme_sha256": "c5f5a8c2dddab69cfbf05279235aa5fddb137939a06539c4c7637aa900fef6d0",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.5-9B/blob/c202236235762e1c871ad0ccb60c8ee5ba337b9a/config.json",
+    "facts": {
+      "total_b": 9,
+      "active_b": 9,
+      "parameter_status": "official"
+    },
+    "note": "Published dense size; complete checkpoint is about 9.7B."
+  },
+  "arch-qwen3-5-4b": {
+    "title": "Creator model card: Qwen/Qwen3.5-4B",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:01.017Z",
+    "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+    "readme_sha256": "1406be1b6b8fd8a6545870da516912804756593628a1d0fb0a7965211e82a7bb",
+    "config_url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/config.json",
+    "facts": {
+      "total_b": 4,
+      "active_b": 4,
+      "parameter_status": "official"
+    },
+    "note": "Published dense size; current-index measurement status not verified."
+  },
+  "arch-qwen3-235b-a22b-instruct-2507-reasoning": {
+    "title": "Creator model card: Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507/blob/6cbffae6d8e28b986a6b17bd36f42f9fa0f1f0a5/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:01.669Z",
+    "revision": "6cbffae6d8e28b986a6b17bd36f42f9fa0f1f0a5",
+    "readme_sha256": "9aa7860622381d0ca3ead2f16cc9ce52472b8effa3e9614ede6acdef008282d3",
+    "config_url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507/blob/6cbffae6d8e28b986a6b17bd36f42f9fa0f1f0a5/config.json",
+    "facts": {
+      "total_b": 235,
+      "active_b": 22,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current-index measurement status not verified."
+  },
+  "arch-qwen3-30b-a3b-2507-reasoning": {
+    "title": "Creator model card: Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507/blob/144afc2f379b542fdd4e85a1fcd5e1f79112d95d/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:02.13Z",
+    "revision": "144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+    "readme_sha256": "24d123759d1079f0132ba8fba1465eb8abe5883a0ca44ac70aaa58ddd8a52c84",
+    "config_url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507/blob/144afc2f379b542fdd4e85a1fcd5e1f79112d95d/config.json",
+    "facts": {
+      "total_b": 30.5,
+      "active_b": 3.3,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; current-index measurement status not verified."
+  },
+  "arch-gpt-oss-120b": {
+    "title": "Creator model card: openai/gpt-oss-120b",
+    "url": "https://huggingface.co/openai/gpt-oss-120b/blob/b5c939de8f754692c1647ca79fbf85e8c1e70f8a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:02.6Z",
+    "revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+    "readme_sha256": "92b0408cf5dce04e4c5e4e5f2be0361da710d3650baefd7d7519badd1c687919",
+    "config_url": "https://huggingface.co/openai/gpt-oss-120b/blob/b5c939de8f754692c1647ca79fbf85e8c1e70f8a/config.json",
+    "facts": {
+      "total_b": 117,
+      "active_b": 5.1,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts, High effort setting selected in advance."
+  },
+  "arch-gpt-oss-20b": {
+    "title": "Creator model card: openai/gpt-oss-20b",
+    "url": "https://huggingface.co/openai/gpt-oss-20b/blob/6cee5e81ee83917806bbde320786a8fb61efebee/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:02.958Z",
+    "revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+    "readme_sha256": "03c2fcf292549176757b85c911e7dcf527aef3e4241d64b6caec94af3ecf3ac2",
+    "config_url": "https://huggingface.co/openai/gpt-oss-20b/blob/6cee5e81ee83917806bbde320786a8fb61efebee/config.json",
+    "facts": {
+      "total_b": 21,
+      "active_b": 3.6,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts, High effort setting selected in advance."
+  },
+  "arch-minimax-m3": {
+    "title": "Creator model card: MiniMaxAI/MiniMax-M3",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3/blob/f0e1c1e04d40177e4673a22097036854f536e9c0/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:03.336Z",
+    "revision": "f0e1c1e04d40177e4673a22097036854f536e9c0",
+    "readme_sha256": "6148856dbf8be26dcf3f9b913be0252c38454e852108fdab01212fe965f3e327",
+    "config_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3/blob/f0e1c1e04d40177e4673a22097036854f536e9c0/config.json",
+    "facts": {
+      "total_b": 428,
+      "active_b": 23,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes approximate counts; rounding is not exact architecture certainty."
+  },
+  "arch-minimax-m2-7": {
+    "title": "Creator model card: MiniMaxAI/MiniMax-M2.7",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7/blob/d494266a4affc0d2995ba1fa35c8481cbd84294b/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:03.724Z",
+    "revision": "d494266a4affc0d2995ba1fa35c8481cbd84294b",
+    "readme_sha256": "2e871f2f502616c7168e4db41427c0d58c3906ba7357e73064a4564c93c33c62",
+    "config_url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7/blob/d494266a4affc0d2995ba1fa35c8481cbd84294b/config.json",
+    "facts": {
+      "total_b": 230,
+      "active_b": 10,
+      "parameter_status": "independent_estimate"
+    },
+    "note": "AA size summary; predecessor M2 matches broad architecture but no direct M2.7 counts verified. Excluded from core."
+  },
+  "arch-inkling": {
+    "title": "Creator model card: thinkingmachines/Inkling",
+    "url": "https://huggingface.co/thinkingmachines/Inkling/blob/828496eeae4c243ff1a22f7f28ff83694f2f7bc9/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:04.608Z",
+    "revision": "828496eeae4c243ff1a22f7f28ff83694f2f7bc9",
+    "readme_sha256": "8c976e47c2a9faa71436c0668a5daf8bc5d9a8bd5ecbca51c669d3b8ce98fe9a",
+    "config_url": "https://huggingface.co/thinkingmachines/Inkling/blob/828496eeae4c243ff1a22f7f28ff83694f2f7bc9/config.json",
+    "facts": {
+      "total_b": 975,
+      "active_b": 41,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; multimodal module accounting differs from HF tensor metadata."
+  },
+  "arch-inkling-small": {
+    "title": "Creator model card: thinkingmachines/Inkling-Small",
+    "url": "https://huggingface.co/thinkingmachines/Inkling-Small/blob/8cc5877b44d343f88b92086aa1fb72897950f06a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:05.059Z",
+    "revision": "8cc5877b44d343f88b92086aa1fb72897950f06a",
+    "readme_sha256": "2de45e1f0d8d387626aa063dccd54c1f519c21b2adec1c1fd597e451ae08d5db",
+    "config_url": "https://huggingface.co/thinkingmachines/Inkling-Small/blob/8cc5877b44d343f88b92086aa1fb72897950f06a/config.json",
+    "facts": {
+      "total_b": 276,
+      "active_b": 12,
+      "parameter_status": "official"
+    },
+    "note": "Creator card publishes 276B, while AA reports 266B and HF tensors about 266B. Store 266–276B range and run alternative accounting sensitivity."
+  },
+  "arch-nvidia-nemotron-3-ultra-550b-a55b": {
+    "title": "Creator model card: nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16/blob/77df655d5e9f8362164ed14dd8b48f8bce657498/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:05.499Z",
+    "revision": "77df655d5e9f8362164ed14dd8b48f8bce657498",
+    "readme_sha256": "8ac2780e2662ac579b68f2a228f566839f8b1608ac39ee6bde29f2580a08dcec",
+    "config_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16/blob/77df655d5e9f8362164ed14dd8b48f8bce657498/config.json",
+    "facts": {
+      "total_b": 550,
+      "active_b": 55,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published hybrid Mamba/attention/LatentMoE counts."
+  },
+  "arch-nvidia-nemotron-3-super-120b-a12b": {
+    "title": "Creator model card: nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/blob/2dc98e2afe4face0e4ce40972a915c45368bd34a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:06.027Z",
+    "revision": "2dc98e2afe4face0e4ce40972a915c45368bd34a",
+    "readme_sha256": "cade76c064eda90d4f53e12614f45816ae6cfe43dacc8a9410abcc2fc7a17e59",
+    "config_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/blob/2dc98e2afe4face0e4ce40972a915c45368bd34a/config.json",
+    "facts": {
+      "total_b": 120,
+      "active_b": 12,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes 120B/12B; AA summary uses 120.6B/12.7B. Test alternative accounting."
+  },
+  "arch-nvidia-nemotron-3-nano-30b-a3b-reasoning": {
+    "title": "Creator model card: nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16/blob/bf77c3174f68ad409e1c2aa60daeb46e32d1c606/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:06.406Z",
+    "revision": "bf77c3174f68ad409e1c2aa60daeb46e32d1c606",
+    "readme_sha256": "faec6eef185d9993d92a0f03c6ad872381bf252b21699bf5b3ecb52fdeac112b",
+    "config_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16/blob/bf77c3174f68ad409e1c2aa60daeb46e32d1c606/config.json",
+    "facts": {
+      "total_b": 30,
+      "active_b": 3.5,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes 30B total and 3.5B active, instead of AA's 31.6B/3.6B."
+  },
+  "arch-mistral-large-3": {
+    "title": "Creator model card: mistralai/Mistral-Large-3-675B-Instruct-2512",
+    "url": "https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512/blob/383ffea2c7d60dfd44ca960e8e691709d4fdb9cd/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:06.777Z",
+    "revision": "383ffea2c7d60dfd44ca960e8e691709d4fdb9cd",
+    "readme_sha256": "8f8882191b7bc0e2a348b2f85b35180bc213f4c15da17e8028c8b5cb7a25cb5a",
+    "config_url": "https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512/blob/383ffea2c7d60dfd44ca960e8e691709d4fdb9cd/config.json",
+    "facts": {
+      "total_b": 675,
+      "active_b": 41,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published counts; non-reasoning configuration."
+  },
+  "arch-mistral-medium-3-5": {
+    "title": "Creator model card: mistralai/Mistral-Medium-3.5-128B",
+    "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/blob/22b2b868a15677cfa6061277ed2f653d1349a9ab/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:07.136Z",
+    "revision": "22b2b868a15677cfa6061277ed2f653d1349a9ab",
+    "readme_sha256": "6d14ac4dba5a4c8b3d652ea67742ee1b41e424772194b8088cd62603d5032465",
+    "config_url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/blob/22b2b868a15677cfa6061277ed2f653d1349a9ab/config.json",
+    "facts": {
+      "total_b": 128,
+      "active_b": 128,
+      "parameter_status": "official"
+    },
+    "note": "Creator explicitly labels Dense 128B."
+  },
+  "arch-mistral-small-4": {
+    "title": "Creator model card: mistralai/Mistral-Small-4-119B-2603",
+    "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603/blob/a11f36bebf709121056b1dbcc943d1c6afbe494d/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:07.522Z",
+    "revision": "a11f36bebf709121056b1dbcc943d1c6afbe494d",
+    "readme_sha256": "243f9d4f6cdb5644ca93d34d2e002822cb946803a6a7e3aed39b56d6ceeb1996",
+    "config_url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603/blob/a11f36bebf709121056b1dbcc943d1c6afbe494d/config.json",
+    "facts": {
+      "total_b": 119,
+      "active_b": 6.5,
+      "parameter_status": "official"
+    },
+    "note": "Creator publishes 128 routed experts and 4 active."
+  },
+  "arch-devstral-2": {
+    "title": "Creator model card: mistralai/Devstral-2-123B-Instruct-2512",
+    "url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512/blob/1613bf01adb5e1c6fdc196b46e6b173eae75eb4a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:07.897Z",
+    "revision": "1613bf01adb5e1c6fdc196b46e6b173eae75eb4a",
+    "readme_sha256": "360b600b7d9aeaa3509590d0473e7cdcc7d0490ced278535e6639b87003fb54b",
+    "config_url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512/blob/1613bf01adb5e1c6fdc196b46e6b173eae75eb4a/config.json",
+    "facts": {
+      "total_b": 123,
+      "active_b": 123,
+      "parameter_status": "official"
+    },
+    "note": "Creator table publishes 123B dense size, instead of AA checkpoint summary 125B."
+  },
+  "arch-mistral-small-3-1": {
+    "title": "Creator model card: mistralai/Mistral-Small-3.1-24B-Instruct-2503",
+    "url": "https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503/blob/68faf511d618ef198fef186659617cfd2eb8e33a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:08.255Z",
+    "revision": "68faf511d618ef198fef186659617cfd2eb8e33a",
+    "readme_sha256": "68effd5695d7053fa8153feedaaae529ce10bd6481f86dad76374a59de3592e6",
+    "config_url": "https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503/blob/68faf511d618ef198fef186659617cfd2eb8e33a/config.json",
+    "facts": {
+      "total_b": 24,
+      "active_b": 24,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published 24B dense size; current-index measurement status not verified."
+  },
+  "arch-gemma-4-31b": {
+    "title": "Creator model card: google/gemma-4-31B-it",
+    "url": "https://huggingface.co/google/gemma-4-31B-it/blob/842da3794eaa0b77d5f08bae87a17459d91ff475/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:08.644Z",
+    "revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+    "readme_sha256": "e209f5c435b1e66055bd6d7c29185103ae8d2027a03a96b359335154f206b82b",
+    "config_url": "https://huggingface.co/google/gemma-4-31B-it/blob/842da3794eaa0b77d5f08bae87a17459d91ff475/config.json",
+    "facts": {
+      "total_b": 30.7,
+      "active_b": 30.7,
+      "parameter_status": "official"
+    },
+    "note": "Creator model-card table publishes 30.7B dense language backbone; vision encoder separate."
+  },
+  "arch-gemma-3-27b": {
+    "title": "Creator model card: google/gemma-3-27b-it",
+    "url": "https://huggingface.co/google/gemma-3-27b-it/blob/005ad3404e59d6023443cb575daa05336842228a/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:09.044Z",
+    "revision": "005ad3404e59d6023443cb575daa05336842228a",
+    "readme_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "config_url": "https://huggingface.co/google/gemma-3-27b-it/blob/005ad3404e59d6023443cb575daa05336842228a/config.json",
+    "facts": {
+      "total_b": 27,
+      "active_b": 27,
+      "parameter_status": "official"
+    },
+    "note": "Google model card publishes dense 27B size; AA reports checkpoint 27.4B.",
+    "supporting_source_id": "google-gemma-3"
+  },
+  "arch-gemma-3-12b": {
+    "title": "Creator model card: google/gemma-3-12b-it",
+    "url": "https://huggingface.co/google/gemma-3-12b-it/blob/96b6f1eccf38110c56df3a15bffe176da04bfd80/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:09.364Z",
+    "revision": "96b6f1eccf38110c56df3a15bffe176da04bfd80",
+    "readme_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "config_url": "https://huggingface.co/google/gemma-3-12b-it/blob/96b6f1eccf38110c56df3a15bffe176da04bfd80/config.json",
+    "facts": {
+      "total_b": 12,
+      "active_b": 12,
+      "parameter_status": "official"
+    },
+    "note": "Google model card publishes dense 12B size; AA reports checkpoint 12.2B.",
+    "supporting_source_id": "google-gemma-3"
+  },
+  "arch-phi-4": {
+    "title": "Creator model card: microsoft/phi-4",
+    "url": "https://huggingface.co/microsoft/phi-4/blob/2db69c1c3e91a05d2c64a3185acfbaf36f744e25/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:09.716Z",
+    "revision": "2db69c1c3e91a05d2c64a3185acfbaf36f744e25",
+    "readme_sha256": "4cc56faa6a5bcbde6227789b2ef9aedfde481ca660c8a4b686703aae19b00011",
+    "config_url": "https://huggingface.co/microsoft/phi-4/blob/2db69c1c3e91a05d2c64a3185acfbaf36f744e25/config.json",
+    "facts": {
+      "total_b": 14,
+      "active_b": 14,
+      "parameter_status": "official"
+    },
+    "note": "Creator explicitly publishes 14B dense decoder; current-index measurement status not verified."
+  },
+  "arch-llama-4-maverick": {
+    "title": "Creator model card: meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+    "url": "https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct/blob/73d14711bcc77c16df3470856949c3764056b617/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:10.062Z",
+    "revision": "73d14711bcc77c16df3470856949c3764056b617",
+    "readme_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "config_url": "https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct/blob/73d14711bcc77c16df3470856949c3764056b617/config.json",
+    "facts": {
+      "total_b": 400,
+      "active_b": 17,
+      "parameter_status": "official"
+    },
+    "note": "Meta announcement publishes 400B total/17B active, 128 experts; current-index measurement status not verified.",
+    "supporting_source_id": "meta-llama-4"
+  },
+  "arch-llama-4-scout": {
+    "title": "Creator model card: meta-llama/Llama-4-Scout-17B-16E-Instruct",
+    "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct/blob/92f3b1597a195b523d8d9e5700e57e4fbb8f20d3/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:12:10.425Z",
+    "revision": "92f3b1597a195b523d8d9e5700e57e4fbb8f20d3",
+    "readme_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "config_url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct/blob/92f3b1597a195b523d8d9e5700e57e4fbb8f20d3/config.json",
+    "facts": {
+      "total_b": 109,
+      "active_b": 17,
+      "parameter_status": "official"
+    },
+    "note": "Meta announcement publishes 109B total/17B active, 16 experts; current-index measurement status not verified.",
+    "supporting_source_id": "meta-llama-4"
+  },
+  "arch-devstral-small-2": {
+    "title": "Creator model card: mistralai/Devstral-Small-2-24B-Instruct-2512",
+    "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512/blob/55c5b41e98c2dbd21b0c8afffc540dcfc9eb5128/README.md",
+    "type": "creator_model_card",
+    "retrieved_at": "2026-10-06T15:15:31.911Z",
+    "revision": "55c5b41e98c2dbd21b0c8afffc540dcfc9eb5128",
+    "readme_sha256": null,
+    "config_url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512/blob/55c5b41e98c2dbd21b0c8afffc540dcfc9eb5128/config.json",
+    "facts": {
+      "total_b": 24,
+      "active_b": 24,
+      "parameter_status": "official"
+    },
+    "note": "Creator-published compact dense 24B model."
+  },
+  "aa-closed-anthropic-openai": {
+    "retrieved_on": "2026-10-06",
+    "note": "Unstarred scores and complete ten-evaluation table manually checked. API supplies precise scores.",
+    "index_version": "4.3.2",
+    "url": "https://artificialanalysis.ai/models/comparisons/claude-opus-5-5-vs-gpt-6-astra",
+    "title": "Artificial Analysis: Claude Opus 5.5 vs GPT-6 Astra",
+    "type": "benchmark_public_table"
+  },
+  "aa-closed-google": {
+    "retrieved_on": "2026-10-06",
+    "note": "Unstarred scores and complete ten-evaluation table manually checked. API supplies precise scores.",
+    "index_version": "4.3.2",
+    "url": "https://artificialanalysis.ai/models/comparisons/gemini-4-argon-vs-gpt-6-astra",
+    "title": "Artificial Analysis: Gemini 4 Argon vs GPT-6 Astra",
+    "type": "benchmark_public_table"
+  },
+  "training-deepseek-v3": {
+    "title": "DeepSeek-V3 Technical Report, Table 1 and introduction",
+    "url": "https://arxiv.org/html/2412.19437v2",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "14.8T pretraining tokens; 2.664M H800 pretraining GPU-hours, 119K context-extension GPU-hours, 5K posttraining GPU-hours, 2.788M total; 2,048 H800 GPUs for the pretraining cluster; prior research and ablation expenses excluded."
+  },
+  "training-deepseek-v4-1-flash": {
+    "title": "DeepSeek-V4.1-Flash technical report, abstract and section 4.2.2",
+    "url": "https://arxiv.org/html/2609.19969v1",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "45T multimodal pretraining tokens; 8B parameters activated during prefill and 16B during decode. Vision-encoder preparation and subsequent posttraining are separate stages."
+  },
+  "training-gpt-oss": {
+    "title": "OpenAI gpt-oss-120b and gpt-oss-20b Model Card, section 2.4",
+    "url": "https://arxiv.org/html/2508.10925v1",
+    "type": "creator_model_card",
+    "retrieved_on": "2026-10-07",
+    "facts": "The gpt-oss-120b training run required 2.1 million H100-hours; gpt-oss-20b required almost 10 times fewer. Exact training-token counts and stage-by-stage posttraining compute are not given."
+  },
+  "training-gemma-3": {
+    "title": "Google Gemma 3 Technical Report, Table 2 and section 2.2",
+    "url": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "27B model: 14T tokens on 6,144 TPU v5p chips. 12B model: 12T tokens on 6,144 TPU v4 chips. Pretraining uses knowledge distillation, with a frozen shared vision encoder."
+  },
+  "training-nemotron-3-nano": {
+    "title": "NVIDIA Nemotron 3 Nano technical report, abstract and section 2.3",
+    "url": "https://arxiv.org/html/2512.20848v1",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "Nemotron 3 Nano 30B-A3B pretraining uses 25T text tokens, followed by supervised finetuning and reinforcement learning."
+  },
+  "training-nemotron-3-super": {
+    "title": "NVIDIA Nemotron 3 Super technical report, abstract and pretraining section",
+    "url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "25T text tokens: 20T broad-coverage and 5T higher-quality pretraining, using NVFP4. Context extension and posttraining follow."
+  },
+  "training-nemotron-3-ultra": {
+    "title": "NVIDIA Nemotron 3 Ultra technical report, abstract and pretraining section",
+    "url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+    "type": "creator_technical_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "20T text tokens: 15T broad-coverage and 5T higher-quality NVFP4 pretraining, followed by context extension and posttraining with more than ten specialized teacher models."
+  },
+  "training-llama-4": {
+    "title": "Meta Llama 4 creator model card, Hardware and Software and Training Data",
+    "url": "https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+    "type": "creator_model_card",
+    "retrieved_on": "2026-10-07",
+    "facts": "Maverick: approximately 22T tokens and 2.38M H100-80GB GPU-hours. Scout: approximately 40T tokens and 5.0M H100-80GB GPU-hours. Figures describe pretraining."
+  },
+  "training-mistral-large-4": {
+    "title": "Mistral Large 4 launch: training infrastructure and reinforcement learning",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "type": "creator_launch_disclosure",
+    "retrieved_on": "2026-10-07",
+    "facts": "Trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral European datacenters. Reinforcement learning remained ongoing at preview launch. No complete GPU-hour/FLOP total or teacher-cost breakdown."
+  },
+  "training-mistral-duration": {
+    "title": "Euronews firsthand reporting from Mistral Large 4 press conference",
+    "url": "https://www.euronews.com/2026/10/06/what-to-know-about-mistrals-ml4-as-it-bets-on-eu-sovereignty-in-the-us-china-open-weight-a",
+    "type": "firsthand_company_briefing_report",
+    "retrieved_on": "2026-10-07",
+    "facts": "Reports Mistral saying training took two months, with a rounded 4,000-GPU count. Official written count of 3,800 is preferred. Calendar duration is approximate; constant allocation and utilization are not established."
+  },
+  "training-astra-brockman": {
+    "title": "Greg Brockman interview about Astra, September 4, 2026",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+    "type": "creator_executive_interview",
+    "retrieved_on": "2026-10-07",
+    "facts": "Brockman states Astra is the first run trained on more than 100,000 GPUs. This interview does not specify chip type, duration, utilization or a complete stage-by-stage compute total."
+  },
+  "aa-mistral-large-4-tokens": {
+    "title": "Artificial Analysis Mistral Large 4 Preview / Step 5 comparison, checked October 8",
+    "url": "https://artificialanalysis.ai/models/comparisons/mistral-large-4-vs-step-5",
+    "type": "benchmark_public_table",
+    "retrieved_on": "2026-10-08",
+    "index_version": "4.3.2",
+    "supports": [
+      "output_tokens_per_task",
+      "reasoning_tokens_per_task",
+      "score_estimation_status"
+    ],
+    "facts": {
+      "output_tokens_per_task": 69000,
+      "reasoning_tokens_per_task": 52000,
+      "displayed_intelligence_index": 38
+    },
+    "rounding_unit": 1000,
+    "record_file": "mistral-token-supplement.json",
+    "note": "Public table displays all ten index constituents without an estimated-score marker. Counts are rounded weighted per-task averages. Retrieved October 8; this is a held-out supplement, not an October 6 token observation."
+  },
+  "aa-mistral-large-4-api-check": {
+    "title": "Authenticated Artificial Analysis API check of the unchanged Le Chonk score",
+    "url": "https://artificialanalysis.ai/api/v2/language/models/free",
+    "type": "benchmark_api_verification",
+    "retrieved_at": "2026-10-08T13:18:41.161Z",
+    "api_index_version": "4.3",
+    "file": "mistral-token-supplement.json",
+    "sha256": "911d4401dd9897ebaac92f0b6a3ddd7622a56fd65bb185078f51aa90d4f7aba5",
+    "facts": {
+      "slug": "mistral-large-4",
+      "intelligence_index": 38.4
+    },
+    "limitations": "Supplement verifies one model; it does not refresh the entire catalogue, prices or baselines. API still omits per-task token counts and estimation flag. Authentication key is never stored."
+  }
+}

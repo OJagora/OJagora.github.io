@@ -1,0 +1,26 @@
+{
+  "index_version":"4.3.2",
+  "retrieved_on":"2026-10-06",
+  "note":"Partial manually transcribed representative tables, rounded public values. No attempt to reconstruct the aggregate index or run constituent regressions.",
+  "benchmarks":[
+    {"name":"AA-Briefcase v1.1","unit":"Elo"},
+    {"name":"GDPval-AA v2.1","unit":"Elo"},
+    {"name":"AutomationBench-AA","unit":"%"},
+    {"name":"Terminal-Bench 4.0","unit":"%"},
+    {"name":"SciCode","unit":"%"},
+    {"name":"Humanity's Last Exam","unit":"%"},
+    {"name":"GDP.pdf","unit":"%"},
+    {"name":"CritPt","unit":"%"},
+    {"name":"AA-Omniscience","unit":"index"},
+    {"name":"AA-LCR v1.1","unit":"%"}
+  ],
+  "observations":[
+    {"slug":"mimo-v2-6-pro","source_id":"aa-table-mimo-v2-6-pro-vs-glm-5-3","values":[1516,1686,59,35,61,49,19,27,8,86]},
+    {"slug":"glm-5-3","source_id":"aa-table-mimo-v2-6-pro-vs-glm-5-3","values":[1510,1653,62,42,59,42,11,19,14,80]},
+    {"slug":"kimi-k3","source_id":"aa-table-kimi-k3-vs-inkling","values":[1501,1538,58,13,59,47,22,23,20,89]},
+    {"slug":"inkling","source_id":"aa-table-kimi-k3-vs-inkling","values":[832,1079,5,1,47,32,13,5,2,77]},
+    {"slug":"claude-opus-5-5","source_id":"aa-closed-anthropic-openai","values":[1807,1866,70,60,67,61,26,32,46,85]},
+    {"slug":"gpt-6-astra","source_id":"aa-closed-anthropic-openai","values":[1569,1542,68,59,56,55,31,32,43,81]},
+    {"slug":"gemini-4-argon","source_id":"aa-closed-google","values":[1490,1626,78,57,62,57,22,27,42,80]}
+  ]
+}
