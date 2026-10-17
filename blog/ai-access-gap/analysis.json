@@ -1,0 +1,1526 @@
+{
+  "cutoff": "2026-10-13",
+  "sources": [
+    {
+      "source_id": "S01",
+      "title": "Karpathy AI capability funnel (edited X post)",
+      "url": "https://x.com/karpathy/status/2109361546505966046",
+      "author_organization": "Andrej Karpathy",
+      "publication_date": "2026-10-11",
+      "measurement_period": "Not specified",
+      "scope": "Informal global categories",
+      "evidence_quality": "Primary metadata; full wording from unofficial archive",
+      "limitations": "Original ID 2109361082217402758 at 19:10:46 UTC; edit at 19:12:37 UTC. Full long-post text was not exposed by primary syndication; edit wording cannot be independently fully verified. Counts are napkin estimates.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "karpathy_x.html",
+      "raw_sha256": "a6da14bf54b435b8393af9fd1f09bfb6921f49553c01b3338ff8cb5af6ebe6a0"
+    },
+    {
+      "source_id": "S02",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "author_organization": "OpenAI",
+      "publication_date": "2026-09-06",
+      "measurement_period": "2026-01-01 to 2026-08-15/16",
+      "scope": "Research organization interactive coding-agent telemetry",
+      "evidence_quality": "Primary embedded numeric chart data",
+      "limitations": "Broad researcher definition; unknown headcount; zero usage included for expenditure; no employee microdata; programmatic automations excluded; internal models mapped to production counterparts; prices frozen 2026-09-03.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "openai_research.html",
+      "raw_sha256": "a3b6a067d107aa8bbfe3c33cf277b560754140df36d976fef833a0969fabc8cb"
+    },
+    {
+      "source_id": "S03",
+      "title": "The Shift to Agentic AI: Evidence from Codex",
+      "url": "https://arxiv.org/abs/2606.26959v1",
+      "author_organization": "Johnston, Holtz, Richmond, Ong, Tambe, Chatterji / OpenAI",
+      "publication_date": "2026-06-25",
+      "measurement_period": "2025-08 to 2026-06-11; runtime 2026-04-07 to 2026-06-11",
+      "scope": "Individual, organizational, and OpenAI accounts",
+      "evidence_quality": "Primary full paper and appendices",
+      "limitations": "Internal workers are not restricted to researchers. Daily runtime excludes inactive accounts and noninteractive batch use; task runtime includes short waits and tools. Token levels indexed, not absolute.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "codex_paper.html",
+      "raw_sha256": "441f034f815c859c4dbdcffdecb6d96448935d0749ab1fb26b994653cc2df76b"
+    },
+    {
+      "source_id": "S04",
+      "title": "Manage costs effectively",
+      "url": "https://code.claude.com/docs/en/costs",
+      "author_organization": "Anthropic",
+      "publication_date": "Undated live documentation",
+      "measurement_period": "Not disclosed; retrieved 2026-10-13",
+      "scope": "Claude Code enterprise developers",
+      "evidence_quality": "Primary vendor usage benchmark",
+      "limitations": "Sample size, averaging scheme, model mix, price date, contracted discounts and measurement dates undisclosed. Headline cost is not independently audited billing.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "claude_costs.html",
+      "raw_sha256": "4a4a87a91529a4004b289e55ca6feabe5ee4ebfeffa7142a55560d12462217b3"
+    },
+    {
+      "source_id": "S05",
+      "title": "How People Use ChatGPT",
+      "url": "https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf",
+      "author_organization": "Chatterji, Cunningham, Deming, Hitzig, Ong, Shan, Wadman / OpenAI and Harvard",
+      "publication_date": "2025-09-15",
+      "measurement_period": "Consumer classification May 2024-June 2025; aggregate July 2025",
+      "scope": "ChatGPT consumer Free, Plus, Pro",
+      "evidence_quality": "Primary full working paper",
+      "limitations": "Consumer is not synonymous with casual or free. Weekly users are not daily users; aggregates do not identify median consumption or token lengths. Rounded aggregate values.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "consumer_paper.pdf",
+      "raw_sha256": "0d9257c3448c258b148be6d31c7f20aa702bf0cfe0ae9136c2d3719c78f55571"
+    },
+    {
+      "source_id": "S06",
+      "title": "How AI is transforming work at Anthropic",
+      "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "author_organization": "Huang et al. / Anthropic",
+      "publication_date": "2025-12-02",
+      "measurement_period": "Survey August 2025; transcripts February and August 2025",
+      "scope": "Engineers and researchers; internal Claude Code",
+      "evidence_quality": "Primary internal survey and telemetry",
+      "limitations": "132 survey respondents; 53 interviews; 200,000 transcripts. Convenience/purposive sampling. Proportionate transcript sampling prevents inference about absolute growth.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "anthropic_internal.html",
+      "raw_sha256": "54835921ddb9a94d3d6445bb80e817aecdf725a0c1140d136ce95b05c72b6229"
+    },
+    {
+      "source_id": "S07",
+      "title": "Agentic coding and persistent returns to expertise",
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "author_organization": "Hitzig, Massenkoff, Lyubich, Zhang, Heller, McCrory / Anthropic",
+      "publication_date": "2026-06-16",
+      "measurement_period": "October 2025-April 2026",
+      "scope": "Interactive Claude Code sessions (~235,000 people)",
+      "evidence_quality": "Primary external telemetry",
+      "limitations": "~400,000 sampled sessions; headless, SDK and third-party IDE use excluded. Words/actions per prompt are not per-person-day token counts.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "claude_expertise.html",
+      "raw_sha256": "1d37bbc13f7b43dedd384679d8fa32da5cce6db66ec6a452562eaf283baf2af0"
+    },
+    {
+      "source_id": "S08",
+      "title": "Anthropic Economic Index report: Cadences",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "author_organization": "Anthropic",
+      "publication_date": "2026-06-26",
+      "measurement_period": "Chat/Cowork April 10-June 10, 2026",
+      "scope": "Work-related Claude conversations, Cowork and API",
+      "evidence_quality": "Primary research",
+      "limitations": "Token values normalized to overall median; caption geometric-mean vs main-text median ambiguity. No absolute user-day denominator.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "anthropic_cadences.html",
+      "raw_sha256": "9ff0bcbaf61070a4e9d81f014906322cded0a570bbf9e1396e48ac138bf34947"
+    },
+    {
+      "source_id": "S09",
+      "title": "The Cursor Developer Habits Report",
+      "url": "https://cursor.com/insights/developer-habits",
+      "author_organization": "Cursor",
+      "publication_date": "2026-07 (landing-page date)",
+      "measurement_period": "Time series 2026-01-01 to 2026-05-09; other windows not fully disclosed",
+      "scope": "Cursor developer usage cohorts",
+      "evidence_quality": "Primary accessible data tables",
+      "limitations": "Token/spend Lorenz series and mixes are aggregate/cohort measures. No absolute daily token or spend level, no user-level bootstrap.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "cursor_habits.html",
+      "raw_sha256": "d02379591f923d8a9edbc8023b7be05f1cf600abb1de2b9e1f339978adda8231"
+    },
+    {
+      "source_id": "S10",
+      "title": "The asymmetry of token consumption",
+      "url": "https://cursor.com/insights/the-asymmetry-of-token-consumption",
+      "author_organization": "Dan Hollick / Cursor",
+      "publication_date": "2026-09-01",
+      "measurement_period": "Previous four weeks / 28 days",
+      "scope": "Cursor engagement cohorts",
+      "evidence_quality": "Primary research blog",
+      "limitations": "Exact total token volume, cohort count and model breakdown missing. Most-engaged cohort wording not treated as general population.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "cursor_asymmetry.html",
+      "raw_sha256": "ec8f2807e20977400d1e7ba62802461d116f8b313d80b78d4756624a1286f3c6"
+    },
+    {
+      "source_id": "S11",
+      "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot at Production Scale",
+      "url": "https://arxiv.org/abs/2608.00101v1",
+      "author_organization": "Liu, Qiu, Goiri, Fonseca, Bianchini, Choukse / Microsoft, UIUC",
+      "publication_date": "2026-07-30",
+      "measurement_period": "First week June 2026",
+      "scope": "Copilot coding-agent traces; US regions; 3.2M users",
+      "evidence_quality": "Primary paper; internally conflicting totals",
+      "limitations": "Abstract reports 95T tokens; Table 3 prompt total 44.9T and completion 39.3B. Completion total implies mean 51.7/call, inconsistent with median 247 and Table 4 mean 4,000/turn. Models anonymized; reasoning omitted. Quarantined user-day token derivations.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "copilot_paper.html",
+      "raw_sha256": "7377ba09f0c2aa017bf8bb85b84b7a7730d09243d5d3efd6d319831bf96024c0"
+    },
+    {
+      "source_id": "S12",
+      "title": "GitHub Copilot Coding Agent Traces 2026 dataset card",
+      "url": "https://github.com/Azure/AzurePublicDataset/blob/master/analysis/GitHubCopilotCodingAgents/DATASET_CARD.md",
+      "author_organization": "Microsoft Azure",
+      "publication_date": "Undated release; retrieved 2026-10-13",
+      "measurement_period": "2026-06-01 to 2026-06-07 UTC",
+      "scope": "Uniform sample of non-enterprise agentic sessions",
+      "evidence_quality": "Primary public metadata dataset",
+      "limitations": "301,026 sessions; user/account IDs and real model names omitted. Full archives about 3GB were not downloaded; published metadata reviewed. No per-user normalization possible.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "copilot_card.md",
+      "raw_sha256": "e475f6f5a38115094d59f36f8919486367e67b0008b5ff99915c3d6012d68fbf"
+    },
+    {
+      "source_id": "S13",
+      "title": "Alphabet investor presentation: June 2026",
+      "url": "https://blog.google/alphabet/investor-presentation-june-2026/",
+      "author_organization": "Sundar Pichai / Google Alphabet",
+      "publication_date": "2026-06-03",
+      "measurement_period": "March to approximately May/June 2026",
+      "scope": "Internal Google AI developer tooling",
+      "evidence_quality": "Primary executive usage disclosure",
+      "limitations": "Aggregate internally processed tokens, no active user count, cache/output split, researcher subset or inference cost.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "google_internal.html",
+      "raw_sha256": "e6588b3504f586b67dc2f2adb82d64ff7b00f173f8b2f9ec5c116f816aada153"
+    },
+    {
+      "source_id": "S14",
+      "title": "Mister IA Panel: usage indicators",
+      "url": "https://observatoire.mister-ia.com/en/indicators/",
+      "author_organization": "Mister IA",
+      "publication_date": "Undated live dashboard",
+      "measurement_period": "September 2026",
+      "scope": "Client employees with Claude/ChatGPT licences; >10,000 licences across >=10 clients",
+      "evidence_quality": "Primary consultancy telemetry",
+      "limitations": "Monthly active denominator; no outputs, full model-input history, model IDs or per-user distribution. Consulting-client selection.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "misteria.html",
+      "raw_sha256": "57db49af61530c287faaa1c5b6da84b36f1a9e6042bfe9000ef94783a818bd66"
+    },
+    {
+      "source_id": "S15",
+      "title": "The Evaluation of the M365 Copilot Pilot in DBT",
+      "url": "https://assets.publishing.service.gov.uk/media/68adbe409e1cebdd2c96a19d/dbt-microsoft-365-copilot-evaluation.pdf",
+      "author_organization": "UK Department for Business and Trade",
+      "publication_date": "2025-08-28",
+      "measurement_period": "2024-10-01 to 2024-12-30",
+      "scope": "1,000 allocated licences, ~70% volunteers",
+      "evidence_quality": "Primary official telemetry",
+      "limitations": "72 actions per licence over 63 working days; absences and non-use included. Active-user definition is internally inconsistent between daily/weekly passages. No token counts.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "dbt.pdf",
+      "raw_sha256": "249b2e039d69b5bf3ab74da61fd2bca3179e0d74f613b385c1a28887de8eee95"
+    },
+    {
+      "source_id": "S16",
+      "title": "The State of Enterprise AI 2025",
+      "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report/",
+      "author_organization": "OpenAI",
+      "publication_date": "2025-12-17",
+      "measurement_period": "Approximately November 2024-November 2025",
+      "scope": "ChatGPT Enterprise and API organizations",
+      "evidence_quality": "Primary vendor report",
+      "limitations": "Growth figures relative; organization reasoning tokens are not individual employee consumption. Workplace seats not active users.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S17",
+      "title": "When AI builds itself",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "author_organization": "Marina Favaro, Jack Clark / Anthropic",
+      "publication_date": "2026; updated 2026-09-18",
+      "measurement_period": "2025-May 2026; success-rate update September 2026",
+      "scope": "Anthropic engineering and research",
+      "evidence_quality": "Primary internal research",
+      "limitations": "Code production and self-reported productivity are not inference; unreleased model access documented but not quantified per person.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "anthropic_rsi.html",
+      "raw_sha256": "f70a62b26907b71a8abd1329db87b9514ebdf297db8328e5f66ba8e28cc11497"
+    },
+    {
+      "source_id": "S18",
+      "title": "Automated Weak-to-Strong Researcher",
+      "url": "https://alignment.anthropic.com/2026/automated-w2s-researcher/",
+      "author_organization": "Wen, Qiu, Benton, Kirchner, Leike / Anthropic",
+      "publication_date": "2026-04 (linked by S17; exact date not exposed)",
+      "measurement_period": "One five-day experiment",
+      "scope": "Nine parallel automated research agents",
+      "evidence_quality": "Primary experimental report",
+      "limitations": "18,000 USD includes compute and API calls; training/experimentation mixed in. Cannot assign to human researcher-day inference.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "anthropic_w2s.html",
+      "raw_sha256": "c9c32a534f19f4055ae4248f0a2ede9000b0bbccda60fe12c48c7491fd37b3e9"
+    },
+    {
+      "source_id": "S19",
+      "title": "Pricing: Claude Platform",
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "author_organization": "Anthropic",
+      "publication_date": "Undated live documentation",
+      "measurement_period": "Snapshot 2026-10-13",
+      "scope": "Public standard first-party API rates",
+      "evidence_quality": "Primary pricing",
+      "limitations": "Price depends on model, context, cache TTL, batch, geography and speed; not underlying compute cost.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "claude_prices.html",
+      "raw_sha256": "bb09fc786c7bdea9d30e68dd6dfc367aaf7ec1724147549887cf67aaa1ccffc5"
+    },
+    {
+      "source_id": "S20",
+      "title": "Pricing: OpenAI API",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "author_organization": "OpenAI",
+      "publication_date": "Undated live documentation",
+      "measurement_period": "Snapshot 2026-10-13",
+      "scope": "Public API rates",
+      "evidence_quality": "Primary pricing",
+      "limitations": "Standard/Fast/Flex/batch and context tiers differ; internal models cannot be repriced without traffic-level identities.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "openai_prices.html",
+      "raw_sha256": "a82a6a2d515397bccb21d70f32b50a05bf5e9862437dabdc46044bd227e8fb37"
+    },
+    {
+      "source_id": "S21",
+      "title": "Pricing: ChatGPT Learn / Codex",
+      "url": "https://learn.chatgpt.com/docs/pricing",
+      "author_organization": "OpenAI",
+      "publication_date": "Undated live documentation",
+      "measurement_period": "Snapshot 2026-10-13",
+      "scope": "Plus, Pro, organizational subscriptions",
+      "evidence_quality": "Primary entitlement documentation",
+      "limitations": "Messages/5h are task-dependent estimates, not fixed token caps; Pro currently no five-hour cap; weekly limits and credits matter.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "codex_limits.html",
+      "raw_sha256": "8d408f2767836492553baa5dc675caec965ec16e4f57158fc0e30052dfa91adc"
+    },
+    {
+      "source_id": "S22",
+      "title": "Gemini Apps limits and upgrades",
+      "url": "https://support.google.com/gemini/answer/16275805?hl=en",
+      "author_organization": "Google",
+      "publication_date": "Undated live documentation",
+      "measurement_period": "Snapshot 2026-10-13",
+      "scope": "Gemini app plan entitlements",
+      "evidence_quality": "Primary entitlement documentation",
+      "limitations": "Capacity multipliers are not consumption or FLOP multipliers. Model names, regional access and limits can change.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "gemini_limits.html",
+      "raw_sha256": "4bc9f0a34eb65357a05f553bd44bb886a1790f12b0c57579ec95b483320a4df9"
+    },
+    {
+      "source_id": "S23",
+      "title": "Use Claude Code with your Pro or Max plan",
+      "url": "https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan",
+      "author_organization": "Anthropic",
+      "publication_date": "Undated; updated this week",
+      "measurement_period": "Snapshot 2026-10-13",
+      "scope": "Claude Pro/Max subscriptions",
+      "evidence_quality": "Primary entitlement documentation",
+      "limitations": "Shared five-hour and weekly limits; separate Fable weekly cap; no stable absolute token budget.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S24",
+      "title": "LLM inference prices have fallen rapidly but unequally across tasks",
+      "url": "https://epoch.ai/data-insights/llm-inference-price-trends",
+      "author_organization": "Cottier, Snodin, Owen, Adamczewski / Epoch AI",
+      "publication_date": "2025-03-12",
+      "measurement_period": "Approximately 2022-2025",
+      "scope": "Fixed benchmark performance milestones",
+      "evidence_quality": "Primary independent analysis",
+      "limitations": "Benchmark-conditioned price declines are not declines at moving frontier; model quality and token conventions differ.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "epoch_prices.html",
+      "raw_sha256": "f8c255c0dc59c2712c8341e9fe13e91a1e118a28f96a74cb19ada35c26b5b903"
+    },
+    {
+      "source_id": "S25",
+      "title": "September 2026 Ramp AI Index",
+      "url": "https://ramp.com/data/ai-index-sept-2026",
+      "author_organization": "Ara Kharazian / Ramp",
+      "publication_date": "2026-09-09",
+      "measurement_period": "July and August 2026; price index September 2026",
+      "scope": "US business transactions; firm spending cohorts",
+      "evidence_quality": "Primary financial telemetry",
+      "limitations": "Firm-level spending divided by employee count includes subscriptions and production API use; not employee personal inference. July top1% revised from ~7.4k to 7,976.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S26",
+      "title": "The only metric that matters in tokenomics",
+      "url": "https://research.larrylabs.co/posts/the-only-metric-that-matters-in-tokenomics.html",
+      "author_organization": "Larry Labs",
+      "publication_date": "2026-09 (day not given)",
+      "measurement_period": "30 days ending 2026-09-10",
+      "scope": "One external operator, two machines, all models/workloads",
+      "evidence_quality": "Primary self-report, unaudited",
+      "limitations": "130,000 USD list-equivalent claim with subscription marginal bill zero; includes broader scope than OpenAI interactive telemetry. No raw billing/token audit supplied.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S27",
+      "title": "How Organizations Use AI: Evidence from ChatGPT",
+      "url": "https://arxiv.org/abs/2608.12236v1",
+      "author_organization": "Chatterji, Holtz, Rakholia, Tambe, Weeratunga / OpenAI",
+      "publication_date": "2026-08-12; document updated 2026-08-24",
+      "measurement_period": "Through March 2026",
+      "scope": "Enterprise firms and workers; >1,500 role-covered organizations",
+      "evidence_quality": "Primary full paper",
+      "limitations": "Indexed output growth; role-specific messages reported as differences. No comparable absolute user-day tokens. Firm output tokens not equivalent to role-specific user consumption.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "enterprise_paper.html",
+      "raw_sha256": "29ac416ff421fbf33296eac170d08911efaa5322da22bb4e3f12ba600a8d9c0d"
+    },
+    {
+      "source_id": "S28",
+      "title": "How US Youth Use AI Chatbots",
+      "url": "https://www.jmir.org/2026/1/e95819",
+      "author_organization": "Maheux et al. / UNC Chapel Hill and Aura",
+      "publication_date": "2026-07-27",
+      "measurement_period": "Extended observation period; see source",
+      "scope": "3,363 US youth using Aura overlay keyboard",
+      "evidence_quality": "Primary observed keystrokes",
+      "limitations": "Median 6 messages/app-day, mean 44.52; assistant outputs not observed; selection and app mix; not adult casual users. Confusing use of on average in prose.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S29",
+      "title": "Karpathy post archive",
+      "url": "https://postcutoff.com/p/2026-10-11-karpathy-capability-gap-funnel/",
+      "author_organization": "Post-Cutoff / Adam Bicz",
+      "publication_date": "2026-10-11",
+      "measurement_period": "Unofficial archive fetched 2026-10-12",
+      "scope": "Long X-post wording",
+      "evidence_quality": "Secondary archive used only for full-post paraphrase",
+      "limitations": "Primary metadata independently recovered; archived full text and original-versus-edited differences not fully verified.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "postcutoff.html",
+      "raw_sha256": "9f15ecd0d27a0d6d9b0c5af29c676cedc77915e67e6169e997a2102f6e2a0780"
+    },
+    {
+      "source_id": "S30",
+      "title": "How much energy does Google AI use?",
+      "url": "https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference",
+      "author_organization": "Amin Vahdat, Jeff Dean / Google",
+      "publication_date": "2025-08-21",
+      "measurement_period": "2025 production text prompts; see technical paper",
+      "scope": "Gemini Apps median text prompt",
+      "evidence_quality": "Primary production-energy study",
+      "limitations": "Per-prompt median cannot be multiplied into a daily mean without prompt distribution; not transferable to frontier research workloads.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S31",
+      "title": "DeepSeek-V3 Technical Report",
+      "url": "https://arxiv.org/abs/2412.19437v2",
+      "author_organization": "DeepSeek-AI et al.",
+      "publication_date": "2024-12-27; revised 2025-02-18",
+      "measurement_period": "Model architecture",
+      "scope": "DeepSeek-V3",
+      "evidence_quality": "Primary technical report",
+      "limitations": "Total and active parameters differ; architecture is not evidence of per-user inference consumption.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S32",
+      "title": "Anthropic Economic Index public dataset",
+      "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
+      "author_organization": "Anthropic",
+      "publication_date": "Multiple releases; accessed 2026-10-13",
+      "measurement_period": "Multiple conversation samples",
+      "scope": "Aggregate task and geography tables",
+      "evidence_quality": "Primary aggregate dataset",
+      "limitations": "No person-day traffic linkage, complete token ledger or stable individual activity denominator identified in dataset card.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S33",
+      "title": "Measuring AI agent autonomy in practice",
+      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+      "author_organization": "Anthropic",
+      "publication_date": "2026-02-18",
+      "measurement_period": "Late 2025-early 2026",
+      "scope": "Interactive Claude Code turns and public API interactions",
+      "evidence_quality": "Primary usage study",
+      "limitations": "Turn duration percentiles are not per-user daily runtime or GPU-hours. Noninteractive contexts differ.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "claude_autonomy.html",
+      "raw_sha256": "22a9df8bd28cd41a505d23dad7f120196d978f87f63917c1ebfb6abcb061ca6f"
+    },
+    {
+      "source_id": "S34",
+      "title": "Is tokenmaxxing cost effective? New data from Jellyfish explains.",
+      "url": "https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/",
+      "author_organization": "Nicholas Arcolano / Jellyfish",
+      "publication_date": "2026-04-15",
+      "measurement_period": "Q1 2026",
+      "scope": "Developers at Jellyfish customer companies",
+      "evidence_quality": "Primary vendor telemetry analysis",
+      "limitations": "12,000 developers, 200 companies; model mix, active-day count, zero inclusion and exact price date undisclosed. Monthly quantiles cannot become daily quantiles.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "jellyfish_q1.html",
+      "raw_sha256": "8025c933240a4032621d1ad9be8304eacfb5aa653effe8347420829a3d7a14ae"
+    },
+    {
+      "source_id": "S35",
+      "title": "The State of AI in Software Engineering: H1 2026",
+      "url": "https://jellyfish.co/state-of-ai-software-engineering/",
+      "author_organization": "Jellyfish Research",
+      "publication_date": "2026-06-23 (linked author announcement)",
+      "measurement_period": "August 2025-May 2026; table release snapshots",
+      "scope": "Jellyfish customer developer telemetry",
+      "evidence_quality": "Primary vendor research review",
+      "limitations": "Different charts use different cohorts and aggregation levels. Table Tokens/User period and statistic unspecified; cost column explicitly per month. Price basis not frozen.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "jellyfish_h1.html",
+      "raw_sha256": "743ece00837a0c2d94b3c499bc32758bc97d179d8cd9b103c8c5135c022d5a8f"
+    },
+    {
+      "source_id": "S36",
+      "title": "State of AI Coding Spend 2026",
+      "url": "https://www.viberank.app/blog/state-of-ai-coding-2026",
+      "author_organization": "Viberank",
+      "publication_date": "2026-06-10",
+      "measurement_period": "Logged submission windows through June 10, 2026",
+      "scope": "Self-selected developer submissions; highest-cost submission per developer",
+      "evidence_quality": "Primary log-derived public leaderboard summary",
+      "limitations": "792 submitters; highest-cost submission selection; employee affiliation not verified. API-equivalent prices not one common frozen date. Tracked coding days are user-days; not general developers.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "viberank_june.html",
+      "raw_sha256": "51df9d455941a434e3cb48551d414d28f205c8504112b8ac04cee7bcc5d1692e"
+    },
+    {
+      "source_id": "S37",
+      "title": "AI coding usage data: Viberank API snapshot",
+      "url": "https://www.viberank.app/data",
+      "author_organization": "Viberank",
+      "publication_date": "Undated hourly API; frozen 2026-10-13T07:28:30Z",
+      "measurement_period": "Heterogeneous submission windows, July 2024-October 2026",
+      "scope": "Developer highest-cost submissions, minimum seven covered days, normalized to 30-day month",
+      "evidence_quality": "Primary aggregate API, CC BY 4.0",
+      "limitations": "Monthly distribution n=1,220; global totals n=1,309 are a different scope. activeDays=645 is not summed user-days. Self-selection and maximum-submission bias; affiliation unverified.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "viberank_api.json",
+      "raw_sha256": "ea3d457b0a76227277c2ff4752a7f38578d6feff87f7536a9788bfbc18096198"
+    },
+    {
+      "source_id": "S38",
+      "title": "From Awareness to Action? The Impact of CO2 Emission Feedback on Student LLM Usage",
+      "url": "https://doi.org/10.1145/3772363.3798840",
+      "author_organization": "Lisa Bondo Andersen et al. / LMU and MCML",
+      "publication_date": "2026-04-13",
+      "measurement_period": "2025-07-08 to 2025-07-24 inclusive, as plotted",
+      "scope": "37 undergraduate statistics students using an optional Azure-hosted educational platform",
+      "evidence_quality": "Primary conference paper; author-posted full PDF retrieved",
+      "limitations": "43 registered from 461 invited; six single-prompt users excluded; 781 text prompts. Intervention and exam period; other apps untracked. Per-prompt means, not daily-active quantiles. Author copy: ResearchGate publication 403751970.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "student_paper.pdf",
+      "raw_sha256": "34da95c30c13d02ce8a3c506d83fd0b94f72a29257c4f0fd0f881ad6810e0ddb"
+    },
+    {
+      "source_id": "S39",
+      "title": "The First Generative AI Prompt-A-Thon in Healthcare",
+      "url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000394",
+      "author_organization": "William Small et al. / NYU Langone and Microsoft",
+      "publication_date": "2024-07-23",
+      "measurement_period": "2023-08-18, 09:00-16:00; two-hour workshop",
+      "scope": "Mixed healthcare workforce at a selected instructional event",
+      "evidence_quality": "Primary peer-reviewed telemetry study, CC BY",
+      "limitations": "Only 949 of 1,944 prompts had retrievable text; staff/resource scope differs from 70 in-person attendees. Token means and prompts/user cannot be multiplied into measured individual totals.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "promptathon.html",
+      "raw_sha256": "c892719b3e04806d32888a45125cf3c6116f69dff59e52b209de62c9bae75f5a"
+    },
+    {
+      "source_id": "S40",
+      "title": "Enterprise signals: What frontier firms are doing differently",
+      "url": "https://openai.com/signals/enterprise-data/",
+      "author_organization": "OpenAI",
+      "publication_date": "2026-08-12",
+      "measurement_period": "January-June 2026; other activity dates not explicit",
+      "scope": "Enterprise customers ranked monthly by output tokens per active user; top 10% vs 45th-55th percentile firms",
+      "evidence_quality": "Primary provider telemetry",
+      "limitations": "Firms re-ranked each month; aggregate group statistic unspecified. Output includes Codex and ChatGPT, not all API consumption. No absolute daily level; frontier firm is not frontier laboratory.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "enterprise_signals.html",
+      "raw_sha256": "bee9dc6190be41a2f1689b605ddb485804236489ba358ae77ec27315bd1b7c2e"
+    },
+    {
+      "source_id": "S41",
+      "title": "Measuring AI Agent Concurrency",
+      "url": "https://jellyfishresearch.substack.com/p/measuring-ai-agent-concurrency",
+      "author_organization": "Tomas Pardinas / Jellyfish",
+      "publication_date": "2026-03-23",
+      "measurement_period": "Rolling 30-day window; exact dates undisclosed",
+      "scope": "Claude Code users at Jellyfish customer companies",
+      "evidence_quality": "Primary vendor telemetry study",
+      "limitations": "19M active-time rows, not users. One harness only; internal subagents invisible; concurrency refers to simultaneously active sessions. No person-day token ledger.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S42",
+      "title": "Where AI agent tokens go: Claude Code and Codex usage, measured",
+      "url": "https://decost.ai/guides/claude-code-codex-token-usage-measured",
+      "author_organization": "Brad Smith / decost.ai",
+      "publication_date": "2026-09-30 (page label; includes October 1 logs)",
+      "measurement_period": "Claude July 3-October 1; Codex June 4-September 30, 2026",
+      "scope": "One developer software-work log case",
+      "evidence_quality": "Primary self-reported log audit with open-source parser",
+      "limitations": "No raw private logs audited; publication/log date discrepancy. 503M Codex tokens unpriced; Codex cache writes omitted; costs priced September 30. No representative population.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "decost.html",
+      "raw_sha256": "7a84054bbc68cabce932581d727a5b54e94cc00766b044adaa792ea9568dc725"
+    },
+    {
+      "source_id": "S43",
+      "title": "TokenBudgeting: Our Conversations with Enterprises on Token Spend",
+      "url": "https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations",
+      "author_organization": "Crystal Huang, Joey Brookhart, Dylan Patel / SemiAnalysis",
+      "publication_date": "2026-06-30",
+      "measurement_period": "H1 2026 and interviews around Databricks AI Summit",
+      "scope": "50-plus interviewed enterprises; separate Meta and internal SemiAnalysis cases",
+      "evidence_quality": "Original field interviews and self-reports; Meta telemetry reported indirectly",
+      "limitations": "Convenience interviews; contract vs list-price accounting unclear. Meta dashboard not publicly audited; workforce denominator and token mix absent. Budgets are capacities, not use.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S44",
+      "title": "AgentX - InferenceXv3: Does CUDA Moat Hold up in Agentic Inferencing?",
+      "url": "https://newsletter.semianalysis.com/p/agentx-inferencexv3-does-cuda-moat",
+      "author_organization": "Cam Quilici et al. / SemiAnalysis",
+      "publication_date": "2026-08-24 (live article)",
+      "measurement_period": "Proxy corpus through article snapshot",
+      "scope": "Internal SemiAnalysis power users and volunteered agent traffic",
+      "evidence_quality": "Primary trace collection and benchmark report",
+      "limitations": "No user count or matched observation period. Acquisition expenditure scope unclear. Live article may have evolved since original date. Replayed open-weight models do not identify original closed-model compute.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    },
+    {
+      "source_id": "S45",
+      "title": "AgentX Claude Code Weka traces dataset card",
+      "url": "https://huggingface.co/datasets/semianalysisai/cc-traces-weka-062126",
+      "author_organization": "SemiAnalysis",
+      "publication_date": "Dataset built 2026-06-21T17:48:24Z",
+      "measurement_period": "Selected collected sessions; absolute person-days absent",
+      "scope": "Filtered selected Claude Code sessions, minimum 20 requests and concurrency <=10 subagent groups",
+      "evidence_quality": "Primary open dataset card, Apache 2.0",
+      "limitations": "Input is reconstructed 64-token KV-block count, not exact billed tokens; can overcount by ~260k in heavy-cache-write tail. Only relative timestamps; no person-day denominator.",
+      "retrieved_date": "2026-10-13",
+      "raw_file": "",
+      "raw_sha256": ""
+    }
+  ],
+  "expenditure": [
+    {
+      "label": "Jellyfish company developers: monthly P50 /30",
+      "value": "1.746",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S34",
+      "status": "monthly /30"
+    },
+    {
+      "label": "Claude Code enterprise developers: mean",
+      "value": "13.0",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S04",
+      "status": "active-day mean"
+    },
+    {
+      "label": "Viberank June: selected coding-day P50",
+      "value": "29.0",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S36",
+      "status": "submitted coding-day P50"
+    },
+    {
+      "label": "Viberank October: selected monthly P50 /30",
+      "value": "50.69772857142857",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S37",
+      "status": "normalized monthly /30"
+    },
+    {
+      "label": "OpenAI research employees: daily P50",
+      "value": "601.2531342816667",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S02",
+      "status": "weekly mean daily P50"
+    },
+    {
+      "label": "OpenAI research employees: daily P90",
+      "value": "7047.126402210001",
+      "unit": "USD/source day or 30-day rate",
+      "source_ids": "S02",
+      "status": "weekly mean daily P90"
+    }
+  ],
+  "tokens": [
+    {
+      "population": "Selected students (calendar-day mean)",
+      "input_tokens": "13121.097774244832",
+      "output_tokens": "1004.9837837837838",
+      "source_ids": "S38",
+      "denominator": "37 students x17 calendar days"
+    },
+    {
+      "population": "Viberank June (coding-day mean)",
+      "input_tokens": "85326719.12418747",
+      "output_tokens": "201847.41703729046",
+      "source_ids": "S36",
+      "denominator": "29,230 coding user-days"
+    },
+    {
+      "population": "OpenAI (restricted employee mean)",
+      "input_tokens": "",
+      "output_tokens": "722833.2289131718",
+      "source_ids": "S02",
+      "denominator": "research employee; restricted source estimate"
+    },
+    {
+      "population": "Casual consumer median",
+      "input_tokens": "",
+      "output_tokens": "",
+      "source_ids": "",
+      "denominator": "unidentified"
+    }
+  ],
+  "runtime": [
+    {
+      "population": "OpenAI",
+      "statistic": "P50",
+      "value": "2.5",
+      "lower": "2.2",
+      "upper": "2.8",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "OpenAI",
+      "statistic": "P90",
+      "value": "17.5",
+      "lower": "16.5",
+      "upper": "18.5",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "OpenAI",
+      "statistic": "P99",
+      "value": "71.0",
+      "lower": "68.0",
+      "upper": "74.0",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Organizational",
+      "statistic": "P50",
+      "value": "0.42",
+      "lower": "0.32",
+      "upper": "0.52",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Organizational",
+      "statistic": "P90",
+      "value": "2.45",
+      "lower": "2.2",
+      "upper": "2.7",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Organizational",
+      "statistic": "P99",
+      "value": "12.4",
+      "lower": "11.9",
+      "upper": "12.9",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Individual",
+      "statistic": "P50",
+      "value": "0.55",
+      "lower": "0.45",
+      "upper": "0.65",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Individual",
+      "statistic": "P90",
+      "value": "3.1",
+      "lower": "2.8",
+      "upper": "3.4",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    },
+    {
+      "population": "Individual",
+      "statistic": "P99",
+      "value": "15.5",
+      "lower": "14.8",
+      "upper": "16.2",
+      "source_url": "https://arxiv.org/abs/2606.26959v1",
+      "source_locator": "Figure 10, PDF page 19; original raster x~991-994; y0=816.5; y per hour 8.87 OpenAI,30.73 org,32.62 individual"
+    }
+  ],
+  "evolution": [
+    {
+      "date": "2026-01-04",
+      "value": "0.0",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-11",
+      "value": "0.0",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-18",
+      "value": "0.16563294285714286",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-25",
+      "value": "0.51269075",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-01",
+      "value": "0.9388282357142856",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-08",
+      "value": "2.2371067964285714",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-15",
+      "value": "1.722109075",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-22",
+      "value": "1.0902176958333334",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-01",
+      "value": "5.664713264285715",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-08",
+      "value": "10.453264621428572",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-15",
+      "value": "10.328324882142857",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-22",
+      "value": "13.395852682142857",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-29",
+      "value": "13.807304467857142",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-12",
+      "value": "29.444367514285712",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-19",
+      "value": "42.30206783571429",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-26",
+      "value": "45.29828094285715",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-03",
+      "value": "65.61729884285714",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-10",
+      "value": "81.95740758571428",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-17",
+      "value": "80.04352299285713",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-24",
+      "value": "100.73711149285714",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-31",
+      "value": "136.68187515833333",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-07",
+      "value": "148.28716743571428",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-14",
+      "value": "161.09003643571427",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-21",
+      "value": "155.84067429166666",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-28",
+      "value": "151.2029369342857",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-12",
+      "value": "162.7279455",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-19",
+      "value": "236.33480632142854",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-26",
+      "value": "304.45033968285713",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-02",
+      "value": "376.83169052999995",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-09",
+      "value": "433.88986866285717",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-15",
+      "value": "601.2531342816667",
+      "statistic": "P50",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-04",
+      "value": "1.9483149933333335",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-11",
+      "value": "10.10180281428572",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-18",
+      "value": "19.174628010000003",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-01-25",
+      "value": "28.55653837916667",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-01",
+      "value": "34.26718240142859",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-08",
+      "value": "42.72370873357145",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-15",
+      "value": "42.59597248571429",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-02-22",
+      "value": "44.49149374250001",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-01",
+      "value": "86.23044573357149",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-08",
+      "value": "112.14971290428574",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-15",
+      "value": "111.75489596714287",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-22",
+      "value": "156.41432415857145",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-03-29",
+      "value": "238.598352391429",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-12",
+      "value": "344.94787895285725",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-19",
+      "value": "412.7334037485716",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-04-26",
+      "value": "460.4903616857144",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-03",
+      "value": "573.4556843428572",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-10",
+      "value": "645.305505417143",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-17",
+      "value": "688.3651654285715",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-24",
+      "value": "794.7286471257146",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-05-31",
+      "value": "972.4137085400001",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-07",
+      "value": "971.077226807143",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-14",
+      "value": "1111.2222603857142",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-21",
+      "value": "1019.5371083366671",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-06-28",
+      "value": "1168.9379112657145",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-12",
+      "value": "1641.7620656942859",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-19",
+      "value": "2188.3941040180007",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-07-26",
+      "value": "4412.496069193429",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-02",
+      "value": "5274.250053018287",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-09",
+      "value": "6099.646273519429",
+      "statistic": "P90",
+      "source_id": "S02"
+    },
+    {
+      "date": "2026-08-15",
+      "value": "7047.126402210001",
+      "statistic": "P90",
+      "source_id": "S02"
+    }
+  ],
+  "enterprise": [
+    {
+      "period": "2026-01",
+      "frontier_typical_ratio": "2.6",
+      "source_id": "S40",
+      "definition": "top10% firms /45th-55th percentile, re-ranked each month"
+    },
+    {
+      "period": "2026-06",
+      "frontier_typical_ratio": "8.3",
+      "source_id": "S40",
+      "definition": "top10% firms /45th-55th percentile, re-ranked each month"
+    }
+  ],
+  "distributions": [
+    {
+      "cohort": "Jellyfish Q1",
+      "source_statistic": "P50",
+      "daily_rate_usd": "1.746",
+      "denominator": "Monthly P50 /30, not daily P50",
+      "internal_same_percentile_quotient": "344.36032891275295",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S34"
+    },
+    {
+      "cohort": "Jellyfish Q1",
+      "source_statistic": "P90",
+      "daily_rate_usd": "23.038",
+      "denominator": "Monthly P90 /30, not daily P90",
+      "internal_same_percentile_quotient": "305.8914142811877",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S34"
+    },
+    {
+      "cohort": "Viberank June",
+      "source_statistic": "P50",
+      "daily_rate_usd": "29.0",
+      "denominator": "Tracked coding user-day P50",
+      "internal_same_percentile_quotient": "20.73286669936782",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S36"
+    },
+    {
+      "cohort": "Viberank June",
+      "source_statistic": "P90",
+      "daily_rate_usd": "215.0",
+      "denominator": "Tracked coding user-day P90",
+      "internal_same_percentile_quotient": "32.777332103302335",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S36"
+    },
+    {
+      "cohort": "Viberank June",
+      "source_statistic": "P99",
+      "daily_rate_usd": "708.0",
+      "denominator": "Tracked coding user-day P99",
+      "internal_same_percentile_quotient": "",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S36"
+    },
+    {
+      "cohort": "Viberank October snapshot",
+      "source_statistic": "P50",
+      "daily_rate_usd": "50.69772857142857",
+      "denominator": "30-day normalized submission P50 /30",
+      "internal_same_percentile_quotient": "11.859567503789735",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S37"
+    },
+    {
+      "cohort": "Viberank October snapshot",
+      "source_statistic": "P90",
+      "daily_rate_usd": "287.49986597298323",
+      "denominator": "30-day normalized submission P90 /30",
+      "internal_same_percentile_quotient": "24.511755434599856",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S37"
+    },
+    {
+      "cohort": "Viberank October snapshot",
+      "source_statistic": "P99",
+      "daily_rate_usd": "1384.4421648435334",
+      "denominator": "30-day normalized submission P99 /30",
+      "internal_same_percentile_quotient": "",
+      "status": "Descriptive cross-source valuation; heterogeneous price bases, dates, day and selection rules",
+      "source_ids": "S02;S37"
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario": "short",
+      "reference_model": "claude-sonnet-5.5",
+      "user_messages_per_day": "3.673469387755102",
+      "uncached_input_per_message": "500",
+      "cached_input_per_message": "0",
+      "cache_write_per_message": "0",
+      "visible_output_per_message": "150",
+      "reasoning_output_per_message": "0",
+      "daily_input": "1836.734693877551",
+      "daily_output": "551.0204081632653",
+      "daily_total": "2387.7551020408164",
+      "api_equivalent_usd_day": "0.009183673469387756",
+      "researcher_p50_div_scenario": "65469.78573289259",
+      "researcher_p90_div_scenario": "767353.7637962",
+      "external_mean_div_scenario": "1415.5555555555554",
+      "evidence": "assumed workload lengths x measured rounded 2025 consumer message aggregate",
+      "denominator": "weekly-active account / calendar day; not active-day median",
+      "source_ids": "S05;S19;S02;S04"
+    },
+    {
+      "scenario": "routine",
+      "reference_model": "claude-sonnet-5.5",
+      "user_messages_per_day": "3.673469387755102",
+      "uncached_input_per_message": "2000",
+      "cached_input_per_message": "0",
+      "cache_write_per_message": "0",
+      "visible_output_per_message": "500",
+      "reasoning_output_per_message": "0",
+      "daily_input": "7346.938775510204",
+      "daily_output": "1836.734693877551",
+      "daily_total": "9183.673469387755",
+      "api_equivalent_usd_day": "0.03306122448979592",
+      "researcher_p50_div_scenario": "18186.051592470165",
+      "researcher_p90_div_scenario": "213153.82327672225",
+      "external_mean_div_scenario": "393.2098765432099",
+      "evidence": "assumed workload lengths x measured rounded 2025 consumer message aggregate",
+      "denominator": "weekly-active account / calendar day; not active-day median",
+      "source_ids": "S05;S19;S02;S04"
+    },
+    {
+      "scenario": "long",
+      "reference_model": "claude-sonnet-5.5",
+      "user_messages_per_day": "3.673469387755102",
+      "uncached_input_per_message": "20000",
+      "cached_input_per_message": "0",
+      "cache_write_per_message": "0",
+      "visible_output_per_message": "5000",
+      "reasoning_output_per_message": "0",
+      "daily_input": "73469.38775510204",
+      "daily_output": "18367.34693877551",
+      "daily_total": "91836.73469387756",
+      "api_equivalent_usd_day": "0.33061224489795915",
+      "researcher_p50_div_scenario": "1818.6051592470167",
+      "researcher_p90_div_scenario": "21315.38232767223",
+      "external_mean_div_scenario": "39.320987654320994",
+      "evidence": "assumed workload lengths x measured rounded 2025 consumer message aggregate",
+      "denominator": "weekly-active account / calendar day; not active-day median",
+      "source_ids": "S05;S19;S02;S04"
+    },
+    {
+      "scenario": "reasoning_heavy",
+      "reference_model": "claude-sonnet-5.5",
+      "user_messages_per_day": "3.673469387755102",
+      "uncached_input_per_message": "20000",
+      "cached_input_per_message": "0",
+      "cache_write_per_message": "0",
+      "visible_output_per_message": "5000",
+      "reasoning_output_per_message": "45000",
+      "daily_input": "73469.38775510204",
+      "daily_output": "183673.46938775512",
+      "daily_total": "257142.85714285716",
+      "api_equivalent_usd_day": "1.9836734693877554",
+      "researcher_p50_div_scenario": "303.1008598745027",
+      "researcher_p90_div_scenario": "3552.5637212787037",
+      "external_mean_div_scenario": "6.55349794238683",
+      "evidence": "assumed workload lengths x measured rounded 2025 consumer message aggregate",
+      "denominator": "weekly-active account / calendar day; not active-day median",
+      "source_ids": "S05;S19;S02;S04"
+    }
+  ],
+  "capability": [
+    {
+      "population": "Free consumer",
+      "Public model access": "Public app\nmodels",
+      "Budget constraints": "Variable free\nquotas",
+      "Context example": "Gemini: 32k",
+      "Parallel / long work": "Some tools; no\nmeasured ceiling",
+      "Unreleased models": "Not established",
+      "source_ids": "S03;S17;S21;S22;S23"
+    },
+    {
+      "population": "Paid advanced",
+      "Public model access": "Frontier public\nmodels",
+      "Budget constraints": "Plan quotas /\ntop-ups",
+      "Context example": "Gemini paid:\nup to 1M",
+      "Parallel / long work": "Agents available;\ntask-dependent",
+      "Unreleased models": "Not established",
+      "source_ids": "S03;S17;S21;S22;S23"
+    },
+    {
+      "population": "API professional",
+      "Public model access": "Public API\ncatalog",
+      "Budget constraints": "Spend / rate /\norg limits",
+      "Context example": "Model-specific",
+      "Parallel / long work": "Programmatic\norchestration",
+      "Unreleased models": "Limited approved\nprograms",
+      "source_ids": "S03;S17;S21;S22;S23"
+    },
+    {
+      "population": "Frontier employee",
+      "Public model access": "Public + internal\ncheckpoints",
+      "Budget constraints": "OpenAI: no\nquantity quota*",
+      "Context example": "Not disclosed",
+      "Parallel / long work": "Internal tools;\nconcurrent usage",
+      "Unreleased models": "Documented\nearly access",
+      "source_ids": "S03;S17;S21;S22;S23"
+    }
+  ],
+  "cache": [
+    {
+      "reference_model": "claude-sonnet-5.5",
+      "total_processed_tokens_per_coding_day": "85528566.54122476",
+      "uncached_input": "684228.5323297981",
+      "cache_read": "81081081.08108108",
+      "cache_write": "3592199.7947314405",
+      "output": "171057.13308244952",
+      "correct_api_value": "20.1676359904208",
+      "ignoring_cache_discounts": "172.42559014710912",
+      "overvaluation_factor": "8.549618320610687",
+      "status": "Fixed-price reference valuation of rounded measured aggregate mix; no reasoning added",
+      "source_ids": "S36;S19"
+    }
+  ],
+  "counts": {
+    "sources": 45,
+    "observations": 5353
+  },
+  "concentration": {
+    "source_id": "S09",
+    "population": "Cursor developer cohort",
+    "measurement_period": "Cohort window undisclosed",
+    "classification": "Source-reported cumulative shares and Gini coefficients; not global AI-access inequality",
+    "gini": {
+      "tokens": 0.72,
+      "spend": 0.75
+    },
+    "points": [
+      {
+        "users": 0,
+        "tokens": 0,
+        "spend": 0
+      },
+      {
+        "users": 5,
+        "tokens": 0.02,
+        "spend": 0.02
+      },
+      {
+        "users": 10,
+        "tokens": 0.08,
+        "spend": 0.08
+      },
+      {
+        "users": 15,
+        "tokens": 0.19,
+        "spend": 0.2
+      },
+      {
+        "users": 20,
+        "tokens": 0.38,
+        "spend": 0.4
+      },
+      {
+        "users": 25,
+        "tokens": 0.68,
+        "spend": 0.69
+      },
+      {
+        "users": 30,
+        "tokens": 1.13,
+        "spend": 1.11
+      },
+      {
+        "users": 35,
+        "tokens": 1.74,
+        "spend": 1.68
+      },
+      {
+        "users": 40,
+        "tokens": 2.59,
+        "spend": 2.43
+      },
+      {
+        "users": 45,
+        "tokens": 3.71,
+        "spend": 3.37
+      },
+      {
+        "users": 50,
+        "tokens": 5.15,
+        "spend": 4.55
+      },
+      {
+        "users": 55,
+        "tokens": 6.93,
+        "spend": 6.04
+      },
+      {
+        "users": 60,
+        "tokens": 9.13,
+        "spend": 7.93
+      },
+      {
+        "users": 65,
+        "tokens": 11.92,
+        "spend": 10.34
+      },
+      {
+        "users": 70,
+        "tokens": 15.46,
+        "spend": 13.43
+      },
+      {
+        "users": 75,
+        "tokens": 19.99,
+        "spend": 17.41
+      },
+      {
+        "users": 80,
+        "tokens": 25.85,
+        "spend": 22.57
+      },
+      {
+        "users": 85,
+        "tokens": 33.56,
+        "spend": 29.47
+      },
+      {
+        "users": 90,
+        "tokens": 44.13,
+        "spend": 39.1
+      },
+      {
+        "users": 95,
+        "tokens": 59.94,
+        "spend": 54.04
+      },
+      {
+        "users": 100,
+        "tokens": 100,
+        "spend": 100
+      }
+    ]
+  },
+  "comparisons": [
+    {
+      "statistic": "P50",
+      "numerator": 601.2531342816667,
+      "denominator": 29,
+      "ratio": 20.73286669936782,
+      "classification": "Heterogeneous source-price benchmark; not a physical-compute ratio"
+    },
+    {
+      "statistic": "P90",
+      "numerator": 7047.126402210001,
+      "denominator": 215,
+      "ratio": 32.777332103302335,
+      "classification": "Heterogeneous source-price benchmark; not a physical-compute ratio"
+    }
+  ]
+}

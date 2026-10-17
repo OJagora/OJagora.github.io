@@ -1,0 +1,11 @@
+{
+  "checked_on": "2026-10-14",
+  "dataset_sha256": "52d15bdd9c38e8aefc0596995d870063e0a87113cdfa215a6e5c84cdc1faf22d",
+  "counts": {
+    "people": 223,
+    "relationships": 276,
+    "sources": 157,
+    "errors": 0
+  },
+  "reproducible": "npm run analyze:ai-inner-circle"
+}
