@@ -1,0 +1,1572 @@
+[
+  {
+    "id": "ac-alexnet",
+    "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+    "url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+    "publisher": "Krizhevsky, Sutskever and Hinton / NeurIPS",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original AlexNet paper lists three Toronto authors.",
+    "publication_date": "2012"
+  },
+  {
+    "id": "ac-alphafold",
+    "title": "Highly accurate protein structure prediction with AlphaFold",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34265844/",
+    "publisher": "Jumper et al. / Nature / PubMed",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Primary publication author and DeepMind affiliation record.",
+    "publication_date": "2021-07-15"
+  },
+  {
+    "id": "ac-capsules",
+    "title": "Dynamic Routing Between Capsules",
+    "url": "https://arxiv.org/pdf/1710.09829",
+    "publisher": "Sabour, Frosst and Hinton / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original three-author capsule-network paper, with Google affiliations.",
+    "publication_date": "2017-10-26"
+  },
+  {
+    "id": "ac-character",
+    "title": "Introducing Character",
+    "url": "https://blog.character.ai/introducing-character/",
+    "publisher": "Character.AI founders",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Shazeer and de Freitas introduce their company and earlier chatbot work.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-chinchilla",
+    "title": "Training Compute-Optimal Large Language Models",
+    "url": "https://arxiv.org/pdf/2203.15556",
+    "publisher": "Hoffmann et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "DeepMind paper identifies four equal-contribution authors.",
+    "publication_date": "2022-03-29"
+  },
+  {
+    "id": "ac-cohere",
+    "title": "About Our Company",
+    "url": "https://cohere.com/about",
+    "publisher": "Cohere",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Lists Gomez, Frosst and Zhang as founders.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-courville",
+    "title": "Je suis chercheur. C’est mon travail",
+    "url": "https://nouvelles.umontreal.ca/article/2025/05/21/je-suis-chercheur.-c-est-mon-travail",
+    "publisher": "Université de Montréal",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Interview calls Bengio Courville’s friend and describes recruiting and writing together.",
+    "publication_date": "2025-05-21"
+  },
+  {
+    "id": "ac-dean-friendship",
+    "title": "The Friendship That Made Google Huge",
+    "url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+    "publisher": "The New Yorker",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Interviewed engineers describe enduring friendship, joint coding and family vacations.",
+    "publication_date": "2018-12-10"
+  },
+  {
+    "id": "ac-deep-learning",
+    "title": "Deep learning",
+    "url": "https://www.nature.com/articles/nature14539",
+    "publisher": "LeCun, Bengio and Hinton / Nature",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Three-author review and institutional affiliations.",
+    "publication_date": "2015-05-27"
+  },
+  {
+    "id": "ac-deepmind-founders",
+    "title": "Entering our tenth year at DeepMind",
+    "url": "https://deepmind.google/blog/from-unlikely-start-up-to-major-scientific-organisation-entering-our-tenth-year-at-deepmind/",
+    "publisher": "Google DeepMind",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Hassabis identifies the three founders and 2019 research leadership.",
+    "publication_date": "2019-12-05"
+  },
+  {
+    "id": "ac-dnnresearch",
+    "title": "U of T alum leads AI research at OpenAI",
+    "url": "https://www.utoronto.ca/news/u-t-alum-leading-ai-research-1-billion-non-profit-backed-elon-musk",
+    "publisher": "University of Toronto",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Interview identifies Hinton, Krizhevsky and Sutskever as DNNresearch founders.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-dqn",
+    "title": "Playing Atari with Deep Reinforcement Learning",
+    "url": "https://arxiv.org/pdf/1312.5602",
+    "publisher": "Mnih et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Seven-author original DQN paper identifies substantive research team.",
+    "publication_date": "2013-12-19"
+  },
+  {
+    "id": "ac-enas",
+    "title": "Efficient Neural Architecture Search via Parameter Sharing",
+    "url": "https://arxiv.org/abs/1802.03268",
+    "publisher": "Pham et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Five-author original ENAS paper includes Le and Dean.",
+    "publication_date": "2018-02-09"
+  },
+  {
+    "id": "ac-essential",
+    "title": "GTC 2024 Recommended Sessions",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_downloads/2024/03/IR-recommended-sessions_v6-1.pdf",
+    "publisher": "NVIDIA",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official March 2024 program names Essential founders and Transformer authors’ historical company roles.",
+    "publication_date": "2024-03"
+  },
+  {
+    "id": "ac-feifei",
+    "title": "Fei-Fei Li — Stanford Profiles",
+    "url": "https://profiles.stanford.edu/fei-fei-li",
+    "publisher": "Stanford University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official faculty biography and research appointments.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-gan",
+    "title": "Generative Adversarial Networks",
+    "url": "https://arxiv.org/pdf/1406.2661",
+    "publisher": "Goodfellow et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original GAN paper; researcher affiliations and author list.",
+    "publication_date": "2014-06-10"
+  },
+  {
+    "id": "ac-glm",
+    "title": "GLM-130B: An Open Bilingual Pre-trained Model",
+    "url": "https://arxiv.org/pdf/2210.02414",
+    "publisher": "Zeng et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Appendix records manuscript, monitoring and advisory contributors.",
+    "publication_date": "2022-10-05"
+  },
+  {
+    "id": "ac-hinton-students",
+    "title": "Geoffrey Hinton's former PhD students",
+    "url": "https://www.cs.toronto.edu/~hinton/gradstuphd.html",
+    "publisher": "Geoffrey Hinton / University of Toronto",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official former doctoral student list, graduation years, co-advisors.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-ilya",
+    "title": "Ilya Sutskever's home page",
+    "url": "https://www.cs.toronto.edu/~ilya/",
+    "publisher": "Ilya Sutskever / University of Toronto",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Historical bio records DNNresearch, Google and Hinton.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-inflection",
+    "title": "A New Paradigm in Human-Machine Interaction",
+    "url": "https://greylock.com/blog/a-new-paradigm-in-human-machine-interaction/",
+    "publisher": "Mustafa Suleyman / Greylock",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Founder announcement identifies Suleyman, Hoffman and Simonyan.",
+    "publication_date": "2022-03-08"
+  },
+  {
+    "id": "ac-jie-tang",
+    "title": "Jie Tang's Homepage",
+    "url": "https://keg.cs.tsinghua.edu.cn/jietang/",
+    "publisher": "Jie Tang / Tsinghua University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Professor's official page documents GLM and research collaborations.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-karpathy",
+    "title": "Andrej Karpathy Academic Website",
+    "url": "https://ai.stanford.edu/~karpathy/",
+    "publisher": "Andrej Karpathy / Stanford",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Historical biography records doctoral work and joint course design with Fei-Fei Li.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-koray-thesis",
+    "title": "Learning Feature Hierarchies for Object Recognition",
+    "url": "https://cs.nyu.edu/media/publications/kavukcuoglu_koray.pdf",
+    "publisher": "Koray Kavukcuoglu / NYU",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "2011 dissertation explicitly thanks advisor Yann LeCun.",
+    "publication_date": "2011-01"
+  },
+  {
+    "id": "ac-lee-01",
+    "title": "Top-down Thesis",
+    "url": "https://www.01.ai/en/top-down.html",
+    "publisher": "01.AI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Company identifies Kai-Fu Lee as CEO.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-lee-bio",
+    "title": "Kai-Fu Lee — Chairman & CEO",
+    "url": "https://www.sinovationventures.com/portfolio/items/kaifulee",
+    "publisher": "Sinovation Ventures",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official biography records venture firm founding and Google China leadership.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-llama",
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "url": "https://arxiv.org/pdf/2302.13971",
+    "publisher": "Touvron et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Meta AI author affiliations and equal-contribution markers.",
+    "publication_date": "2023-02-27"
+  },
+  {
+    "id": "ac-mapreduce",
+    "title": "MapReduce: Simplified Data Processing on Large Clusters",
+    "url": "https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/",
+    "publisher": "Jeffrey Dean and Sanjay Ghemawat / Google Research",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original two-author systems paper.",
+    "publication_date": "2004"
+  },
+  {
+    "id": "ac-mistral",
+    "title": "About Mistral",
+    "url": "https://mistral.ai/about/",
+    "publisher": "Mistral AI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies three founders; company originated in April 2023.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-moe",
+    "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+    "url": "https://arxiv.org/abs/1701.06538",
+    "publisher": "Shazeer et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original seven-author mixture-of-experts paper.",
+    "publication_date": "2017-01-23"
+  },
+  {
+    "id": "ac-moonshot-interview",
+    "title": "Yang Zhilin's First In-Depth Interview",
+    "url": "https://about.geekpark.net/different-organizations-allow-different-things-to-emerge-yang-zhilin-s-first-in-depth-interview/",
+    "publisher": "GeekPark / Yang Zhilin interview",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Interview identifies Yang as Moonshot founder and CEO in November 2023.",
+    "publication_date": "2026-07-30"
+  },
+  {
+    "id": "ac-near",
+    "title": "AI is NEAR",
+    "url": "https://www.near.org/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23",
+    "publisher": "NEAR",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names Polosukhin and Skidanov as NEAR cofounders.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-pedestrian",
+    "title": "Pedestrian Detection with Unsupervised Multi-Stage Feature Learning",
+    "url": "https://arxiv.org/pdf/1212.0142",
+    "publisher": "Sermanet et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Four NYU authors on a specific computer vision collaboration.",
+    "publication_date": "2012-12-01"
+  },
+  {
+    "id": "ac-reddy",
+    "title": "The Link, Winter 2017",
+    "url": "https://magazine.cs.cmu.edu/s/THE_LINK_Winter2017.pdf",
+    "publisher": "Carnegie Mellon University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Describes Kai-Fu Lee's Sphinx doctorate under Raj Reddy.",
+    "publication_date": "2017"
+  },
+  {
+    "id": "ac-sakana",
+    "title": "Corporate Information",
+    "url": "https://sakana.ai/company-info/?lang=en",
+    "publisher": "Sakana AI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names three founders and July 2023 foundation.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-sensetime",
+    "title": "Corporate Governance",
+    "url": "https://www.sensetime.com/en/investor_corp_governance",
+    "publisher": "SenseTime",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official founder biographies and research leadership.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-seq2seq",
+    "title": "Sequence to Sequence Learning with Neural Networks",
+    "url": "https://arxiv.org/pdf/1409.3215",
+    "publisher": "Sutskever, Vinyals and Le / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original three-author sequence-to-sequence paper.",
+    "publication_date": "2014-09-10"
+  },
+  {
+    "id": "ac-tang",
+    "title": "Xiaoou Tang — Personal Profile",
+    "url": "https://research.cuhk.edu.hk/en/persons/xiaoou-tang/",
+    "publisher": "Chinese University of Hong Kong",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Memorial profile confirms SenseTime cofounding and named joint research projects.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-transformer",
+    "title": "Attention Is All You Need",
+    "url": "https://arxiv.org/pdf/1706.03762",
+    "publisher": "Vaswani et al. / arXiv",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Author list, affiliations and contribution footnote explicitly identify paired implementation work.",
+    "publication_date": "2017-06-12"
+  },
+  {
+    "id": "ac-worldlabs",
+    "title": "About World Labs",
+    "url": "https://www.worldlabs.ai/about",
+    "publisher": "World Labs",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Lists Li, Johnson, Mildenhall and Lassner as founders.",
+    "publication_date": null
+  },
+  {
+    "id": "ac-yang-thesis",
+    "title": "Advances in Generative Feature Learning",
+    "url": "https://www.lti.cs.cmu.edu/people/alumni/alumni-thesis/yang-zhilin-thesis.pdf",
+    "publisher": "Zhilin Yang / Carnegie Mellon University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Thesis explicitly names advisors, mentors, friends and recurring coauthors.",
+    "publication_date": "2019"
+  },
+  {
+    "id": "afac-bengio-lawzero",
+    "title": "Yoshua Bengio at LawZero",
+    "url": "https://lawzero.org/en/team/yoshua-bengio",
+    "publisher": "LawZero",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "LawZero founding and leadership, Mila scientific advisory role."
+  },
+  {
+    "id": "afac-bengio-umontreal",
+    "title": "Yoshua Bengio university biography",
+    "url": "https://recherche.umontreal.ca/chercheur/is/in13599/",
+    "publisher": "Université de Montréal",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Graduate degrees, professorship, CIFAR role, IVADO and elected societies."
+  },
+  {
+    "id": "afac-courville-mila",
+    "title": "Aaron Courville biography",
+    "url": "https://mila.quebec/en/directory/aaron-courville",
+    "publisher": "Mila",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "CMU PhD, Montréal professor, Mila founding membership, IVADO and CIFAR chair."
+  },
+  {
+    "id": "afac-dayan-max-planck",
+    "title": "Peter Dayan biography",
+    "url": "https://www.mpg.de/12309370/biological-cybernetics-dayan",
+    "publisher": "Max Planck Society",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Education, postdocs, MIT/UCL/Max Planck and elected fellowships."
+  },
+  {
+    "id": "afac-dean-minnesota",
+    "title": "Jeff Dean alumnus biography",
+    "url": "https://cse.umn.edu/cs/news/cse-alumnus-jeff-dean-returns-campus-commencement",
+    "publisher": "University of Minnesota",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Completed degrees, Google chief scientist, engineering academy/arts academy/ACM fellow."
+  },
+  {
+    "id": "afac-fei-caltech",
+    "title": "Fei-Fei Li alumni biography",
+    "url": "https://www.alumni.caltech.edu/fei-fei-li/",
+    "publisher": "Caltech",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "MS 2002 and PhD 2005; co-founder of AI4ALL."
+  },
+  {
+    "id": "afac-fei-stanford",
+    "title": "Fei-Fei Li profile",
+    "url": "https://profiles.stanford.edu/fei-fei-li",
+    "publisher": "Stanford University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Princeton and Caltech degrees; Stanford and Google roles; World Labs and AI4ALL."
+  },
+  {
+    "id": "afac-graves-deepmind-lecture",
+    "title": "Alex Graves biography in UCL/DeepMind lecture",
+    "url": "https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L8%20-%20UCLxDeepMind%20DL2020.pdf",
+    "publisher": "Google DeepMind / UCL",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Completed Edinburgh BSc, Cambridge Part III, PhD at IDSIA and Munich/Toronto postdocs."
+  },
+  {
+    "id": "afac-graves-toronto",
+    "title": "Alex Graves Toronto biography",
+    "url": "https://www.cs.toronto.edu/~graves/",
+    "publisher": "University of Toronto / Alex Graves",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "CIFAR junior fellowship at Toronto."
+  },
+  {
+    "id": "afac-hassabis-europaea",
+    "title": "Demis Hassabis member biography",
+    "url": "https://www.ae-info.org/ae/Member/Hassabis_Demis",
+    "publisher": "Academia Europaea",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Career, elected academies, postdoctoral research and companies."
+  },
+  {
+    "id": "afac-hassabis-royal-society",
+    "title": "Demis Hassabis Fellow biography",
+    "url": "https://royalsociety.org/people/demis-hassabis-13817/",
+    "publisher": "The Royal Society",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Completed Cambridge computer science degree and UCL PhD, founder and academy fellow."
+  },
+  {
+    "id": "afac-hinton-bio",
+    "title": "Geoffrey Hinton biography",
+    "url": "https://www.cs.toronto.edu/~hinton/",
+    "publisher": "University of Toronto / Geoffrey Hinton",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Education, academic career, Google tenure and elected societies."
+  },
+  {
+    "id": "afac-jumper-chicago",
+    "title": "John Jumper academic biography",
+    "url": "https://datascience.uchicago.edu/people/john-jumper/",
+    "publisher": "University of Chicago",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Vanderbilt bachelor, Cambridge MPhil, Chicago doctorate and DeepMind director."
+  },
+  {
+    "id": "afac-jumper-vanderbilt",
+    "title": "John Jumper: Boundary-Spanning Genius",
+    "url": "https://news.vanderbilt.edu/2024/10/30/boundary-spanning-genius/",
+    "publisher": "Vanderbilt University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2024-10-30",
+    "summary": "D. E. Shaw employment and Cambridge doctoral departure."
+  },
+  {
+    "id": "afac-kaifu-columbia",
+    "title": "Kai-Fu Lee biography",
+    "url": "https://globalcenters.columbia.edu/content/kai-fu-lee",
+    "publisher": "Columbia University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Columbia and Carnegie Mellon degrees; Sinovation, Google, Microsoft, SGI and Apple."
+  },
+  {
+    "id": "afac-kaiming-mit",
+    "title": "Kaiming He biography",
+    "url": "https://people.csail.mit.edu/kaiming/",
+    "publisher": "MIT / Kaiming He",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Degrees and explicit Microsoft, FAIR and MIT career dates; DeepMind title."
+  },
+  {
+    "id": "afac-koray-google",
+    "title": "Koray Kavukcuoglu official biography",
+    "url": "https://blog.google/authors/koray-kavukcuoglu/",
+    "publisher": "Google",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "DeepMind SVP and Google chief AI architect."
+  },
+  {
+    "id": "afac-lecun-academy",
+    "title": "Yann Le Cun member biography",
+    "url": "https://academie-sciences.fr/yann-le-cun",
+    "publisher": "Académie des sciences",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Education; Toronto, Bell Labs, AT&T and NYU career; foreign associate election."
+  },
+  {
+    "id": "afac-legg-usi",
+    "title": "USI alumnus Shane Legg and DeepMind",
+    "url": "https://www.usi.ch/en/feeds/21563",
+    "publisher": "Università della Svizzera italiana",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2014-02-12",
+    "summary": "Doctorate completed at USI and DeepMind founding; former IDSIA researchers."
+  },
+  {
+    "id": "afac-mnih-toronto",
+    "title": "Volodymyr Mnih biography",
+    "url": "https://www.cs.utoronto.ca/~vmnih/",
+    "publisher": "University of Toronto / Volodymyr Mnih",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Alberta MSc, Toronto PhD, DeepMind research role."
+  },
+  {
+    "id": "afac-oriol-upc",
+    "title": "Oriol Vinyals academic and career biography",
+    "url": "https://www.upc.edu/en/press-room/news/oriol-vinyals-honorary-doctoral-degree-upc-ai-allows-us-to-focus-on-asking-the-right-questions-to-advance-science",
+    "publisher": "UPC",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2025-12-01",
+    "summary": "Double degree, California masters and doctorate, Carnegie Mellon thesis stay, Google/DeepMind."
+  },
+  {
+    "id": "afac-quoc-stanford",
+    "title": "Quoc Le biography",
+    "url": "https://ai.stanford.edu/~quocle/",
+    "publisher": "Stanford University / Quoc Le",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "ANU undergraduate, Stanford doctoral studies, Google and Max Planck visit."
+  },
+  {
+    "id": "afac-salakhutdinov-cmu",
+    "title": "Ruslan Salakhutdinov academic profile",
+    "url": "https://scholars.cmu.edu/6227-ruslan-salakhutdinov",
+    "publisher": "Carnegie Mellon University",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Degrees, MIT postdoc, Toronto/CMU career, CIFAR and internships."
+  },
+  {
+    "id": "afac-salakhutdinov-cv",
+    "title": "Ruslan Salakhutdinov CV",
+    "url": "https://www.cs.cmu.edu/~rsalakhu/cv_web.pdf",
+    "publisher": "Carnegie Mellon / Ruslan Salakhutdinov",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Explicit CIBC career entry."
+  },
+  {
+    "id": "afac-suleyman-bio",
+    "title": "Mustafa Suleyman biography",
+    "url": "https://mustafa-suleyman.ai/",
+    "publisher": "Mustafa Suleyman",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "DeepMind and Inflection founding; Microsoft AI, Economist board, Belfer fellowship."
+  },
+  {
+    "id": "afac-teh-oxford",
+    "title": "Yee Whye Teh biography",
+    "url": "https://www.oxfordsparks.ox.ac.uk/scientists/yee-whye-teh/",
+    "publisher": "University of Oxford",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Toronto PhD, Berkeley/NUS postdocs, UCL/Oxford/DeepMind positions and Turing fellowship."
+  },
+  {
+    "id": "afac-zemel-caiac",
+    "title": "Richard Zemel biography",
+    "url": "https://www.caiac.ca/en/node/527",
+    "publisher": "Canadian Artificial Intelligence Association",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Toronto PhD, Salk and CMU postdocs, Arizona/Toronto/Columbia career and Vector leadership."
+  },
+  {
+    "id": "afrt-altman-helion",
+    "title": "Announcing Helion’s latest fundraise",
+    "url": "https://www.helionenergy.com/blog/announcing-500-million-fundraise",
+    "publisher": "Helion Energy",
+    "summary": "Chairman since 2015 and executive chairman from the 2021 announcement.",
+    "publication_date": "2021-11-05",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-altman-oklo",
+    "title": "Oklo announces chairman transition",
+    "url": "https://oklo.com/newsroom/oklo-announces-chairman-transition",
+    "publisher": "Oklo",
+    "summary": "Documents Altman stepping down as chairman in April 2025.",
+    "publication_date": "2025-04-22",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-altman-openai",
+    "title": "Review completed: Altman and Brockman to continue to lead OpenAI",
+    "url": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai/",
+    "publisher": "OpenAI",
+    "summary": "CEO leadership and return to the board documented in March 2024.",
+    "publication_date": "2024-03-08",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-altman-time",
+    "title": "Sam Altman — CEO of the Year 2023",
+    "url": "https://time.com/6342827/ceo-of-the-year-2023-sam-altman/",
+    "publisher": "TIME",
+    "summary": "Reports Stanford attendance, departure after two years, Loopt and YC career.",
+    "publication_date": "2023-12-06",
+    "kind": "secondary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-altman-yc",
+    "title": "Sam Altman for President",
+    "url": "https://www.ycombinator.com/blog/sam-altman-for-president",
+    "publisher": "Y Combinator",
+    "summary": "Paul Graham announces Altman as YC president and discusses the 2005 Loopt batch.",
+    "publication_date": "2014-02-21",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-brockman-home",
+    "title": "Greg Brockman home page",
+    "url": "https://gregbrockman.com/",
+    "publisher": "Greg Brockman",
+    "summary": "Former Stripe CTO, Harvard Computer Society and Ksplice work.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-brockman-path",
+    "title": "My path to OpenAI",
+    "url": "https://blog.gregbrockman.com/my-path-to-openai",
+    "publisher": "Greg Brockman",
+    "summary": "First-person college departure, Stripe and OpenAI history.",
+    "publication_date": "2016-05-03",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-brockman-wealth",
+    "title": "Bloomberg Billionaires Index — dated snapshot",
+    "url": "https://bloomberg.com/billionaires",
+    "publisher": "Bloomberg",
+    "summary": "Brockman estimate: $25.5 billion in the 7 October 2026 snapshot.",
+    "publication_date": "2026-10-07",
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-dario-bio",
+    "title": "Dario Amodei personal biography",
+    "url": "https://darioamodei.com/",
+    "publisher": "Dario Amodei",
+    "summary": "OpenAI and Google roles, Princeton doctorate, Stanford postdoc and Hertz fellowship.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-hoffman",
+    "title": "Reid Hoffman biography",
+    "url": "https://greylock.com/team/reid-hoffman/",
+    "publisher": "Greylock",
+    "summary": "Career, earned degrees and nonprofit boards.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-karpathy-bio",
+    "title": "Andrej Karpathy — personal biography",
+    "url": "https://karpathy.ai/",
+    "publisher": "Andrej Karpathy",
+    "summary": "First-person timeline of career, studies, internships and a public reading group.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-karpathy-stanford",
+    "title": "Andrej Karpathy — former Stanford profile",
+    "url": "https://cs.stanford.edu/people/karpathy/",
+    "publisher": "Stanford University",
+    "summary": "Author states he received his PhD; this profile explicitly warns that it is deprecated.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-karpathy-time",
+    "title": "Andrej Karpathy — TIME100 AI 2024",
+    "url": "https://time.com/collections/time100-ai-2024/7012851/andrej-karpathy/",
+    "publisher": "TIME",
+    "summary": "Reports founding Eureka Labs in July 2024.",
+    "publication_date": "2024-09-05",
+    "kind": "secondary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-levchin",
+    "title": "Max Levchin management biography",
+    "url": "https://investors.affirm.com/corporate-governance/management",
+    "publisher": "Affirm",
+    "summary": "PayPal, Slide, HVF, Affirm, Glow, degrees and boards.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-rabois",
+    "title": "Keith Rabois biography",
+    "url": "https://www.khoslaventures.com/team/keith-rabois",
+    "publisher": "Khosla Ventures",
+    "summary": "Career, degrees and board roles.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-thiel",
+    "title": "Peter Thiel biography",
+    "url": "https://foundersfund.com/team/peter-thiel/",
+    "publisher": "Founders Fund",
+    "summary": "PayPal, Palantir and Thiel Foundation leadership.",
+    "publication_date": null,
+    "kind": "primary",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "ex-bert",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers",
+    "url": "https://arxiv.org/abs/1810.04805",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2018-10-11",
+    "summary": "Four authors of the original BERT paper."
+  },
+  {
+    "id": "ex-bigscience",
+    "title": "BigScience: A Case Study in the Social Construction of a Multilingual Large Language Model",
+    "url": "https://arxiv.org/abs/2212.04960",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2022-12-09",
+    "summary": "Seven named authors jointly examine the BigScience collaboration."
+  },
+  {
+    "id": "ex-faiss",
+    "title": "Billion-scale similarity search with GPUs",
+    "url": "https://arxiv.org/abs/1702.08734",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2017-02-28",
+    "summary": "Three authors of the original GPU similarity-search paper."
+  },
+  {
+    "id": "ex-gan",
+    "title": "Generative Adversarial Networks",
+    "url": "https://arxiv.org/abs/1406.2661",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2014-06-10",
+    "summary": "Eight named authors of the original GAN paper."
+  },
+  {
+    "id": "ex-huggingface",
+    "title": "Julien Chaumond: reflections with my cofounders",
+    "url": "https://www.linkedin.com/posts/julienchaumond_just-came-back-from-spending-some-quality-activity-7149002236654755840-5RIn",
+    "publisher": "Julien Chaumond / LinkedIn",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": null,
+    "summary": "Chaumond explicitly names Delangue and Wolf as his cofounders."
+  },
+  {
+    "id": "ex-inflection",
+    "title": "A New Paradigm in Human-Machine Interaction",
+    "url": "https://greylock.com/blog/a-new-paradigm-in-human-machine-interaction/",
+    "publisher": "Mustafa Suleyman / Greylock",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2022-03-08",
+    "summary": "Suleyman announces Inflection with Reid Hoffman and Karén Simonyan."
+  },
+  {
+    "id": "ex-llama",
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "url": "https://arxiv.org/abs/2302.13971",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2023-02-27",
+    "summary": "Original paper lists fourteen researchers as coauthors."
+  },
+  {
+    "id": "ex-microsoft",
+    "title": "Mustafa Suleyman joins Microsoft to lead Copilot",
+    "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/",
+    "publisher": "Satya Nadella / Microsoft",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2024-03-19",
+    "summary": "Nadella documents direct reporting and AI strategy collaboration."
+  },
+  {
+    "id": "ex-resnet",
+    "title": "Deep Residual Learning for Image Recognition",
+    "url": "https://arxiv.org/abs/1512.03385",
+    "publisher": "arXiv / authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "publication_date": "2015-12-10",
+    "summary": "Original ResNet paper's four named authors."
+  },
+  {
+    "id": "od-adam",
+    "title": "Adam: A Method for Stochastic Optimization",
+    "url": "https://arxiv.org/pdf/1412.6980",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Two-author optimization paper by Kingma and Jimmy Ba.",
+    "publication_date": "2014-12-22"
+  },
+  {
+    "id": "od-anthropic-founders",
+    "title": "Leverage Anthropic’s Claude models for AI’s evolving landscape — slide 6",
+    "url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/events/approved/reinvent-2025/reinvent/2024/slides/aim/AIM123-S_Leverage-Anthropics-Claude-models-for-AIs-evolving-landscape-sponsored-by-Anthropic.pdf",
+    "publisher": "Anthropic / AWS",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Anthropic presentation identifies eight cofounders and prior OpenAI roles.",
+    "publication_date": null
+  },
+  {
+    "id": "od-anthropic-leadership",
+    "title": "Leadership at Anthropic",
+    "url": "https://www.anthropic.com/company/leadership",
+    "publisher": "Anthropic",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Company biographies identify seven cofounders.",
+    "publication_date": null
+  },
+  {
+    "id": "od-anthropic-siblings",
+    "title": "Anthropic raises $124 million Series A",
+    "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+    "publisher": "Anthropic",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Company announcement identifies Dario and Daniela as siblings.",
+    "publication_date": "2021-05-28"
+  },
+  {
+    "id": "od-brockman-wedding",
+    "title": "Can Greg Brockman Find a Future Back at OpenAI?",
+    "url": "https://www.theinformation.com/articles/can-greg-brockman-find-a-future-back-at-openai",
+    "publisher": "The Information",
+    "kind": "secondary",
+    "publication_date": null,
+    "checked_on": "2026-10-14",
+    "summary": "Reports Sutskever officiating Brockman’s 2019 marriage."
+  },
+  {
+    "id": "od-constitutional",
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "url": "https://arxiv.org/pdf/2212.08073",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Paper lists authors and Anthropic affiliation; selected author pairs only.",
+    "publication_date": "2022-12-15"
+  },
+  {
+    "id": "od-gpt3",
+    "title": "Language Models are Few-Shot Learners",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "GPT-3 author list verifies selected paper collaborations.",
+    "publication_date": "2020-05-28"
+  },
+  {
+    "id": "od-holden-marriage",
+    "title": "Holden Karnofsky on dozens of opportunities to make AI safer",
+    "url": "https://80000hours.org/podcast/episodes/holden-karnofsky-concrete-ai-safety-frontier-ai-companies/",
+    "publisher": "80,000 Hours",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "First-person interview confirms marriage to Anthropic’s president and work at Anthropic.",
+    "publication_date": null
+  },
+  {
+    "id": "od-holden-named-spouse",
+    "title": "Ezra Klein interviews Holden Karnofsky — transcript",
+    "url": "https://www.openphilanthropy.org/wp-content/uploads/nytimes.com-Transcript-Ezra-Klein-Interviews-Holden-Karnofsky.pdf",
+    "publisher": "Open Philanthropy / New York Times",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Karnofsky explicitly names Daniela Amodei as his wife.",
+    "publication_date": null
+  },
+  {
+    "id": "od-instructgpt",
+    "title": "Training language models to follow instructions with human feedback",
+    "url": "https://arxiv.org/pdf/2203.02155",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "InstructGPT author list verifies selected research collaboration.",
+    "publication_date": "2022-03-04"
+  },
+  {
+    "id": "od-labs",
+    "title": "Introducing Labs",
+    "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+    "publisher": "Anthropic",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Company announces Mike Krieger building experimental products alongside Ben Mann.",
+    "publication_date": "2026-01-13"
+  },
+  {
+    "id": "od-ntm",
+    "title": "Reinforcement Learning Neural Turing Machines — Revised",
+    "url": "https://arxiv.org/abs/1505.00521",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Two-author work by Zaremba and Sutskever.",
+    "publication_date": "2015-05-04"
+  },
+  {
+    "id": "od-openai-launch",
+    "title": "Introducing OpenAI",
+    "url": "https://openai.com/index/introducing-openai/",
+    "publisher": "OpenAI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Original launch names founding members and co-chairs.",
+    "publication_date": "2015-12-11"
+  },
+  {
+    "id": "od-perplexity-founding",
+    "title": "No Priors 109: Aravind Srinivas and Denis Yarats transcript",
+    "url": "https://sarah-guo.herokuapp.com/blog/perplexity",
+    "publisher": "Sarah Guo / No Priors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Founders recount incorporation, recruitment of Johnny Ho and early advice from Elad Gil.",
+    "publication_date": "2023-03-23"
+  },
+  {
+    "id": "od-ppo",
+    "title": "Proximal Policy Optimization Algorithms",
+    "url": "https://arxiv.org/pdf/1707.06347",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Five-author paper identifies OpenAI researchers.",
+    "publication_date": "2017-07-20"
+  },
+  {
+    "id": "od-predictability",
+    "title": "Predictability and Surprise in Large Generative Models",
+    "url": "https://arxiv.org/pdf/2202.07785",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Paper identifies authors at Anthropic; selected coauthorship evidence.",
+    "publication_date": "2022-02-15"
+  },
+  {
+    "id": "od-scale-founding",
+    "title": "Scale is an API for human labor",
+    "url": "https://www.ycombinator.com/blog/scale",
+    "publisher": "Y Combinator",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Interview with founders Lucy Guo and Alexandr Wang.",
+    "publication_date": "2016-07-26"
+  },
+  {
+    "id": "od-scaling",
+    "title": "Scaling Laws for Neural Language Models",
+    "url": "https://arxiv.org/abs/2001.08361",
+    "publisher": "arXiv / paper authors",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Author list verifies selected scaling-laws collaborations.",
+    "publication_date": "2020-01-23"
+  },
+  {
+    "id": "od-ssi-founding",
+    "title": "Former OpenAI Chief Scientist Announces New Safety-Focused Company",
+    "url": "https://time.com/6990076/safe-superintelligence-inc-announced/",
+    "publisher": "TIME",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Reports SSI founding by Sutskever, Gross and Levy.",
+    "publication_date": "2024-06-19"
+  },
+  {
+    "id": "od-ssi-update",
+    "title": "Safe Superintelligence updates",
+    "url": "https://ssi.inc/updates",
+    "publisher": "Safe Superintelligence",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Ilya confirms Gross departure on June 29, 2025 and Levy as president.",
+    "publication_date": "2025-07-03"
+  },
+  {
+    "id": "od-superalignment",
+    "title": "Introducing Superalignment",
+    "url": "https://openai.com/index/introducing-superalignment/",
+    "publisher": "OpenAI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Sutskever and Leike explicitly jointly lead the new research effort.",
+    "publication_date": "2023-07-05"
+  },
+  {
+    "id": "od-tml-founding",
+    "title": "Thinking Machines Lab: founding story",
+    "url": "https://research.contrary.com/company/thinking-machines-lab",
+    "publisher": "Contrary Research",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Explicit six-founder account, updated January 29, 2026; historical founding evidence.",
+    "publication_date": null
+  },
+  {
+    "id": "od-wang-friendship",
+    "title": "2024 TIME100 Next: Alexandr Wang, by Sam Altman",
+    "url": "https://time.com/collections/time100-next-2024/7023475/alexandr-wang/",
+    "publisher": "TIME / Sam Altman",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Altman describes Wang as his longstanding friend.",
+    "publication_date": "2024-10-02"
+  },
+  {
+    "id": "od-wang-roommate",
+    "title": "Alexandr Wang on AI’s Potential and Its Deficiencies",
+    "url": "https://time.com/7296215/alexandr-wang-interview/",
+    "publisher": "TIME",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Reporter explicitly states Altman stayed in Wang’s apartment for months during the pandemic.",
+    "publication_date": "2025-06-22"
+  },
+  {
+    "id": "pv-a16z",
+    "title": "About Andreessen Horowitz",
+    "url": "https://a16z.com/about/",
+    "publisher": "Andreessen Horowitz",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies Andreessen and Horowitz as founders in 2009.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-airbnb-roommates",
+    "title": "The Airbnb Story: publisher extract",
+    "url": "https://www.penguin.co.uk/discover/articles/the-air-bnb-story",
+    "publisher": "Penguin / Leigh Gallagher",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Describes Chesky and Gebbia’s friendship, design project, and shared apartment.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-altman-profile",
+    "title": "Sam Altman’s Manifest Destiny",
+    "url": "https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny",
+    "publisher": "The New Yorker",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Documents Graham friendship and Altman advising Chesky.",
+    "publication_date": "2016-10-03"
+  },
+  {
+    "id": "pv-angellist",
+    "title": "Venture Hacks Revisited",
+    "url": "https://www.angellist.com/blog/we-dont-pay-you-to-work-here",
+    "publisher": "AngelList",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies Ravikant and Nivi as AngelList cofounders.",
+    "publication_date": "2021-05-05"
+  },
+  {
+    "id": "pv-asana",
+    "title": "About Asana",
+    "url": "https://asana.com/company",
+    "publisher": "Asana",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Describes Moskovitz and Rosenstein’s founding collaboration.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-banister",
+    "title": "Cyan Banister on Luke Nosek’s Pitch",
+    "url": "https://podcasts.apple.com/ca/podcast/dig-through-your-couches-spacex-needs-it-cyan-banister/id1738124704?i=1000776244324",
+    "publisher": "Sourcery",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Interview notes identify spouse Scott and recurring joint angel portfolio.",
+    "publication_date": "2026-07-10"
+  },
+  {
+    "id": "pv-bill-lee",
+    "title": "Bill Lee biography",
+    "url": "https://www.craftventures.com/team/bill-lee",
+    "publisher": "Craft Ventures",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies Craft cofounder.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-chesky-advice",
+    "title": "Brian Chesky on helping Sam Altman",
+    "url": "https://www.fastcompany.com/91270783/airbnb-ceo-brian-chesky-explains-how-he-helped-sam-altman-during-openais-2023-board-fiasco",
+    "publisher": "Fast Company / Rapid Response",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Chesky describes recurring advice and crisis support.",
+    "publication_date": "2025-01-31"
+  },
+  {
+    "id": "pv-chesky-altman",
+    "title": "The Disruptors: Sam Altman and Brian Chesky",
+    "url": "https://www.aspenideas.org/podcasts/the-disruptors-sam-altman-and-brian-chesky",
+    "publisher": "Aspen Institute",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Event organizer documents close friendship.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-fbfund",
+    "title": "Announcement: fbFund",
+    "url": "https://about.fb.com/news/2007/09/announcement-fbfund/",
+    "publisher": "Facebook",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names Zuckerberg, Palihapitiya, Breyer and Thiel on a specific investment committee.",
+    "publication_date": "2007-09-17"
+  },
+  {
+    "id": "pv-gigafund",
+    "title": "Gigafund team biographies",
+    "url": "https://www.gigafund.com/",
+    "publisher": "Gigafund",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies founders and Founders Fund origins.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-howery",
+    "title": "Ken Howery biography",
+    "url": "https://www.weforum.org/people/ken-howery/",
+    "publisher": "World Economic Forum",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Documents PayPal, Founders Fund, and private investing partnership with Thiel.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-inflection",
+    "title": "A New Paradigm in Human-Machine Interaction",
+    "url": "https://greylock.com/blog/a-new-paradigm-in-human-machine-interaction/",
+    "publisher": "Greylock / Mustafa Suleyman",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Suleyman announces founding Inflection with Hoffman and Simonyan.",
+    "publication_date": "2022-03-08"
+  },
+  {
+    "id": "pv-initialized",
+    "title": "Initialized investor Garry Tan’s Coinbase bet",
+    "url": "https://www.forbes.com/sites/alexkonrad/2021/04/14/initialized-investor-garry-tan-turned-300k-bet-on-coinbase-into-680-million/",
+    "publisher": "Forbes",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies three Initialized cofounders and Tan advising Armstrong.",
+    "publication_date": "2021-04-14"
+  },
+  {
+    "id": "pv-levchin-illinois",
+    "title": "Max Levchin: The Making of a Tech Mogul",
+    "url": "https://grainger.illinois.edu/news/features/making-of-max-levchin",
+    "publisher": "University of Illinois",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Levchin recounts ventures with fellow students and personally backing Yelp.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-lonsdale",
+    "title": "Joe Lonsdale biography",
+    "url": "https://www.8vc.com/team/joe-lonsdale",
+    "publisher": "8VC",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Documents founding Palantir and 8VC.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-loopt",
+    "title": "Generation GPS",
+    "url": "https://spectrum.ieee.org/generation-gps",
+    "publisher": "IEEE Spectrum",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Reports Altman and Sivo as close friends and Loopt creators.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-manas",
+    "title": "Manas AI leadership",
+    "url": "https://manasai.co/leadership",
+    "publisher": "Manas AI",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Official founding-team biographies.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-manas-launch",
+    "title": "Reid Hoffman announces Manas AI",
+    "url": "https://www.linkedin.com/posts/reidhoffman_we-are-closer-to-possible-than-weve-ever-activity-7289681747200335874-vbph",
+    "publisher": "Reid Hoffman",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Hoffman identifies Mukherjee as his cofounder.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-netscape",
+    "title": "Oral History of Jim Clark",
+    "url": "https://archive.computerhistory.org/resources/access/text/2020/06/102795133-05-01-acc.pdf",
+    "publisher": "Computer History Museum",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Clark recounts recruiting Andreessen and launching Netscape.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-ohanian",
+    "title": "I’m back. Fully Initialized.",
+    "url": "https://alexis.posthaven.com/im-back-fully-initialized",
+    "publisher": "Alexis Ohanian",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Author calls Tan a longtime friend; checked via indexed primary text, page fetch unavailable.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-opendoor",
+    "title": "Keith Rabois, Eric Wu, Ian Wong, and JD Ross",
+    "url": "https://www.builderonline.com/recognition/keith-rabois-eric-wu-ian-wong-and-jd-ross_o/",
+    "publisher": "Builder Magazine",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Names four Opendoor cofounders.",
+    "publication_date": "2017-12-05"
+  },
+  {
+    "id": "pv-openstore",
+    "title": "OpenStore founding story",
+    "url": "https://research.contrary.com/company/openstore",
+    "publisher": "Contrary Research",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Documents Rabois and Abraham as friends and founders.",
+    "publication_date": "2023-04-13"
+  },
+  {
+    "id": "pv-opsware",
+    "title": "Opsware annual report",
+    "url": "https://www.sec.gov/Archives/edgar/data/1100813/000110465906025269/a06-5491_110k.htm",
+    "publisher": "Opsware / SEC",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names Andreessen and Horowitz as cofounders.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-palantir",
+    "title": "Palantir board biographies",
+    "url": "https://investors.palantir.com/board.html",
+    "publisher": "Palantir",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies Karp, Cohen and Thiel as cofounders.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-partovi",
+    "title": "Hadi Partovi congressional biography",
+    "url": "https://docs.house.gov/meetings/SY/SY15/20140109/101630/HHRG-113-SY15-Bio-PartoviH-20140109.pdf",
+    "publisher": "US House of Representatives / Hadi Partovi",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Submitted biography identifies twin brother and iLike cofounding.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-paypal-podcast",
+    "title": "PayPal: A Merger of Enemies That Reshaped Silicon Valley",
+    "url": "https://sequoiacap.com/podcast/crucible-moments-paypal",
+    "publisher": "Sequoia Capital",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Founder interviews describe merger negotiations and CAPTCHA collaboration.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-paypal-sec",
+    "title": "PayPal 2001 annual report",
+    "url": "https://www.sec.gov/Archives/edgar/data/1103415/000091205702009834/a2073071z10-k405.htm",
+    "publisher": "PayPal / SEC",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Historical biographies identify founders and leadership.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-posthaven",
+    "title": "Posthaven founders’ pledge",
+    "url": "https://posthaven.com/pledge",
+    "publisher": "Posthaven",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Gibson and Tan describe Posterous founding and new joint project.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-sacks",
+    "title": "David Sacks biography",
+    "url": "https://www.craftventures.com/team/david-sacks",
+    "publisher": "Craft Ventures",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Historical PayPal leadership and Craft founding.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-sierra",
+    "title": "About Sierra",
+    "url": "https://sierra.ai/about",
+    "publisher": "Sierra",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names Taylor and Bavor as cofounders and describes earlier Google collaboration.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-sun",
+    "title": "Sun Founders Panel",
+    "url": "https://computerhistory.org/events/sun-founders-panel/",
+    "publisher": "Computer History Museum",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Founders recount formation of Sun Microsystems.",
+    "publication_date": "2006-01-11"
+  },
+  {
+    "id": "pv-sun-kp",
+    "title": "Sun Microsystems: Unleashing the power of networked computing",
+    "url": "https://www.kleinerperkins.com/perspectives/sun-microsystems/",
+    "publisher": "Kleiner Perkins",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Names four founders and their distinct founding roles.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-thiel",
+    "title": "Peter Thiel biography",
+    "url": "https://foundersfund.com/team/peter-thiel/",
+    "publisher": "Founders Fund",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Documents first outside Facebook investment and company founding.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-thiel-angel",
+    "title": "The Facebook IPO Players Club: Peter Thiel",
+    "url": "https://www.fastcompany.com/1812920/facebook-ipo-players-club-peter-thiel-updated",
+    "publisher": "Fast Company",
+    "kind": "secondary",
+    "checked_on": "2026-10-14",
+    "summary": "Reports Thiel’s personal angel financing of Facebook.",
+    "publication_date": "2012-02-01"
+  },
+  {
+    "id": "pv-yc-airbnb",
+    "title": "The Airbnbs",
+    "url": "https://www.paulgraham.com/airbnbs.html",
+    "publisher": "Paul Graham",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "First-person account of advising Airbnb founders.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-yc-jessica",
+    "title": "Jessica Livingston",
+    "url": "https://paulgraham.com/jessica.html",
+    "publisher": "Paul Graham",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Graham describes YC founders, two friends, and his spouse.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-yc-president",
+    "title": "Sam Altman for President",
+    "url": "https://www.ycombinator.com/blog/sam-altman-for-president",
+    "publisher": "Y Combinator",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Graham documents recruiting Altman and seeking his advice.",
+    "publication_date": "2014-02-21"
+  },
+  {
+    "id": "pv-yelp",
+    "title": "Yelp board biographies",
+    "url": "https://www.yelp-ir.com/governance/board-of-directors/default.aspx",
+    "publisher": "Yelp",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Identifies Stoppelman and Simmons as cofounders.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-youtube",
+    "title": "YouTube: 18 Months That Changed the Internet",
+    "url": "https://sequoiacap.com/podcast/crucible-moments-youtube",
+    "publisher": "Sequoia Capital",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Founders describe joint work and Botha’s investor partnership.",
+    "publication_date": null
+  },
+  {
+    "id": "pv-zero",
+    "title": "Zero to One",
+    "url": "https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/9780804139304/",
+    "publisher": "Penguin Random House",
+    "kind": "primary",
+    "checked_on": "2026-10-14",
+    "summary": "Publisher credits Thiel and Masters as authors.",
+    "publication_date": "2014-09-16"
+  }
+]

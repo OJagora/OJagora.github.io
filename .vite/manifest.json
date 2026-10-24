@@ -1,0 +1,60 @@
+{
+  "_AiEfficiencyPage-!~{005}~.js": {
+    "file": "assets/AiEfficiencyPage-LMT_oBdV.css",
+    "src": "_AiEfficiencyPage-!~{005}~.js"
+  },
+  "index.html": {
+    "file": "assets/index-DY74tCxV.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/AiEfficiencyPage.jsx",
+      "src/components/AiAccessGapPage.jsx",
+      "src/components/AiInnerCirclePage.jsx",
+      "src/components/AiInnerCirclePage.jsx",
+      "src/components/AiAccessGapPage.jsx",
+      "src/components/AiEfficiencyPage.jsx"
+    ],
+    "css": [
+      "assets/index-Cc6skn3D.css"
+    ]
+  },
+  "src/components/AiAccessGapPage.jsx": {
+    "file": "assets/AiAccessGapPage-k1KnrQxu.js",
+    "name": "AiAccessGapPage",
+    "src": "src/components/AiAccessGapPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiAccessGapPage-C3q2BQJE.css",
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  },
+  "src/components/AiEfficiencyPage.jsx": {
+    "file": "assets/AiEfficiencyPage-GXjAvCze.js",
+    "name": "AiEfficiencyPage",
+    "src": "src/components/AiEfficiencyPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  },
+  "src/components/AiInnerCirclePage.jsx": {
+    "file": "assets/AiInnerCirclePage-9RI9EOmt.js",
+    "name": "AiInnerCirclePage",
+    "src": "src/components/AiInnerCirclePage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiInnerCirclePage-COLbywWe.css"
+    ]
+  }
+}

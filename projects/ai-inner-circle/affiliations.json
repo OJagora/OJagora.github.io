@@ -1,0 +1,4280 @@
+[
+  {
+    "id": "afac-aaron-courville-carnegie-mellon-education",
+    "person_id": "aaron-courville",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "education",
+    "role": "PhD, Robotics Institute",
+    "description": "PhD, Robotics Institute",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-courville-mila"
+    ],
+    "evidence": "PhD, Robotics Institute documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-aaron-courville-cifar-fellowship",
+    "person_id": "aaron-courville",
+    "institution_id": "org-cifar",
+    "kind": "fellowship",
+    "role": "Canada CIFAR AI Chair",
+    "description": "Canada CIFAR AI Chair",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-courville-mila"
+    ],
+    "evidence": "Canada CIFAR AI Chair documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-aaron-courville-ivado-governance",
+    "person_id": "aaron-courville",
+    "institution_id": "org-ivado",
+    "kind": "governance",
+    "role": "Scientific Director",
+    "description": "Scientific Director",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-courville-mila"
+    ],
+    "evidence": "Scientific Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-aaron-courville-mila-founding",
+    "person_id": "aaron-courville",
+    "institution_id": "org-mila",
+    "kind": "founding",
+    "role": "Founding member",
+    "description": "Founding member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-courville-mila"
+    ],
+    "evidence": "Founding member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-aaron-courville-university-of-montreal-employment",
+    "person_id": "aaron-courville",
+    "institution_id": "org-university-of-montreal",
+    "kind": "employment",
+    "role": "Full Professor, DIRO",
+    "description": "Full Professor, DIRO",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-courville-mila"
+    ],
+    "evidence": "Full Professor, DIRO documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-cambridge-education",
+    "person_id": "alex-graves",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "Part III Mathematics",
+    "description": "Part III Mathematics",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ],
+    "evidence": "Part III Mathematics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-cifar-fellowship",
+    "person_id": "alex-graves",
+    "institution_id": "org-cifar",
+    "kind": "fellowship",
+    "role": "Junior Fellow (historical biography)",
+    "description": "Junior Fellow (historical biography)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-graves-toronto"
+    ],
+    "evidence": "Junior Fellow (historical biography) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-edinburgh-education",
+    "person_id": "alex-graves",
+    "institution_id": "org-edinburgh",
+    "kind": "education",
+    "role": "BSc, Theoretical Physics",
+    "description": "BSc, Theoretical Physics",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ],
+    "evidence": "BSc, Theoretical Physics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-idsia-education",
+    "person_id": "alex-graves",
+    "institution_id": "org-idsia",
+    "kind": "education",
+    "role": "PhD research at IDSIA with Jürgen Schmidhuber (awarding university not stated in this source)",
+    "description": "PhD research at IDSIA with Jürgen Schmidhuber (awarding university not stated in this source)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ],
+    "evidence": "PhD research at IDSIA with Jürgen Schmidhuber (awarding university not stated in this source) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-technical-university-of-munich-fellowship",
+    "person_id": "alex-graves",
+    "institution_id": "org-technical-university-of-munich",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-alex-graves-university-of-toronto-fellowship",
+    "person_id": "alex-graves",
+    "institution_id": "org-university-of-toronto",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-academia-europaea-membership",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-academia-europaea",
+    "kind": "membership",
+    "role": "Elected Fellow / Member",
+    "description": "Elected Fellow / Member",
+    "start_date": "2023",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Elected Fellow / Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-bullfrog-productions-employment",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-bullfrog-productions",
+    "kind": "employment",
+    "role": "Lead AI programmer and designer (combined 1993–1998 career period)",
+    "description": "Lead AI programmer and designer (combined 1993–1998 career period)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Lead AI programmer and designer (combined 1993–1998 career period) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-cambridge-education",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "Computer Science degree",
+    "description": "Computer Science degree",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-hassabis-royal-society"
+    ],
+    "evidence": "Computer Science degree documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-deepmind-founding",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-deepmind",
+    "kind": "founding",
+    "role": "Co-founder and CEO (at source)",
+    "description": "Co-founder and CEO (at source)",
+    "start_date": "2010",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Co-founder and CEO (at source) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-elixir-studios-founding",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-elixir-studios",
+    "kind": "founding",
+    "role": "Founder and CEO",
+    "description": "Founder and CEO",
+    "start_date": "1998",
+    "end_date": "2005",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Founder and CEO documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-harvard-fellowship",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-harvard",
+    "kind": "fellowship",
+    "role": "Wellcome Trust Postdoctoral Research Fellow",
+    "description": "Wellcome Trust Postdoctoral Research Fellow",
+    "start_date": "2009",
+    "end_date": "2010",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Wellcome Trust Postdoctoral Research Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-lionhead-studios-employment",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-lionhead-studios",
+    "kind": "employment",
+    "role": "Lead AI programmer and designer (combined 1993–1998 career period)",
+    "description": "Lead AI programmer and designer (combined 1993–1998 career period)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Lead AI programmer and designer (combined 1993–1998 career period) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-mit-fellowship",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-mit",
+    "kind": "fellowship",
+    "role": "Wellcome Trust Postdoctoral Research Fellow",
+    "description": "Wellcome Trust Postdoctoral Research Fellow",
+    "start_date": "2009",
+    "end_date": "2010",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Wellcome Trust Postdoctoral Research Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-royal-academy-of-engineering-membership",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-royal-academy-of-engineering",
+    "kind": "membership",
+    "role": "Elected Fellow / Member",
+    "description": "Elected Fellow / Member",
+    "start_date": "2017",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Elected Fellow / Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-royal-society-membership",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-royal-society",
+    "kind": "membership",
+    "role": "Elected Fellow / Member",
+    "description": "Elected Fellow / Member",
+    "start_date": "2018",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Elected Fellow / Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-royal-society-of-arts-membership",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-royal-society-of-arts",
+    "kind": "membership",
+    "role": "Elected Fellow / Member",
+    "description": "Elected Fellow / Member",
+    "start_date": "2009",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Elected Fellow / Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-ucl-education",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-ucl",
+    "kind": "education",
+    "role": "PhD, Cognitive Neuroscience",
+    "description": "PhD, Cognitive Neuroscience",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-hassabis-royal-society"
+    ],
+    "evidence": "PhD, Cognitive Neuroscience documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-demis-hassabis-ucl-fellowship",
+    "person_id": "demis-hassabis",
+    "institution_id": "org-ucl",
+    "kind": "fellowship",
+    "role": "Wellcome Trust Postdoctoral Research Fellow",
+    "description": "Wellcome Trust Postdoctoral Research Fellow",
+    "start_date": "2009",
+    "end_date": "2010",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ],
+    "evidence": "Wellcome Trust Postdoctoral Research Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-ai4all-founding",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-ai4all",
+    "kind": "founding",
+    "role": "Co-founder",
+    "description": "Co-founder",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-fei-caltech"
+    ],
+    "evidence": "Co-founder documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-caltech-education",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-caltech",
+    "kind": "education",
+    "role": "PhD, Electrical Engineering",
+    "description": "PhD, Electrical Engineering",
+    "start_date": null,
+    "end_date": "2005",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "PhD, Electrical Engineering documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-caltech-education-1",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-caltech",
+    "kind": "education",
+    "role": "MS, Electrical Engineering",
+    "description": "MS, Electrical Engineering",
+    "start_date": null,
+    "end_date": "2002",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-fei-caltech"
+    ],
+    "evidence": "MS, Electrical Engineering documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-google-employment",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Vice President; Chief Scientist of AI/ML at Google Cloud",
+    "description": "Vice President; Chief Scientist of AI/ML at Google Cloud",
+    "start_date": "2017",
+    "end_date": "2018",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "Vice President; Chief Scientist of AI/ML at Google Cloud documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-princeton-education",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-princeton",
+    "kind": "education",
+    "role": "BA, Physics",
+    "description": "BA, Physics",
+    "start_date": null,
+    "end_date": "1999",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "BA, Physics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-stanford-employment",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-stanford",
+    "kind": "employment",
+    "role": "Sequoia Professor of Computer Science",
+    "description": "Sequoia Professor of Computer Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "Sequoia Professor of Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-stanford-hai-founding",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-stanford-hai",
+    "kind": "founding",
+    "role": "Founding Co-Director",
+    "description": "Founding Co-Director",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "Founding Co-Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-fei-fei-li-world-labs-founding",
+    "person_id": "fei-fei-li",
+    "institution_id": "org-world-labs",
+    "kind": "founding",
+    "role": "Co-founder and CEO",
+    "description": "Co-founder and CEO",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-fei-stanford"
+    ],
+    "evidence": "Co-founder and CEO documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-aaai-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-aaai",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-american-academy-of-arts-and-sciences-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-american-academy-of-arts-and-sciences",
+    "kind": "membership",
+    "role": "Honorary foreign member",
+    "description": "Honorary foreign member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Honorary foreign member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-cambridge-education",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "BA, Experimental Psychology",
+    "description": "BA, Experimental Psychology",
+    "start_date": null,
+    "end_date": "1970",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "BA, Experimental Psychology documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-carnegie-mellon-employment",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "employment",
+    "role": "Computer Science faculty member (five years)",
+    "description": "Computer Science faculty member (five years)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Computer Science faculty member (five years) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-cifar-fellowship",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-cifar",
+    "kind": "fellowship",
+    "role": "CIFAR Fellow",
+    "description": "CIFAR Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "CIFAR Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-cifar-governance",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-cifar",
+    "kind": "governance",
+    "role": "Director, Neural Computation and Adaptive Perception program",
+    "description": "Director, Neural Computation and Adaptive Perception program",
+    "start_date": "2004",
+    "end_date": "2013",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Director, Neural Computation and Adaptive Perception program documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-cognitive-science-society-governance",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-cognitive-science-society",
+    "kind": "governance",
+    "role": "Former President",
+    "description": "Former President",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Former President documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-edinburgh-education",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-edinburgh",
+    "kind": "education",
+    "role": "PhD, Artificial Intelligence",
+    "description": "PhD, Artificial Intelligence",
+    "start_date": null,
+    "end_date": "1978",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "PhD, Artificial Intelligence documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-google-employment",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Vice President and Engineering Fellow; part time",
+    "description": "Vice President and Engineering Fellow; part time",
+    "start_date": "2013",
+    "end_date": "2023",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Vice President and Engineering Fellow; part time documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-national-academy-of-engineering-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-national-academy-of-engineering",
+    "kind": "membership",
+    "role": "Honorary foreign member",
+    "description": "Honorary foreign member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Honorary foreign member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-national-academy-of-sciences-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-national-academy-of-sciences",
+    "kind": "membership",
+    "role": "Honorary foreign member",
+    "description": "Honorary foreign member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Honorary foreign member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-royal-society-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-royal-society",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-royal-society-of-canada-membership",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-royal-society-of-canada",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-sussex-fellowship",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-sussex",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-uc-san-diego-fellowship",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-uc-san-diego",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-ucl-employment",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-ucl",
+    "kind": "employment",
+    "role": "Established Gatsby Computational Neuroscience Unit",
+    "description": "Established Gatsby Computational Neuroscience Unit",
+    "start_date": "1998",
+    "end_date": "2001",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Established Gatsby Computational Neuroscience Unit documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-geoffrey-hinton-university-of-toronto-employment",
+    "person_id": "geoffrey-hinton",
+    "institution_id": "org-university-of-toronto",
+    "kind": "employment",
+    "role": "Distinguished Professor Emeritus",
+    "description": "Distinguished Professor Emeritus",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-hinton-bio"
+    ],
+    "evidence": "Distinguished Professor Emeritus documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-acm-membership",
+    "person_id": "jeff-dean",
+    "institution_id": "org-acm",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-american-academy-of-arts-and-sciences-membership",
+    "person_id": "jeff-dean",
+    "institution_id": "org-american-academy-of-arts-and-sciences",
+    "kind": "membership",
+    "role": "Member",
+    "description": "Member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-google-employment",
+    "person_id": "jeff-dean",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Chief Scientist; joined Google in 1999",
+    "description": "Chief Scientist; joined Google in 1999",
+    "start_date": "1999",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "Chief Scientist; joined Google in 1999 documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-national-academy-of-engineering-membership",
+    "person_id": "jeff-dean",
+    "institution_id": "org-national-academy-of-engineering",
+    "kind": "membership",
+    "role": "Member",
+    "description": "Member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "Member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-university-of-minnesota-education",
+    "person_id": "jeff-dean",
+    "institution_id": "org-university-of-minnesota",
+    "kind": "education",
+    "role": "BS, Computer Science and Economics",
+    "description": "BS, Computer Science and Economics",
+    "start_date": null,
+    "end_date": "1990",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "BS, Computer Science and Economics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-jeff-dean-university-of-washington-education",
+    "person_id": "jeff-dean",
+    "institution_id": "org-university-of-washington",
+    "kind": "education",
+    "role": "PhD, Computer Science",
+    "description": "PhD, Computer Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-dean-minnesota"
+    ],
+    "evidence": "PhD, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-cambridge-education",
+    "person_id": "john-jumper",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "MPhil, Physics",
+    "description": "MPhil, Physics",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-jumper-chicago"
+    ],
+    "evidence": "MPhil, Physics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-cambridge-education-1",
+    "person_id": "john-jumper",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "Doctoral study, Condensed Matter Physics; left after one year",
+    "description": "Doctoral study, Condensed Matter Physics; left after one year",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "not_completed",
+    "source_ids": [
+      "afac-jumper-vanderbilt"
+    ],
+    "evidence": "Doctoral study, Condensed Matter Physics; left after one year documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-d-e-shaw-employment",
+    "person_id": "john-jumper",
+    "institution_id": "org-d-e-shaw",
+    "kind": "employment",
+    "role": "Protein dynamics researcher (three years)",
+    "description": "Protein dynamics researcher (three years)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-jumper-vanderbilt"
+    ],
+    "evidence": "Protein dynamics researcher (three years) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-deepmind-employment",
+    "person_id": "john-jumper",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Director",
+    "description": "Director",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-jumper-chicago"
+    ],
+    "evidence": "Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-university-of-chicago-education",
+    "person_id": "john-jumper",
+    "institution_id": "org-university-of-chicago",
+    "kind": "education",
+    "role": "PhD, Chemistry",
+    "description": "PhD, Chemistry",
+    "start_date": null,
+    "end_date": "2017",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-jumper-chicago"
+    ],
+    "evidence": "PhD, Chemistry documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-john-jumper-vanderbilt-education",
+    "person_id": "john-jumper",
+    "institution_id": "org-vanderbilt",
+    "kind": "education",
+    "role": "BS",
+    "description": "BS",
+    "start_date": null,
+    "end_date": "2007",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-jumper-chicago"
+    ],
+    "evidence": "BS documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-apple-employment",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-apple",
+    "kind": "employment",
+    "role": "Former senior executive",
+    "description": "Former senior executive",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Former senior executive documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-carnegie-mellon-education",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-columbia-education",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-columbia",
+    "kind": "education",
+    "role": "Bachelor, Computer Science",
+    "description": "Bachelor, Computer Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Bachelor, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-google-employment",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Former President of Google China",
+    "description": "Former President of Google China",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Former President of Google China documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-microsoft-employment",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-microsoft",
+    "kind": "employment",
+    "role": "Former senior executive",
+    "description": "Former senior executive",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Former senior executive documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-sgi-employment",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-sgi",
+    "kind": "employment",
+    "role": "Former senior executive",
+    "description": "Former senior executive",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Former senior executive documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kai-fu-lee-sinovation-ventures-employment",
+    "person_id": "kai-fu-lee",
+    "institution_id": "org-sinovation-ventures",
+    "kind": "employment",
+    "role": "Chairman and CEO",
+    "description": "Chairman and CEO",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ],
+    "evidence": "Chairman and CEO documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-cuhk-education",
+    "person_id": "kaiming-he",
+    "institution_id": "org-cuhk",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": "2011",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-deepmind-employment",
+    "person_id": "kaiming-he",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Distinguished Scientist",
+    "description": "Distinguished Scientist",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "Distinguished Scientist documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-meta-employment",
+    "person_id": "kaiming-he",
+    "institution_id": "org-meta",
+    "kind": "employment",
+    "role": "Research Scientist, FAIR",
+    "description": "Research Scientist, FAIR",
+    "start_date": "2016",
+    "end_date": "2024",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "Research Scientist, FAIR documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-microsoft-employment",
+    "person_id": "kaiming-he",
+    "institution_id": "org-microsoft",
+    "kind": "employment",
+    "role": "Researcher, Microsoft Research Asia",
+    "description": "Researcher, Microsoft Research Asia",
+    "start_date": "2011",
+    "end_date": "2016",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "Researcher, Microsoft Research Asia documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-mit-employment",
+    "person_id": "kaiming-he",
+    "institution_id": "org-mit",
+    "kind": "employment",
+    "role": "Associate Professor, EECS",
+    "description": "Associate Professor, EECS",
+    "start_date": "2024",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "Associate Professor, EECS documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-kaiming-he-tsinghua-education",
+    "person_id": "kaiming-he",
+    "institution_id": "org-tsinghua",
+    "kind": "education",
+    "role": "BS",
+    "description": "BS",
+    "start_date": null,
+    "end_date": "2007",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-kaiming-mit"
+    ],
+    "evidence": "BS documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-koray-kavukcuoglu-deepmind-employment",
+    "person_id": "koray-kavukcuoglu",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Senior Vice President; formerly VP Research",
+    "description": "Senior Vice President; formerly VP Research",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-koray-google"
+    ],
+    "evidence": "Senior Vice President; formerly VP Research documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-koray-kavukcuoglu-google-employment",
+    "person_id": "koray-kavukcuoglu",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Chief AI Architect",
+    "description": "Chief AI Architect",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-koray-google"
+    ],
+    "evidence": "Chief AI Architect documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-mustafa-suleyman-belfer-center-fellowship",
+    "person_id": "mustafa-suleyman",
+    "institution_id": "org-belfer-center",
+    "kind": "fellowship",
+    "role": "Senior Fellow",
+    "description": "Senior Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-suleyman-bio"
+    ],
+    "evidence": "Senior Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-mustafa-suleyman-deepmind-founding",
+    "person_id": "mustafa-suleyman",
+    "institution_id": "org-deepmind",
+    "kind": "founding",
+    "role": "Co-founder; led applied research and commercialisation",
+    "description": "Co-founder; led applied research and commercialisation",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-suleyman-bio"
+    ],
+    "evidence": "Co-founder; led applied research and commercialisation documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-mustafa-suleyman-economist-group-governance",
+    "person_id": "mustafa-suleyman",
+    "institution_id": "org-economist-group",
+    "kind": "governance",
+    "role": "Board member",
+    "description": "Board member",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-suleyman-bio"
+    ],
+    "evidence": "Board member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-mustafa-suleyman-inflection-founding",
+    "person_id": "mustafa-suleyman",
+    "institution_id": "org-inflection",
+    "kind": "founding",
+    "role": "Co-founder and former CEO",
+    "description": "Co-founder and former CEO",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-suleyman-bio"
+    ],
+    "evidence": "Co-founder and former CEO documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-mustafa-suleyman-microsoft-employment",
+    "person_id": "mustafa-suleyman",
+    "institution_id": "org-microsoft",
+    "kind": "employment",
+    "role": "CEO of Microsoft AI",
+    "description": "CEO of Microsoft AI",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-suleyman-bio"
+    ],
+    "evidence": "CEO of Microsoft AI documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-carnegie-mellon-education",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "education",
+    "role": "Visiting final thesis research",
+    "description": "Visiting final thesis research",
+    "start_date": "2006",
+    "end_date": null,
+    "status": "historical",
+    "completion": "unknown",
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "Visiting final thesis research documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-deepmind-employment",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Vice President of Research (at source)",
+    "description": "Vice President of Research (at source)",
+    "start_date": "2016",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "Vice President of Research (at source) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-google-employment",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Researcher, Google Brain",
+    "description": "Researcher, Google Brain",
+    "start_date": "2013",
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "Researcher, Google Brain documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-uc-berkeley-education",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-uc-berkeley",
+    "kind": "education",
+    "role": "PhD, Electrical Engineering and Computer Sciences",
+    "description": "PhD, Electrical Engineering and Computer Sciences",
+    "start_date": null,
+    "end_date": "2013",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "PhD, Electrical Engineering and Computer Sciences documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-uc-san-diego-education",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-uc-san-diego",
+    "kind": "education",
+    "role": "Masters studies",
+    "description": "Masters studies",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "unknown",
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "Masters studies documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-oriol-vinyals-upc-education",
+    "person_id": "oriol-vinyals",
+    "institution_id": "org-upc",
+    "kind": "education",
+    "role": "Double degree, Telecommunications Engineering and Mathematics",
+    "description": "Double degree, Telecommunications Engineering and Mathematics",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-oriol-upc"
+    ],
+    "evidence": "Double degree, Telecommunications Engineering and Mathematics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-aaas-membership",
+    "person_id": "peter-dayan",
+    "institution_id": "org-aaas",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": "2019",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-cambridge-education",
+    "person_id": "peter-dayan",
+    "institution_id": "org-cambridge",
+    "kind": "education",
+    "role": "Mathematics studies",
+    "description": "Mathematics studies",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "unknown",
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Mathematics studies documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-edinburgh-education",
+    "person_id": "peter-dayan",
+    "institution_id": "org-edinburgh",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-max-planck-biological-cybernetics-governance",
+    "person_id": "peter-dayan",
+    "institution_id": "org-max-planck-biological-cybernetics",
+    "kind": "governance",
+    "role": "Director",
+    "description": "Director",
+    "start_date": "2018",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-mit-employment",
+    "person_id": "peter-dayan",
+    "institution_id": "org-mit",
+    "kind": "employment",
+    "role": "Assistant Professor",
+    "description": "Assistant Professor",
+    "start_date": "1995",
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Assistant Professor documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-royal-society-membership",
+    "person_id": "peter-dayan",
+    "institution_id": "org-royal-society",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": "2018",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-salk-institute-fellowship",
+    "person_id": "peter-dayan",
+    "institution_id": "org-salk-institute",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-ucl-employment",
+    "person_id": "peter-dayan",
+    "institution_id": "org-ucl",
+    "kind": "employment",
+    "role": "Gatsby Unit co-founder; Director 2002–2017",
+    "description": "Gatsby Unit co-founder; Director 2002–2017",
+    "start_date": "1998",
+    "end_date": "2017",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Gatsby Unit co-founder; Director 2002–2017 documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-peter-dayan-university-of-toronto-fellowship",
+    "person_id": "peter-dayan",
+    "institution_id": "org-university-of-toronto",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-quoc-le-anu-education",
+    "person_id": "quoc-le",
+    "institution_id": "org-anu",
+    "kind": "education",
+    "role": "Undergraduate studies",
+    "description": "Undergraduate studies",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "unknown",
+    "source_ids": [
+      "afac-quoc-stanford"
+    ],
+    "evidence": "Undergraduate studies documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-quoc-le-google-employment",
+    "person_id": "quoc-le",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Research Scientist",
+    "description": "Research Scientist",
+    "start_date": "2013",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-quoc-stanford"
+    ],
+    "evidence": "Research Scientist documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-quoc-le-max-planck-biological-cybernetics-employment",
+    "person_id": "quoc-le",
+    "institution_id": "org-max-planck-biological-cybernetics",
+    "kind": "employment",
+    "role": "Research Visitor",
+    "description": "Research Visitor",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-quoc-stanford"
+    ],
+    "evidence": "Research Visitor documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-quoc-le-stanford-education",
+    "person_id": "quoc-le",
+    "institution_id": "org-stanford",
+    "kind": "education",
+    "role": "PhD studies, Computer Science",
+    "description": "PhD studies, Computer Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "unknown",
+    "source_ids": [
+      "afac-quoc-stanford"
+    ],
+    "evidence": "PhD studies, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-carnegie-mellon-fellowship",
+    "person_id": "richard-zemel",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-columbia-employment",
+    "person_id": "richard-zemel",
+    "institution_id": "org-columbia",
+    "kind": "employment",
+    "role": "Professor (Toronto leave)",
+    "description": "Professor (Toronto leave)",
+    "start_date": "2021",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Professor (Toronto leave) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-salk-institute-fellowship",
+    "person_id": "richard-zemel",
+    "institution_id": "org-salk-institute",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-university-of-arizona-employment",
+    "person_id": "richard-zemel",
+    "institution_id": "org-university-of-arizona",
+    "kind": "employment",
+    "role": "Faculty member",
+    "description": "Faculty member",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Faculty member documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-university-of-toronto-education",
+    "person_id": "richard-zemel",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": "1994",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-university-of-toronto-employment",
+    "person_id": "richard-zemel",
+    "institution_id": "org-university-of-toronto",
+    "kind": "employment",
+    "role": "Professor",
+    "description": "Professor",
+    "start_date": "2000",
+    "end_date": null,
+    "status": "unknown",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Professor documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-richard-zemel-vector-institute-governance",
+    "person_id": "richard-zemel",
+    "institution_id": "org-vector-institute",
+    "kind": "governance",
+    "role": "Inaugural Research Director",
+    "description": "Inaugural Research Director",
+    "start_date": "2017",
+    "end_date": null,
+    "status": "unknown",
+    "completion": null,
+    "source_ids": [
+      "afac-zemel-caiac"
+    ],
+    "evidence": "Inaugural Research Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-carnegie-mellon-employment",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-carnegie-mellon",
+    "kind": "employment",
+    "role": "UPMC Professor of Computer Science",
+    "description": "UPMC Professor of Computer Science",
+    "start_date": "2016-02",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "UPMC Professor of Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-cibc-employment",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-cibc",
+    "kind": "employment",
+    "role": "Professional role (title unspecified in CV)",
+    "description": "Professional role (title unspecified in CV)",
+    "start_date": "2003-09",
+    "end_date": "2005-08",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cv"
+    ],
+    "evidence": "Professional role (title unspecified in CV) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-cifar-fellowship",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-cifar",
+    "kind": "fellowship",
+    "role": "Senior Fellow",
+    "description": "Senior Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "Senior Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-high-point-education",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-high-point",
+    "kind": "education",
+    "role": "BS, Computer Science and Mathematics",
+    "description": "BS, Computer Science and Mathematics",
+    "start_date": "1998-08",
+    "end_date": "2001-05",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "BS, Computer Science and Mathematics documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-mit-fellowship",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-mit",
+    "kind": "fellowship",
+    "role": "Postdoctoral Research Associate",
+    "description": "Postdoctoral Research Associate",
+    "start_date": "2009-09",
+    "end_date": "2011-07",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "Postdoctoral Research Associate documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-stanford-employment",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-stanford",
+    "kind": "employment",
+    "role": "Visiting Scientist",
+    "description": "Visiting Scientist",
+    "start_date": "2012-07",
+    "end_date": "2012-08",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "Visiting Scientist documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-university-of-toronto-education",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "MSc, Computer Science",
+    "description": "MSc, Computer Science",
+    "start_date": "2001-09",
+    "end_date": "2003-08",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "MSc, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-university-of-toronto-education-1",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "PhD, Computer Science",
+    "description": "PhD, Computer Science",
+    "start_date": "2005-09",
+    "end_date": "2009-08",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "PhD, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-university-of-toronto-employment",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-university-of-toronto",
+    "kind": "employment",
+    "role": "Assistant Professor",
+    "description": "Assistant Professor",
+    "start_date": "2011-08",
+    "end_date": "2016-01",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "Assistant Professor documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-ruslan-salakhutdinov-yahoo-internship",
+    "person_id": "ruslan-salakhutdinov",
+    "institution_id": "org-yahoo",
+    "kind": "internship",
+    "role": "Research intern",
+    "description": "Research intern",
+    "start_date": "2008-06",
+    "end_date": "2008-08",
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ],
+    "evidence": "Research intern documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-shane-legg-deepmind-founding",
+    "person_id": "shane-legg",
+    "institution_id": "org-deepmind",
+    "kind": "founding",
+    "role": "Co-founder",
+    "description": "Co-founder",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-legg-usi"
+    ],
+    "evidence": "Co-founder documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-shane-legg-usi-education",
+    "person_id": "shane-legg",
+    "institution_id": "org-usi",
+    "kind": "education",
+    "role": "PhD, Informatics (research at IDSIA)",
+    "description": "PhD, Informatics (research at IDSIA)",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-legg-usi"
+    ],
+    "evidence": "PhD, Informatics (research at IDSIA) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-volodymyr-mnih-deepmind-employment",
+    "person_id": "volodymyr-mnih",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Research Scientist (at source)",
+    "description": "Research Scientist (at source)",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-mnih-toronto"
+    ],
+    "evidence": "Research Scientist (at source) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-volodymyr-mnih-university-of-alberta-education",
+    "person_id": "volodymyr-mnih",
+    "institution_id": "org-university-of-alberta",
+    "kind": "education",
+    "role": "MSc, Computing Science",
+    "description": "MSc, Computing Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-mnih-toronto"
+    ],
+    "evidence": "MSc, Computing Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-volodymyr-mnih-university-of-toronto-education",
+    "person_id": "volodymyr-mnih",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "PhD, Machine Learning",
+    "description": "PhD, Machine Learning",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-mnih-toronto"
+    ],
+    "evidence": "PhD, Machine Learning documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-academie-des-sciences-membership",
+    "person_id": "yann-lecun",
+    "institution_id": "org-academie-des-sciences",
+    "kind": "membership",
+    "role": "Foreign Associate",
+    "description": "Foreign Associate",
+    "start_date": "2021-12-08",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Foreign Associate documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-att-labs-employment",
+    "person_id": "yann-lecun",
+    "institution_id": "org-att-labs",
+    "kind": "employment",
+    "role": "Head of image processing research",
+    "description": "Head of image processing research",
+    "start_date": "1996",
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Head of image processing research documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-bell-labs-employment",
+    "person_id": "yann-lecun",
+    "institution_id": "org-bell-labs",
+    "kind": "employment",
+    "role": "Researcher",
+    "description": "Researcher",
+    "start_date": "1988",
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-esiee-paris-education",
+    "person_id": "yann-lecun",
+    "institution_id": "org-esiee-paris",
+    "kind": "education",
+    "role": "Diplôme d'ingénieur",
+    "description": "Diplôme d'ingénieur",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Diplôme d'ingénieur documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-meta-employment",
+    "person_id": "yann-lecun",
+    "institution_id": "org-meta",
+    "kind": "employment",
+    "role": "Vice President and Chief AI Scientist (at source)",
+    "description": "Vice President and Chief AI Scientist (at source)",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Vice President and Chief AI Scientist (at source) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-nyu-employment",
+    "person_id": "yann-lecun",
+    "institution_id": "org-nyu",
+    "kind": "employment",
+    "role": "Jacob T. Schwartz Professor of Computer Science",
+    "description": "Jacob T. Schwartz Professor of Computer Science",
+    "start_date": "2003",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Jacob T. Schwartz Professor of Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-sorbonne-university-education",
+    "person_id": "yann-lecun",
+    "institution_id": "org-sorbonne-university",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yann-lecun-university-of-toronto-fellowship",
+    "person_id": "yann-lecun",
+    "institution_id": "org-university-of-toronto",
+    "kind": "fellowship",
+    "role": "Research associate",
+    "description": "Research associate",
+    "start_date": "1987",
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-lecun-academy"
+    ],
+    "evidence": "Research associate documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-alan-turing-institute-fellowship",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-alan-turing-institute",
+    "kind": "fellowship",
+    "role": "Faculty Fellow",
+    "description": "Faculty Fellow",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Faculty Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-deepmind-employment",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-deepmind",
+    "kind": "employment",
+    "role": "Research Scientist",
+    "description": "Research Scientist",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Research Scientist documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-national-university-of-singapore-fellowship",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-national-university-of-singapore",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-oxford-employment",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-oxford",
+    "kind": "employment",
+    "role": "Professor of Statistical Machine Learning",
+    "description": "Professor of Statistical Machine Learning",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Professor of Statistical Machine Learning documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-uc-berkeley-fellowship",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-uc-berkeley",
+    "kind": "fellowship",
+    "role": "Postdoctoral researcher",
+    "description": "Postdoctoral researcher",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Postdoctoral researcher documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-ucl-employment",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-ucl",
+    "kind": "employment",
+    "role": "Lecturer, then Reader, Gatsby Unit",
+    "description": "Lecturer, then Reader, Gatsby Unit",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": null,
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "Lecturer, then Reader, Gatsby Unit documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yee-whye-teh-university-of-toronto-education",
+    "person_id": "yee-whye-teh",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "PhD",
+    "description": "PhD",
+    "start_date": null,
+    "end_date": null,
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-teh-oxford"
+    ],
+    "evidence": "PhD documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-cifar-fellowship",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-cifar",
+    "kind": "fellowship",
+    "role": "Senior Fellow; Learning in Machines and Brains program co-director",
+    "description": "Senior Fellow; Learning in Machines and Brains program co-director",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "Senior Fellow; Learning in Machines and Brains program co-director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-ivado-governance",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-ivado",
+    "kind": "governance",
+    "role": "Scientific Director (university biography)",
+    "description": "Scientific Director (university biography)",
+    "start_date": null,
+    "end_date": null,
+    "status": "unknown",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "Scientific Director (university biography) documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-lawzero-founding",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-lawzero",
+    "kind": "founding",
+    "role": "Founder; Co-President and Scientific Director",
+    "description": "Founder; Co-President and Scientific Director",
+    "start_date": "2025",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-lawzero"
+    ],
+    "evidence": "Founder; Co-President and Scientific Director documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-mcgill-education",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-mcgill",
+    "kind": "education",
+    "role": "MSc, Computer Science",
+    "description": "MSc, Computer Science",
+    "start_date": null,
+    "end_date": "1988",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "MSc, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-mcgill-education-1",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-mcgill",
+    "kind": "education",
+    "role": "PhD, Computer Science",
+    "description": "PhD, Computer Science",
+    "start_date": null,
+    "end_date": "1991",
+    "status": "historical",
+    "completion": "completed",
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "PhD, Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-mila-founding",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-mila",
+    "kind": "founding",
+    "role": "Founder and Scientific Advisor",
+    "description": "Founder and Scientific Advisor",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-lawzero"
+    ],
+    "evidence": "Founder and Scientific Advisor documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-royal-society-membership",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-royal-society",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": "2020",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-royal-society-of-canada-membership",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-royal-society-of-canada",
+    "kind": "membership",
+    "role": "Fellow",
+    "description": "Fellow",
+    "start_date": "2017",
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "Fellow documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afac-yoshua-bengio-university-of-montreal-employment",
+    "person_id": "yoshua-bengio",
+    "institution_id": "org-university-of-montreal",
+    "kind": "employment",
+    "role": "Full Professor of Computer Science",
+    "description": "Full Professor of Computer Science",
+    "start_date": null,
+    "end_date": null,
+    "status": "ongoing_at_source",
+    "completion": null,
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ],
+    "evidence": "Full Professor of Computer Science documented by the cited biography.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-1",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-tesla",
+    "kind": "employment",
+    "role": "Director of AI",
+    "start_date": "2017",
+    "end_date": "2022",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Led Autopilot vision and briefly worked on Optimus.",
+    "description": "Led Autopilot vision and briefly worked on Optimus.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-10",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-university-of-toronto",
+    "kind": "education",
+    "role": "BSc, computer science and physics",
+    "start_date": "2005",
+    "end_date": "2009",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Double major with mathematics minor.",
+    "description": "Double major with mathematics minor.",
+    "completion": "completed",
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-11",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-eureka-labs",
+    "kind": "founding",
+    "role": "Founder",
+    "start_date": "2024-07",
+    "end_date": null,
+    "source_ids": [
+      "afrt-karpathy-time"
+    ],
+    "evidence": "Founded an AI education company. ",
+    "description": "Founded an AI education company. ",
+    "completion": null,
+    "confidence": "B",
+    "status": "ongoing_at_source",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-12",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-karpathy-johnson-reading-group",
+    "kind": "membership",
+    "role": "Reading group co-host",
+    "start_date": null,
+    "end_date": null,
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Co-hosted public reading sessions with Justin Johnson.",
+    "description": "Co-hosted public reading sessions with Justin Johnson.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-13",
+    "person_id": "sam-altman",
+    "institution_id": "org-stanford",
+    "kind": "education",
+    "role": "Computer science undergraduate attendance",
+    "start_date": "2003",
+    "end_date": "2005",
+    "source_ids": [
+      "afrt-altman-time"
+    ],
+    "evidence": "Left after two years to develop Loopt; no degree awarded.",
+    "description": "Left after two years to develop Loopt; no degree awarded.",
+    "completion": "not_completed",
+    "confidence": "B",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-14",
+    "person_id": "sam-altman",
+    "institution_id": "org-loopt",
+    "kind": "founding",
+    "role": "Co-founder",
+    "start_date": "2005",
+    "end_date": "2012",
+    "source_ids": [
+      "afrt-altman-time",
+      "afrt-altman-yc"
+    ],
+    "evidence": "Built Loopt, subsequently sold in 2012.",
+    "description": "Built Loopt, subsequently sold in 2012.",
+    "completion": null,
+    "confidence": "B",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-15",
+    "person_id": "sam-altman",
+    "institution_id": "org-y-combinator",
+    "kind": "employment",
+    "role": "President",
+    "start_date": "2014",
+    "end_date": "2019",
+    "source_ids": [
+      "afrt-altman-yc",
+      "afrt-altman-time"
+    ],
+    "evidence": "Succeeded Graham; left to become OpenAI CEO.",
+    "description": "Succeeded Graham; left to become OpenAI CEO.",
+    "completion": null,
+    "confidence": "B",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-16",
+    "person_id": "sam-altman",
+    "institution_id": "org-openai",
+    "kind": "employment",
+    "role": "CEO",
+    "start_date": null,
+    "end_date": null,
+    "source_ids": [
+      "afrt-altman-openai"
+    ],
+    "evidence": "CEO leadership confirmed at the March 2024 review.",
+    "description": "CEO leadership confirmed at the March 2024 review.",
+    "completion": null,
+    "confidence": "A",
+    "status": "ongoing_at_source",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-17",
+    "person_id": "sam-altman",
+    "institution_id": "org-openai",
+    "kind": "governance",
+    "role": "Board member",
+    "start_date": "2024-03-08",
+    "end_date": null,
+    "source_ids": [
+      "afrt-altman-openai"
+    ],
+    "evidence": "Returned to the board after the review.",
+    "description": "Returned to the board after the review.",
+    "completion": null,
+    "confidence": "A",
+    "status": "ongoing_at_source",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-18",
+    "person_id": "sam-altman",
+    "institution_id": "org-helion",
+    "kind": "governance",
+    "role": "Chairman",
+    "start_date": "2015",
+    "end_date": "2021",
+    "source_ids": [
+      "afrt-altman-helion"
+    ],
+    "evidence": "Served as chairman before role expanded.",
+    "description": "Served as chairman before role expanded.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-19",
+    "person_id": "sam-altman",
+    "institution_id": "org-helion",
+    "kind": "governance",
+    "role": "Executive chairman",
+    "start_date": "2021",
+    "end_date": null,
+    "source_ids": [
+      "afrt-altman-helion"
+    ],
+    "evidence": "Role expanded in the 2021 announcement.",
+    "description": "Role expanded in the 2021 announcement.",
+    "completion": null,
+    "confidence": "A",
+    "status": "ongoing_at_source",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-2",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-openai",
+    "kind": "employment",
+    "role": "Founding research scientist",
+    "start_date": "2015",
+    "end_date": "2017",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Initial research-scientist period.",
+    "description": "Initial research-scientist period.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-20",
+    "person_id": "sam-altman",
+    "institution_id": "org-oklo",
+    "kind": "governance",
+    "role": "Chairman",
+    "start_date": null,
+    "end_date": "2025-04-22",
+    "source_ids": [
+      "afrt-altman-oklo"
+    ],
+    "evidence": "Stepped down in the announced chairman transition.",
+    "description": "Stepped down in the announced chairman transition.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-3",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-openai",
+    "kind": "employment",
+    "role": "Research team lead",
+    "start_date": "2023",
+    "end_date": "2024",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Returned to build a midtraining and synthetic-data team.",
+    "description": "Returned to build a midtraining and synthetic-data team.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-4",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-google",
+    "kind": "internship",
+    "role": "Google Brain intern",
+    "start_date": "2011",
+    "end_date": "2011",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Video representation research internship.",
+    "description": "Video representation research internship.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-5",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-google",
+    "kind": "internship",
+    "role": "Google Research intern",
+    "start_date": "2013",
+    "end_date": "2013",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Supervised video-learning internship.",
+    "description": "Supervised video-learning internship.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-6",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-deepmind",
+    "kind": "internship",
+    "role": "Deep reinforcement learning intern",
+    "start_date": "2015",
+    "end_date": "2015",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Internship with Kavukcuoglu and Mnih.",
+    "description": "Internship with Kavukcuoglu and Mnih.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-7",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-stanford",
+    "kind": "employment",
+    "role": "CS231n course designer and primary instructor",
+    "start_date": "2015",
+    "end_date": null,
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Designed and taught the inaugural course.",
+    "description": "Designed and taught the inaugural course.",
+    "completion": null,
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-8",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-stanford",
+    "kind": "education",
+    "role": "PhD, computer science",
+    "start_date": "2011",
+    "end_date": null,
+    "source_ids": [
+      "afrt-karpathy-bio",
+      "afrt-karpathy-stanford"
+    ],
+    "evidence": "Received PhD; biography dates research to 2011–2015 and lists thesis in 2016. Graduation date left unresolved.",
+    "description": "Received PhD; biography dates research to 2011–2015 and lists thesis in 2016. Graduation date left unresolved.",
+    "completion": "completed",
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-9",
+    "person_id": "andrej-karpathy",
+    "institution_id": "org-university-of-british-columbia",
+    "kind": "education",
+    "role": "MSc",
+    "start_date": "2009",
+    "end_date": "2011",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ],
+    "evidence": "Master’s studies with Michiel van de Panne.",
+    "description": "Master’s studies with Michiel van de Panne.",
+    "completion": "completed",
+    "confidence": "A",
+    "status": "historical",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-21",
+    "person_id": "peter-thiel",
+    "institution_id": "org-paypal",
+    "kind": "founding",
+    "role": "Co-founder and CEO",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder and CEO",
+    "evidence": "Biography explicitly records: Co-founder and CEO.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-22",
+    "person_id": "peter-thiel",
+    "institution_id": "org-palantir",
+    "kind": "founding",
+    "role": "Co-founder",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder",
+    "evidence": "Biography explicitly records: Co-founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-23",
+    "person_id": "peter-thiel",
+    "institution_id": "org-palantir",
+    "kind": "governance",
+    "role": "Chairman",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Chairman",
+    "evidence": "Biography explicitly records: Chairman.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-24",
+    "person_id": "peter-thiel",
+    "institution_id": "org-founders-fund",
+    "kind": "employment",
+    "role": "Partner",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Partner",
+    "evidence": "Biography explicitly records: Partner.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-25",
+    "person_id": "peter-thiel",
+    "institution_id": "org-thiel-foundation",
+    "kind": "governance",
+    "role": "Foundation leader",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Foundation leader",
+    "evidence": "Biography explicitly records: Foundation leader.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-26",
+    "person_id": "peter-thiel",
+    "institution_id": "org-thiel-fellowship",
+    "kind": "founding",
+    "role": "Programme founder",
+    "source_ids": [
+      "afrt-thiel"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Programme founder",
+    "evidence": "Biography explicitly records: Programme founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-27",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-greylock",
+    "kind": "employment",
+    "role": "Partner",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": "2009",
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Partner",
+    "evidence": "Biography explicitly records: Partner.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-28",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-linkedin",
+    "kind": "founding",
+    "role": "Co-founder",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": "2003",
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder",
+    "evidence": "Biography explicitly records: Co-founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-29",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-paypal",
+    "kind": "employment",
+    "role": "Executive vice president",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Executive vice president",
+    "evidence": "Biography explicitly records: Executive vice president.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-30",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-paypal",
+    "kind": "governance",
+    "role": "Founding board member",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Founding board member",
+    "evidence": "Biography explicitly records: Founding board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-31",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-stanford",
+    "kind": "education",
+    "role": "BS, symbolic systems",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "BS, symbolic systems",
+    "evidence": "Biography explicitly records: BS, symbolic systems.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-32",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-oxford",
+    "kind": "education",
+    "role": "Master’s, philosophy",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "Master’s, philosophy",
+    "evidence": "Biography explicitly records: Master’s, philosophy.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-33",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-aurora",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-34",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-entrepreneur-first",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-35",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-inflection",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-36",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-microsoft",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-37",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-nauto",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-38",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-endeavor",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-39",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-czi-biohub",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-40",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-berggruen",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-41",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-stanford-hai",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-42",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-lever-for-change",
+    "kind": "governance",
+    "role": "Board director",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board director",
+    "evidence": "Biography explicitly records: Board director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-43",
+    "person_id": "reid-hoffman",
+    "institution_id": "org-airbnb",
+    "kind": "governance",
+    "role": "Board observer",
+    "source_ids": [
+      "afrt-hoffman"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Board observer",
+    "evidence": "Biography explicitly records: Board observer.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-44",
+    "person_id": "keith-rabois",
+    "institution_id": "org-khosla-ventures",
+    "kind": "employment",
+    "role": "Managing director",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Managing director",
+    "evidence": "Biography explicitly records: Managing director.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-45",
+    "person_id": "keith-rabois",
+    "institution_id": "org-founders-fund",
+    "kind": "employment",
+    "role": "General partner",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "General partner",
+    "evidence": "Biography explicitly records: General partner.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-46",
+    "person_id": "keith-rabois",
+    "institution_id": "org-opendoor",
+    "kind": "founding",
+    "role": "Co-founder",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder",
+    "evidence": "Biography explicitly records: Co-founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-47",
+    "person_id": "keith-rabois",
+    "institution_id": "org-paypal",
+    "kind": "employment",
+    "role": "EVP, business development, public affairs and policy",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "EVP, business development, public affairs and policy",
+    "evidence": "Biography explicitly records: EVP, business development, public affairs and policy.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-48",
+    "person_id": "keith-rabois",
+    "institution_id": "org-linkedin",
+    "kind": "employment",
+    "role": "VP, business and corporate development",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "VP, business and corporate development",
+    "evidence": "Biography explicitly records: VP, business and corporate development.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-49",
+    "person_id": "keith-rabois",
+    "institution_id": "org-block",
+    "kind": "employment",
+    "role": "Chief operating officer",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Chief operating officer",
+    "evidence": "Biography explicitly records: Chief operating officer.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-50",
+    "person_id": "keith-rabois",
+    "institution_id": "org-sullivan-cromwell",
+    "kind": "employment",
+    "role": "Litigator",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Litigator",
+    "evidence": "Biography explicitly records: Litigator.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-51",
+    "person_id": "keith-rabois",
+    "institution_id": "org-fifth-circuit",
+    "kind": "employment",
+    "role": "Law clerk",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Law clerk",
+    "evidence": "Biography explicitly records: Law clerk.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-52",
+    "person_id": "keith-rabois",
+    "institution_id": "org-yelp",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-53",
+    "person_id": "keith-rabois",
+    "institution_id": "org-xoom",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-54",
+    "person_id": "keith-rabois",
+    "institution_id": "org-ramp",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-55",
+    "person_id": "keith-rabois",
+    "institution_id": "org-faire",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-56",
+    "person_id": "keith-rabois",
+    "institution_id": "org-reddit",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": "2012",
+    "end_date": "2019",
+    "completion": null,
+    "status": "historical",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-57",
+    "person_id": "keith-rabois",
+    "institution_id": "org-stanford",
+    "kind": "education",
+    "role": "Bachelor’s, political science",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "Bachelor’s, political science",
+    "evidence": "Biography explicitly records: Bachelor’s, political science.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-58",
+    "person_id": "keith-rabois",
+    "institution_id": "org-harvard",
+    "kind": "education",
+    "role": "JD, law",
+    "source_ids": [
+      "afrt-rabois"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "JD, law",
+    "evidence": "Biography explicitly records: JD, law.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-59",
+    "person_id": "max-levchin",
+    "institution_id": "org-affirm",
+    "kind": "founding",
+    "role": "Founder and CEO",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Founder and CEO",
+    "evidence": "Biography explicitly records: Founder and CEO.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-60",
+    "person_id": "max-levchin",
+    "institution_id": "org-glow",
+    "kind": "founding",
+    "role": "Co-founder",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder",
+    "evidence": "Biography explicitly records: Co-founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-61",
+    "person_id": "max-levchin",
+    "institution_id": "org-glow",
+    "kind": "governance",
+    "role": "Chairman",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Chairman",
+    "evidence": "Biography explicitly records: Chairman.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-62",
+    "person_id": "max-levchin",
+    "institution_id": "org-hvf",
+    "kind": "founding",
+    "role": "Innovation lab founder",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Innovation lab founder",
+    "evidence": "Biography explicitly records: Innovation lab founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-63",
+    "person_id": "max-levchin",
+    "institution_id": "org-paypal",
+    "kind": "employment",
+    "role": "Co-founder and CTO",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": "2002",
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder and CTO",
+    "evidence": "Biography explicitly records: Co-founder and CTO.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-64",
+    "person_id": "max-levchin",
+    "institution_id": "org-slide",
+    "kind": "founding",
+    "role": "Founder and CEO",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": "2010",
+    "completion": null,
+    "status": "historical",
+    "description": "Founder and CEO",
+    "evidence": "Biography explicitly records: Founder and CEO.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-65",
+    "person_id": "max-levchin",
+    "institution_id": "org-yelp",
+    "kind": "governance",
+    "role": "Chairman",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": "2005",
+    "end_date": "2015-07",
+    "completion": null,
+    "status": "historical",
+    "description": "Chairman",
+    "evidence": "Biography explicitly records: Chairman.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-66",
+    "person_id": "max-levchin",
+    "institution_id": "org-yahoo",
+    "kind": "governance",
+    "role": "Board member",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": "2012",
+    "end_date": "2015",
+    "completion": null,
+    "status": "historical",
+    "description": "Board member",
+    "evidence": "Biography explicitly records: Board member.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-67",
+    "person_id": "max-levchin",
+    "institution_id": "org-uiuc",
+    "kind": "education",
+    "role": "BS, computer science",
+    "source_ids": [
+      "afrt-levchin"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "BS, computer science",
+    "evidence": "Biography explicitly records: BS, computer science.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-68",
+    "person_id": "greg-brockman",
+    "institution_id": "org-harvard",
+    "kind": "education",
+    "role": "Undergraduate attendance",
+    "source_ids": [
+      "afrt-brockman-path"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "not_completed",
+    "status": "historical",
+    "description": "Undergraduate attendance",
+    "evidence": "Biography explicitly records: Undergraduate attendance.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-69",
+    "person_id": "greg-brockman",
+    "institution_id": "org-mit",
+    "kind": "education",
+    "role": "Undergraduate attendance",
+    "source_ids": [
+      "afrt-brockman-path"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "not_completed",
+    "status": "historical",
+    "description": "Undergraduate attendance",
+    "evidence": "Biography explicitly records: Undergraduate attendance.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-70",
+    "person_id": "greg-brockman",
+    "institution_id": "org-stripe",
+    "kind": "employment",
+    "role": "Chief technology officer",
+    "source_ids": [
+      "afrt-brockman-home"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Chief technology officer",
+    "evidence": "Biography explicitly records: Chief technology officer.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-71",
+    "person_id": "greg-brockman",
+    "institution_id": "org-openai",
+    "kind": "founding",
+    "role": "Co-founder",
+    "source_ids": [
+      "afrt-brockman-path"
+    ],
+    "start_date": "2015",
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Co-founder",
+    "evidence": "Biography explicitly records: Co-founder.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-72",
+    "person_id": "greg-brockman",
+    "institution_id": "org-harvard-computer-society",
+    "kind": "membership",
+    "role": "Systems contributor and administrator",
+    "source_ids": [
+      "afrt-brockman-home"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Systems contributor and administrator",
+    "evidence": "Biography explicitly records: Systems contributor and administrator.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-73",
+    "person_id": "greg-brockman",
+    "institution_id": "org-ksplice",
+    "kind": "employment",
+    "role": "Infrastructure contributor (seven months)",
+    "source_ids": [
+      "afrt-brockman-home"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Infrastructure contributor (seven months)",
+    "evidence": "Biography explicitly records: Infrastructure contributor (seven months).",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-74",
+    "person_id": "dario-amodei",
+    "institution_id": "org-anthropic",
+    "kind": "employment",
+    "role": "Chief executive officer",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "ongoing_at_source",
+    "description": "Chief executive officer",
+    "evidence": "Biography explicitly records: Chief executive officer.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-75",
+    "person_id": "dario-amodei",
+    "institution_id": "org-openai",
+    "kind": "employment",
+    "role": "Vice president of research",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Vice president of research",
+    "evidence": "Biography explicitly records: Vice president of research.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-76",
+    "person_id": "dario-amodei",
+    "institution_id": "org-google",
+    "kind": "employment",
+    "role": "Google Brain senior research scientist",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Google Brain senior research scientist",
+    "evidence": "Biography explicitly records: Google Brain senior research scientist.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-77",
+    "person_id": "dario-amodei",
+    "institution_id": "org-princeton",
+    "kind": "education",
+    "role": "PhD, biophysics",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": "completed",
+    "status": "historical",
+    "description": "PhD, biophysics",
+    "evidence": "Biography explicitly records: PhD, biophysics.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-78",
+    "person_id": "dario-amodei",
+    "institution_id": "org-stanford",
+    "kind": "employment",
+    "role": "School of Medicine postdoctoral scholar",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "School of Medicine postdoctoral scholar",
+    "evidence": "Biography explicitly records: School of Medicine postdoctoral scholar.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "afrt-extra-79",
+    "person_id": "dario-amodei",
+    "institution_id": "org-hertz-foundation",
+    "kind": "fellowship",
+    "role": "Hertz Fellow",
+    "source_ids": [
+      "afrt-dario-bio"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "completion": null,
+    "status": "historical",
+    "description": "Hertz Fellow",
+    "evidence": "Biography explicitly records: Hertz Fellow.",
+    "confidence": "A",
+    "verification_status": "verified",
+    "checked_on": "2026-10-14"
+  }
+]

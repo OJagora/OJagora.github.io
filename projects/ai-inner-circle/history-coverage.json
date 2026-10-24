@@ -1,0 +1,1786 @@
+[
+  {
+    "person_id": "aaron-courville",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "aidan-gomez",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alec-radford",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alex-graves",
+    "checked_on": "2026-10-14",
+    "employment": "unreviewed",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "alex-karp",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alex-krizhevsky",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alexander-skidanov",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alexandr-wang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "alexis-ohanian",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ali-partovi",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "amanda-askell",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "andrej-karpathy",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected public history reviewed; this is not an exhaustive biography. Ongoing roles refer to the cited source date."
+  },
+  {
+    "person_id": "andrew-tulloch",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "andy-bechtolsheim",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "andy-konwinski",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "aohan-zeng",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "aravind-srinivas",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "armand-joulin",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "arthur-mensch",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ashish-vaswani",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "aurelien-rodriguez",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "babak-nivi",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "baptiste-roziere",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "barret-zoph",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ben-horowitz",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ben-mann",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ben-mildenhall",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "bill-joy",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "bill-lee",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "bing-xu",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "blake-masters",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "bret-taylor",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "brett-gibson",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "brian-armstrong",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "brian-chesky",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "catherine-olsson",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "chad-hurley",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "chamath-palihapitiya",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "chris-olah",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "christoph-lassner",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "christopher-akiki",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "clay-bavor",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "clement-delangue",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "cyan-banister",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "daan-wierstra",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "dahua-lin",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "daniel-de-freitas",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "daniel-gross",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "daniel-levy",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "daniela-amodei",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "danny-hernandez",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "dario-amodei",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "david-gausebeck",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "david-ha",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "david-sacks",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "david-silver",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "david-warde-farley",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "deep-ganguli",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "demis-hassabis",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "denis-yarats",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "diederik-kingma",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "dustin-moskovitz",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "edouard-grave",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "elad-gil",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "elon-musk",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "eric-hambro",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "eric-wu",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ethan-perez",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "faisal-azhar",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "fei-fei-li",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "garry-tan",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "gautier-izacard",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "geoffrey-hinton",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "giada-pistilli",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "greg-brockman",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "guillaume-lample",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "hadi-partovi",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "harj-taggar",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "herve-jegou",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "holden-karnofsky",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "hugo-touvron",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ian-goodfellow",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ian-wong",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "illia-polosukhin",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ilya-sutskever",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ioannis-antonoglou",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ivan-zhang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jack-abraham",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jack-clark",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jacob-devlin",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jakob-uszkoreit",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jan-leike",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jared-kaplan",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jawed-karim",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jd-ross",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jean-pouget-abadie",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jeff-dean",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "jeff-johnson",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jeff-wu",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jeremy-stoppelman",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jessica-livingston",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jian-sun",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jie-tang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jim-clark",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jimmy-ba",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "joe-gebbia",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "joe-lonsdale",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "john-doerr",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "john-jumper",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "john-schulman",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "johnny-ho",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "jordan-hoffmann",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "julien-chaumond",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "justin-johnson",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "justin-rosenstein",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "kai-fu-lee",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "kaiming-he",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "karen-simonyan",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "keith-rabois",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "ken-howery",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "kenton-lee",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "kevin-scott",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "koray-kavukcuoglu",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "kristina-toutanova",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "laurent-sifre",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "lilian-weng",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "llion-jones",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "long-ouyang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "lucy-guo",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "lukasz-kaiser",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "luke-metz",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "luke-nosek",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "marc-andreessen",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "margot-mieskes",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "marie-anne-lachaux",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "mark-zuckerberg",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "martin-newell",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "martin-riedmiller",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "matthias-galle",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "matthijs-douze",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "max-levchin",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "mehdi-mirza",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "michael-moritz",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "mike-krieger",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "mikhail-parakhin",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ming-wei-chang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "mira-murati",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "misha-bilenko",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "mustafa-suleyman",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "unreviewed",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "naman-goyal",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "naval-ravikant",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "navdeep-jaitly",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "neel-nanda",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "nelson-elhage",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "nick-frosst",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "nick-sivo",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "niki-parmar",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "nitish-srivastava",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "noam-shazeer",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "oriol-vinyals",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "pamela-vagata",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "paul-graham",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "peter-dayan",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "peter-thiel",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "unreviewed",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "pierre-sermanet",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "prafulla-dhariwal",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "quoc-le",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "raj-reddy",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "rajesh-jha",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "reid-hoffman",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected published biographies reviewed; histories remain partial. Unknown dates and unavailable categories are not inferred."
+  },
+  {
+    "person_id": "ren-ito",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "richard-zemel",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "robert-morris",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "roelof-botha",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ron-conway",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ruslan-salakhutdinov",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "russel-simmons",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sam-altman",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected public history reviewed; this is not an exhaustive biography. Ongoing roles refer to the cited source date."
+  },
+  {
+    "person_id": "sam-bowman",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sam-mccandlish",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sanjay-ghemawat",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sara-sabour",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "satya-nadella",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "scott-banister",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "scott-mcnealy",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sebastian-borgeaud",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "shane-legg",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "shaoqing-ren",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "sherjil-ozair",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "siddhartha-mukherjee",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "simon-osindero",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "soumith-chintala",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "stephen-cohen",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "stephen-oskoui",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "steve-chen",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "suzana-ilic",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "thibaut-lavril",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "thomas-wolf",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "timothee-lacroix",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "tom-brown",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "tom-henighan",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "trevor-blackwell",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "ujjwal-singh",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "vicki-cheung",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "vinod-khosla",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "volodymyr-mnih",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "unreviewed",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "william-cohen",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "wojciech-zaremba",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xavier-martinet",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xiangyu-zhang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xiao-liu",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xiaogang-wang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xiaoou-tang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "xu-li",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "yacine-jernite",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "yang-fan",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "yann-lecun",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "yee-whye-teh",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "yoshua-bengio",
+    "checked_on": "2026-10-14",
+    "employment": "reviewed_partial",
+    "education": "reviewed_partial",
+    "organisations": "reviewed_partial",
+    "note": "Selected source-backed records reviewed. Coverage remains partial; categories without recorded evidence remain pending."
+  },
+  {
+    "person_id": "yuntao-bai",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "yuxiao-dong",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "zhilin-yang",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  },
+  {
+    "person_id": "zihang-dai",
+    "checked_on": null,
+    "employment": "unreviewed",
+    "education": "unreviewed",
+    "organisations": "unreviewed",
+    "note": "Structured formal-history review remains outstanding. Existing profile sources are preserved."
+  }
+]
