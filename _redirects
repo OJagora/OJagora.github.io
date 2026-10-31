@@ -1,0 +1,16 @@
+# Serve each article's HTML before Cloudflare Pages' automatic SPA fallback.
+/blog/ai-efficiency /blog/ai-efficiency/index.html 200
+/blog/ai-efficiency/ /blog/ai-efficiency/index.html 200
+
+
+
+/blog/ai-access-gap /blog/ai-access-gap/index.html 200
+/blog/ai-access-gap/ /blog/ai-access-gap/index.html 200
+
+# The blog entry opens the visualizer; preserve existing article bookmarks.
+/blog/ai-inner-circle /projects/ai-inner-circle 301
+/blog/ai-inner-circle/ /projects/ai-inner-circle 301
+/blog/ai-inner-circle/index.html /projects/ai-inner-circle 301
+/projects/ai-inner-circle /projects/ai-inner-circle/index.html 200
+/projects/ai-inner-circle/ /projects/ai-inner-circle/index.html 200
+

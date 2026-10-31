@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ac-backlog-002",
+    "source": "arthur-mensch",
+    "target": "guillaume-lample",
+    "type": "collaboration",
+    "claim": "Earlier university classmate relationship, before Mistral.",
+    "verification_status": "unconfirmed",
+    "confidence": "C",
+    "notes": "Secondary profile says they overlapped at École Polytechnique; verify exact course and contemporaneous relationship before publishing.",
+    "candidate_source_urls": [
+      "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html"
+    ]
+  },
+  {
+    "id": "ac-backlog-003",
+    "source": "arthur-mensch",
+    "target": "timothee-lacroix",
+    "type": "friendship",
+    "claim": "Earlier master's classmates and skiing companions.",
+    "verification_status": "unconfirmed",
+    "confidence": "C",
+    "notes": "The broader friendship is now supported by TIME; the exact master's-program and skiing details still need independent confirmation.",
+    "candidate_source_urls": [
+      "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html"
+    ]
+  },
+  {
+    "id": "ac-backlog-004",
+    "source": "xiaoou-tang",
+    "target": "xu-li",
+    "type": "supervision",
+    "claim": "Tang supervised Xu Li at CUHK.",
+    "verification_status": "unconfirmed",
+    "confidence": "C",
+    "notes": "Official sources establish cofounding and CUHK doctorate, but do not name an individual supervisor. Do not infer supervision.",
+    "candidate_source_urls": [
+      "https://www.sensetime.com/en/investor_corp_governance"
+    ]
+  },
+  {
+    "id": "ac-backlog-005",
+    "source": "fei-fei-li",
+    "target": "justin-johnson",
+    "type": "supervision",
+    "claim": "Li advised Johnson's Stanford doctorate.",
+    "verification_status": "unconfirmed",
+    "confidence": "C",
+    "notes": "University event search result explicitly identifies advisor, but the full source failed to open. Verify via thesis or accessible official biography.",
+    "candidate_source_urls": [
+      "https://eecs.engin.umich.edu/event/compositional-visual-intelligence/"
+    ]
+  },
+  {
+    "id": "ac-backlog-006",
+    "source": "ian-goodfellow",
+    "target": "yoshua-bengio",
+    "type": "supervision",
+    "claim": "Goodfellow's PhD supervision by Bengio and Courville.",
+    "verification_status": "unconfirmed",
+    "confidence": "C",
+    "notes": "GAN coauthorship is verified but does not prove supervision. Retrieve dissertation or official graduate records.",
+    "candidate_source_urls": [
+      "https://arxiv.org/pdf/1406.2661"
+    ]
+  },
+  {
+    "id": "aa-board-unknown",
+    "note": "Artificial Analysis does not identify board members in its about page; no board seats inferred from founders or backing."
+  },
+  {
+    "id": "od-gap-1",
+    "claim": "Exact dates of Altman–Wang apartment sharing",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [
+      "od-wang-roommate"
+    ],
+    "reason": "Explicit reliable reporting confirms months during the pandemic, without precise dates.",
+    "next_step": "Find original named interview or readable first-person confirmation before adding dates."
+  },
+  {
+    "id": "od-gap-2",
+    "claim": "Perplexity angel investors as person-to-person ties",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [],
+    "reason": "Company financing lists alone do not prove a personal relationship with a particular founder.",
+    "next_step": "Read founder or investor first-person accounts of direct relationships before adding investor-founder edges."
+  },
+  {
+    "id": "od-gap-3",
+    "claim": "Informal friendships among Anthropic and Thinking Machines founding teams",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [
+      "od-anthropic-founders",
+      "od-tml-founding"
+    ],
+    "reason": "Founding status establishes cofounding; it does not independently establish friendship.",
+    "next_step": "Seek public first-person accounts or explicit reliable reporting."
+  },
+  {
+    "id": "od-gap-4",
+    "claim": "Sam Altman family relationships",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [],
+    "reason": "Primary-source family evidence not established within this bounded pass.",
+    "next_step": "Inspect publicly volunteered primary disclosures; avoid inferring marriage solely from a joint pledge."
+  },
+  {
+    "id": "od-gap-5",
+    "claim": "Dario Amodei–Holden Karnofsky former roommates",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [],
+    "reason": "Secondary references surfaced, but a suitably checked direct account was not obtained.",
+    "next_step": "Read original feature or first-person disclosure before adding a roommate edge."
+  },
+  {
+    "id": "ex-gap-comparison",
+    "claim": "AI is unusually interconnected compared with other industries.",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "reason": "No matched comparison-industry network or representative sampling frame; do not assert.",
+    "next_step": "Design matched population, observation period, tie definition and source coverage."
+  },
+  {
+    "id": "pv-c001",
+    "source": "sam-altman",
+    "target": "alexandr-wang",
+    "type": "roommate",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "description": "Reported former-roommate claim remains unsupported by a reliable public account located in this pass.",
+    "required_evidence": "Firsthand interview or authoritative report explicitly identifying shared residence.",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "pv-c002",
+    "source": "elon-musk",
+    "target": "demis-hassabis",
+    "type": "angel_investment",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "description": "Musk’s early DeepMind backing requires original confirmation of personal investment and founder relationship.",
+    "required_evidence": "Original announcement or firsthand founder/investor account.",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "pv-c003",
+    "source": "peter-thiel",
+    "target": "sam-altman",
+    "type": "partnership",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "description": "Reporting describes Thiel investing in Altman’s Hydrazine fund; separate LP financing from a personal startup angel investment.",
+    "required_evidence": "Clarify financing vehicle and choose a dedicated fund-backing relationship type.",
+    "source_ids": [
+      "pv-altman-profile"
+    ],
+    "checked_on": "2026-10-14"
+  },
+  {
+    "id": "pv-c004",
+    "source": "reid-hoffman",
+    "target": "peter-thiel",
+    "type": "friendship",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "description": "AP reports a Stanford friendship; full article fetch was unavailable in this pass.",
+    "required_evidence": "Accessible full report or firsthand account.",
+    "candidate_url": "https://apnews.com/article/aa9600b3c82f886cbe336f519672f9d7",
+    "checked_on": "2026-10-14"
+  }
+]
