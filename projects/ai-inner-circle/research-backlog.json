@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ac-backlog-002",
+    "source": "arthur-mensch",
+    "target": "guillaume-lample",
+    "type": "collaboration",
+    "claim": "Earlier university classmate relationship, before Mistral.",
+    "verification_status": "verified",
+    "confidence": "B",
+    "notes": "Resolved 2026-10-30: Le Monde explicitly identifies Guillaume Lample as Arthur Mensch's former École Polytechnique classmate and recounts their meeting at NeurIPS in 2022. Recorded as a distinct classmate tie, not friendship or collaboration.",
+    "candidate_source_urls": [
+      "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html"
+    ]
+  },
+  {
+    "id": "ac-backlog-003",
+    "source": "arthur-mensch",
+    "target": "timothee-lacroix",
+    "type": "friendship",
+    "claim": "Earlier master's classmates and skiing companions.",
+    "verification_status": "verified",
+    "confidence": "B",
+    "notes": "Resolved 2026-10-30: Le Monde identifies Timothée Lacroix as Arthur Mensch's master's classmate and ski-trip companion. The classmate tie is recorded separately from their existing friendship.",
+    "candidate_source_urls": [
+      "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html"
+    ]
+  },
+  {
+    "id": "ac-backlog-004",
+    "source": "xiaoou-tang",
+    "target": "xu-li",
+    "type": "supervision",
+    "claim": "Tang supervised Xu Li at CUHK.",
+    "verification_status": "verified",
+    "confidence": "B",
+    "notes": "Resolved 2026-10-30: Forbes reports that Xu Li was one of Xiaoou Tang's PhD students and that they cofounded SenseTime. A supervision relationship is recorded from this direct secondary statement; official university confirmation naming Tang as supervisor was not located.",
+    "candidate_source_urls": [
+      "https://www.sensetime.com/en/investor_corp_governance"
+    ]
+  },
+  {
+    "id": "ac-backlog-005",
+    "source": "fei-fei-li",
+    "target": "justin-johnson",
+    "type": "supervision",
+    "claim": "Li advised Johnson's Stanford doctorate.",
+    "verification_status": "verified",
+    "confidence": "A",
+    "notes": "Resolved 2026-10-30: Stanford-hosted Fei-Fei Li CV lists Justin Johnson among her PhD students (2013–2018) and gives his dissertation title. The graph already contains this supervision pair; the CV is added as an independent source assertion.",
+    "candidate_source_urls": [
+      "https://eecs.engin.umich.edu/event/compositional-visual-intelligence/"
+    ]
+  },
+  {
+    "id": "ac-backlog-006",
+    "source": "ian-goodfellow",
+    "target": "yoshua-bengio",
+    "type": "supervision",
+    "claim": "Goodfellow's PhD supervision by Bengio and Courville.",
+    "verification_status": "verified",
+    "confidence": "C",
+    "notes": "Resolved 2026-10-30: official Université de Montréal supervised-theses profiles for Bengio and Courville both list Goodfellow's 2015 doctoral thesis. Separate supervisor links are recorded from each profile.",
+    "candidate_source_urls": [
+      "https://arxiv.org/pdf/1406.2661"
+    ]
+  },
+  {
+    "id": "aa-board-unknown",
+    "note": "Artificial Analysis does not identify board members in its about page; no board seats inferred from founders or backing."
+  },
+  {
+    "id": "od-gap-1",
+    "claim": "Exact dates of Altman–Wang apartment sharing",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [
+      "od-wang-roommate"
+    ],
+    "reason": "Explicit reliable reporting confirms months during the pandemic, without precise dates.",
+    "next_step": "Find original named interview or readable first-person confirmation before adding dates."
+  },
+  {
+    "id": "od-gap-2",
+    "claim": "Perplexity angel investors as person-to-person ties",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [
+      "perplexity-march-2024-round-techcrunch",
+      "perplexity-series-b-2024-latham",
+      "perplexity-series-b-2024-axios"
+    ],
+    "reason": "Progress 2026-10-30: TechCrunch, Perplexity's transaction counsel Latham & Watkins, and Axios identify six rostered participants in the 2024 Series B round; all 15 pairwise co-investment records among those six are now recorded. Other investor-founder links still require evidence of the individual's own investment or direct interaction; a company funding list alone is insufficient.",
+    "next_step": "Read founder or investor first-person accounts of direct relationships before adding investor-founder edges."
+  },
+  {
+    "id": "od-gap-3",
+    "claim": "Informal friendships among Anthropic and Thinking Machines founding teams",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [
+      "od-anthropic-founders",
+      "od-tml-founding"
+    ],
+    "reason": "Founding status establishes cofounding; it does not independently establish friendship.",
+    "next_step": "Seek public first-person accounts or explicit reliable reporting."
+  },
+  {
+    "id": "od-gap-4",
+    "claim": "Sam Altman family relationships",
+    "confidence": "C",
+    "verification_status": "research_gap",
+    "source_ids": [],
+    "reason": "Primary-source family evidence not established within this bounded pass.",
+    "next_step": "Inspect publicly volunteered primary disclosures; avoid inferring marriage solely from a joint pledge."
+  },
+  {
+    "id": "od-gap-5",
+    "claim": "Dario Amodei–Holden Karnofsky former roommates",
+    "confidence": "A",
+    "verification_status": "verified",
+    "source_ids": [
+      "survey-openai-group-house",
+      "survey-karnofsky",
+      "bloomberg-dario-amodei-open-philanthropy-advising-2026"
+    ],
+    "reason": "Resolved 2026-10-30: Amodei confirms the shared group house in a Bloomberg interview; Fortune and The Wall Street Journal independently report that he and Karnofsky were housemates.",
+    "checked_on": "2026-10-30"
+  },
+  {
+    "id": "ex-gap-comparison",
+    "claim": "AI is unusually interconnected compared with other industries.",
+    "confidence": "C",
+    "verification_status": "unconfirmed",
+    "reason": "No matched comparison-industry network or representative sampling frame; do not assert.",
+    "next_step": "Design matched population, observation period, tie definition and source coverage."
+  },
+  {
+    "id": "pv-c001",
+    "source": "sam-altman",
+    "target": "alexandr-wang",
+    "type": "roommate",
+    "confidence": "B",
+    "verification_status": "verified",
+    "description": "Resolved 2026-10-30: TIME reports that Altman stayed in Wang's apartment for months during the pandemic; the graph already contains the roommate tie.",
+    "required_evidence": "Satisfied by TIME's explicit report of the shared apartment.",
+    "source_ids": [
+      "od-wang-roommate"
+    ],
+    "checked_on": "2026-10-30"
+  },
+  {
+    "id": "pv-c002",
+    "source": "elon-musk",
+    "target": "demis-hassabis",
+    "type": "angel_investment",
+    "confidence": "A",
+    "verification_status": "verified",
+    "description": "Resolved 2026-10-30: Musk confirms in a WIRED interview that he put money into DeepMind; Hassabis's official company history says he co-founded it.",
+    "required_evidence": "Satisfied by the first-person investment account and official founder history.",
+    "checked_on": "2026-10-30"
+  },
+  {
+    "id": "pv-c003",
+    "source": "peter-thiel",
+    "target": "sam-altman",
+    "type": "fund_backing",
+    "confidence": "B",
+    "verification_status": "verified",
+    "description": "Resolved 2026-10-30: The Washington Post reports Thiel provided most of the $21 million Altman raised for Hydrazine Capital; a dedicated venture-fund backing link is recorded.",
+    "required_evidence": "Satisfied by The Washington Post's explicit fund-raising account and the new fund_backing relationship type.",
+    "source_ids": [
+      "pv-altman-profile"
+    ],
+    "checked_on": "2026-10-30"
+  },
+  {
+    "id": "pv-c004",
+    "source": "reid-hoffman",
+    "target": "peter-thiel",
+    "type": "friendship",
+    "confidence": "B",
+    "verification_status": "verified",
+    "description": "Resolved 2026-10-30: the accessible AP profile explicitly reports that Hoffman and Thiel became friends as Stanford students; the existing graph record cites this source.",
+    "required_evidence": "Satisfied by the accessible Associated Press report.",
+    "candidate_url": "https://apnews.com/article/aa9600b3c82f886cbe336f519672f9d7",
+    "checked_on": "2026-10-14"
+  }
+]
