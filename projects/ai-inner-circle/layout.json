@@ -1,0 +1,6336 @@
+{
+  "positions": {
+    "aaron-courville": {
+      "x": 1473.61,
+      "y": 2209.38
+    },
+    "ian-goodfellow": {
+      "x": 1768.03,
+      "y": 2229.05
+    },
+    "yoshua-bengio": {
+      "x": 1594.74,
+      "y": 2223.09
+    },
+    "mehdi-mirza": {
+      "x": 1544.88,
+      "y": 2403.97
+    },
+    "bing-xu": {
+      "x": 1370.88,
+      "y": 2279.34
+    },
+    "david-warde-farley": {
+      "x": 1382.75,
+      "y": 2237.29
+    },
+    "jean-pouget-abadie": {
+      "x": 1381.96,
+      "y": 2319.88
+    },
+    "sherjil-ozair": {
+      "x": 1703.41,
+      "y": 2437.28
+    },
+    "richard-zemel": {
+      "x": 1495.71,
+      "y": 2243.71
+    },
+    "ruslan-salakhutdinov": {
+      "x": 1615.83,
+      "y": 2107.1
+    },
+    "jimmy-ba": {
+      "x": 1726.9,
+      "y": 2196.1
+    },
+    "sanjay-ghemawat": {
+      "x": 1959.08,
+      "y": 2396.22
+    },
+    "andrew-ng": {
+      "x": 1963.99,
+      "y": 2110.5
+    },
+    "greg-corrado": {
+      "x": 1972.53,
+      "y": 2294.21
+    },
+    "chris-olah": {
+      "x": 2203.71,
+      "y": 1915.95
+    },
+    "ilya-sutskever": {
+      "x": 2225.9,
+      "y": 2141.18
+    },
+    "jeff-dean": {
+      "x": 2171.7,
+      "y": 2393.79
+    },
+    "lukasz-kaiser": {
+      "x": 2144.88,
+      "y": 2267.05
+    },
+    "oriol-vinyals": {
+      "x": 1909.62,
+      "y": 2439.04
+    },
+    "geoffrey-hinton": {
+      "x": 1724.97,
+      "y": 2289.53
+    },
+    "yann-lecun": {
+      "x": 1812.44,
+      "y": 2211.26
+    },
+    "michael-i-jordan": {
+      "x": 1884.72,
+      "y": 2134.86
+    },
+    "alex-graves": {
+      "x": 1755.3,
+      "y": 2631.39
+    },
+    "david-silver": {
+      "x": 1890.81,
+      "y": 2530.16
+    },
+    "koray-kavukcuoglu": {
+      "x": 1852.89,
+      "y": 2523.75
+    },
+    "volodymyr-mnih": {
+      "x": 1764.16,
+      "y": 2539.34
+    },
+    "arthur-mensch": {
+      "x": 1724.76,
+      "y": 2785.29
+    },
+    "demis-hassabis": {
+      "x": 2072.5,
+      "y": 2547.07
+    },
+    "ioannis-antonoglou": {
+      "x": 1926.23,
+      "y": 2554.8
+    },
+    "jacob-devlin": {
+      "x": 1846.16,
+      "y": 2586.3
+    },
+    "laurent-sifre": {
+      "x": 1823.41,
+      "y": 2570.45
+    },
+    "ming-wei-chang": {
+      "x": 1794.89,
+      "y": 2631.52
+    },
+    "quoc-le": {
+      "x": 1892.12,
+      "y": 2376.26
+    },
+    "sebastian-borgeaud": {
+      "x": 1874.14,
+      "y": 2605.19
+    },
+    "zihang-dai": {
+      "x": 1771.44,
+      "y": 2372.2
+    },
+    "peter-dayan": {
+      "x": 1712,
+      "y": 2485.81
+    },
+    "navdeep-jaitly": {
+      "x": 1581.45,
+      "y": 2330.56
+    },
+    "nitish-srivastava": {
+      "x": 1647.87,
+      "y": 2161.6
+    },
+    "zhilin-yang": {
+      "x": 1682.24,
+      "y": 2066.52
+    },
+    "alex-krizhevsky": {
+      "x": 1806.47,
+      "y": 2074.64
+    },
+    "kaiming-he": {
+      "x": 1107.36,
+      "y": 1815.62
+    },
+    "william-cohen": {
+      "x": 1587.06,
+      "y": 1984.23
+    },
+    "diederik-kingma": {
+      "x": 2364.15,
+      "y": 2186.07
+    },
+    "barret-zoph": {
+      "x": 2198.3,
+      "y": 2170.47
+    },
+    "noam-shazeer": {
+      "x": 2042.8,
+      "y": 2504.6
+    },
+    "daphne-koller": {
+      "x": 2017.65,
+      "y": 1991.74
+    },
+    "zico-kolter": {
+      "x": 2322.35,
+      "y": 2189.47
+    },
+    "carol-reiley": {
+      "x": 1741.44,
+      "y": 1882.93
+    },
+    "fei-fei-li": {
+      "x": 2346.4,
+      "y": 2039.27
+    },
+    "pieter-abbeel": {
+      "x": 2099.44,
+      "y": 2263.92
+    },
+    "david-ha": {
+      "x": 1963.72,
+      "y": 2658.38
+    },
+    "amanda-askell": {
+      "x": 2279.23,
+      "y": 1762.08
+    },
+    "ben-mann": {
+      "x": 2336.41,
+      "y": 1763.34
+    },
+    "jack-clark": {
+      "x": 2285.92,
+      "y": 1703.04
+    },
+    "daniela-amodei": {
+      "x": 2385.18,
+      "y": 1726.58
+    },
+    "danny-hernandez": {
+      "x": 2225.89,
+      "y": 1590.01
+    },
+    "dario-amodei": {
+      "x": 2431.49,
+      "y": 1875.91
+    },
+    "deep-ganguli": {
+      "x": 2326.94,
+      "y": 1593.48
+    },
+    "jared-kaplan": {
+      "x": 2297.02,
+      "y": 1732.28
+    },
+    "sam-mccandlish": {
+      "x": 2317.02,
+      "y": 1710.77
+    },
+    "tom-brown": {
+      "x": 2257.75,
+      "y": 1726.45
+    },
+    "tom-henighan": {
+      "x": 2233.49,
+      "y": 1702.78
+    },
+    "yuntao-bai": {
+      "x": 2295.39,
+      "y": 1582.97
+    },
+    "greg-brockman": {
+      "x": 2508.29,
+      "y": 2055.63
+    },
+    "catherine-olsson": {
+      "x": 2263.96,
+      "y": 1623.91
+    },
+    "nelson-elhage": {
+      "x": 2249.8,
+      "y": 1568.19
+    },
+    "neel-nanda": {
+      "x": 2281.59,
+      "y": 1552.4
+    },
+    "jeff-wu": {
+      "x": 2309.95,
+      "y": 1908.94
+    },
+    "alec-radford": {
+      "x": 2264.74,
+      "y": 1981.68
+    },
+    "prafulla-dhariwal": {
+      "x": 2335.83,
+      "y": 1935.61
+    },
+    "adam-dangelo": {
+      "x": 2577.04,
+      "y": 2291.83
+    },
+    "andy-bechtolsheim": {
+      "x": 2934.03,
+      "y": 2089.51
+    },
+    "daniel-levy": {
+      "x": 2329.63,
+      "y": 2088.74
+    },
+    "jan-leike": {
+      "x": 2292.46,
+      "y": 1928.07
+    },
+    "jie-tang": {
+      "x": 2053.91,
+      "y": 1933.5
+    },
+    "lilian-weng": {
+      "x": 2266.1,
+      "y": 2035.87
+    },
+    "long-ouyang": {
+      "x": 2304.57,
+      "y": 1995.66
+    },
+    "mira-murati": {
+      "x": 2382.31,
+      "y": 2066.19
+    },
+    "john-schulman": {
+      "x": 2318.2,
+      "y": 2117.07
+    },
+    "sam-altman": {
+      "x": 2643.75,
+      "y": 2185.01
+    },
+    "andrej-karpathy": {
+      "x": 2403.09,
+      "y": 2181.7
+    },
+    "andrew-tulloch": {
+      "x": 2306.46,
+      "y": 2047.22
+    },
+    "luke-metz": {
+      "x": 2261.17,
+      "y": 2090.21
+    },
+    "elon-musk": {
+      "x": 2659.48,
+      "y": 2310.18
+    },
+    "pamela-vagata": {
+      "x": 2472.04,
+      "y": 2182.17
+    },
+    "trevor-blackwell": {
+      "x": 2570.22,
+      "y": 2207.28
+    },
+    "vicki-cheung": {
+      "x": 2486.55,
+      "y": 2122.87
+    },
+    "wojciech-zaremba": {
+      "x": 2393.61,
+      "y": 2101.03
+    },
+    "jensen-huang": {
+      "x": 2605.27,
+      "y": 1957.93
+    },
+    "daniel-gross": {
+      "x": 2516.18,
+      "y": 2368.8
+    },
+    "eric-wu": {
+      "x": 2783.65,
+      "y": 2430.69
+    },
+    "keith-rabois": {
+      "x": 2786.01,
+      "y": 2476.81
+    },
+    "nat-friedman": {
+      "x": 2572.67,
+      "y": 2435.57
+    },
+    "vinod-khosla": {
+      "x": 2909.97,
+      "y": 2230.32
+    },
+    "sundar-pichai": {
+      "x": 2510.73,
+      "y": 2154.28
+    },
+    "alessio-fanelli": {
+      "x": 2449.78,
+      "y": 2330.43
+    },
+    "daniel-de-freitas": {
+      "x": 2054,
+      "y": 2674.47
+    },
+    "mustafa-suleyman": {
+      "x": 2316.17,
+      "y": 2478.51
+    },
+    "shawn-wang": {
+      "x": 2456.04,
+      "y": 2361.68
+    },
+    "elad-gil": {
+      "x": 2592.57,
+      "y": 2470.92
+    },
+    "garry-tan": {
+      "x": 2599.37,
+      "y": 2526.81
+    },
+    "eric-schmidt": {
+      "x": 2608.27,
+      "y": 2119.57
+    },
+    "guillermo-rauch": {
+      "x": 2559.44,
+      "y": 2402.35
+    },
+    "aidan-gomez": {
+      "x": 1844.98,
+      "y": 2485.94
+    },
+    "ashish-vaswani": {
+      "x": 2078.22,
+      "y": 2600.59
+    },
+    "jakob-uszkoreit": {
+      "x": 2250.56,
+      "y": 2559.36
+    },
+    "llion-jones": {
+      "x": 2005.75,
+      "y": 2731.35
+    },
+    "niki-parmar": {
+      "x": 2112.83,
+      "y": 2576.13
+    },
+    "ivan-zhang": {
+      "x": 1643.2,
+      "y": 2397.28
+    },
+    "illia-polosukhin": {
+      "x": 2036.01,
+      "y": 2793.05
+    },
+    "simon-osindero": {
+      "x": 1741.68,
+      "y": 2586.99
+    },
+    "john-jumper": {
+      "x": 1730.9,
+      "y": 2710.88
+    },
+    "jordan-hoffmann": {
+      "x": 1816.01,
+      "y": 2734.51
+    },
+    "karen-simonyan": {
+      "x": 2104.42,
+      "y": 2639.05
+    },
+    "misha-bilenko": {
+      "x": 2192.72,
+      "y": 2327.83
+    },
+    "yee-whye-teh": {
+      "x": 1633.89,
+      "y": 2592.05
+    },
+    "nick-frosst": {
+      "x": 1511.3,
+      "y": 2445.05
+    },
+    "sara-sabour": {
+      "x": 1367.89,
+      "y": 2438.05
+    },
+    "kai-fu-lee": {
+      "x": 2069.37,
+      "y": 2083.55
+    },
+    "raj-reddy": {
+      "x": 1720.37,
+      "y": 2042.26
+    },
+    "soumith-chintala": {
+      "x": 2024.14,
+      "y": 2329.2
+    },
+    "pierre-sermanet": {
+      "x": 1684.2,
+      "y": 2321.19
+    },
+    "jeff-johnson": {
+      "x": 1445.68,
+      "y": 2634.15
+    },
+    "mark-zuckerberg": {
+      "x": 2623.42,
+      "y": 2217.65
+    },
+    "daan-wierstra": {
+      "x": 1888.81,
+      "y": 2763.4
+    },
+    "martin-riedmiller": {
+      "x": 1853.5,
+      "y": 2768.71
+    },
+    "shane-legg": {
+      "x": 2171.58,
+      "y": 2667.43
+    },
+    "armand-joulin": {
+      "x": 1438.87,
+      "y": 2977.88
+    },
+    "guillaume-lample": {
+      "x": 1378.2,
+      "y": 3073.06
+    },
+    "timothee-lacroix": {
+      "x": 1406.93,
+      "y": 3097.76
+    },
+    "charlie-songhurst": {
+      "x": 2336.49,
+      "y": 2679.92
+    },
+    "marie-anne-lachaux": {
+      "x": 1326.39,
+      "y": 3160.7
+    },
+    "thibaut-lavril": {
+      "x": 1299.84,
+      "y": 3132.28
+    },
+    "baptiste-roziere": {
+      "x": 1350.61,
+      "y": 3188.89
+    },
+    "peter-thiel": {
+      "x": 2627.6,
+      "y": 2588.8
+    },
+    "cyan-banister": {
+      "x": 2536.79,
+      "y": 2654.68
+    },
+    "eliezer-yudkowsky": {
+      "x": 2315.82,
+      "y": 2757.65
+    },
+    "kenton-lee": {
+      "x": 1600.34,
+      "y": 2922.51
+    },
+    "kristina-toutanova": {
+      "x": 1537.69,
+      "y": 2866.01
+    },
+    "aohan-zeng": {
+      "x": 1666.03,
+      "y": 1679.2
+    },
+    "shaoqing-ren": {
+      "x": 753.27,
+      "y": 1580.79
+    },
+    "jian-sun": {
+      "x": 676.82,
+      "y": 1601.22
+    },
+    "xiangyu-zhang": {
+      "x": 706.97,
+      "y": 1673.91
+    },
+    "xiaoou-tang": {
+      "x": 514.43,
+      "y": 1521.37
+    },
+    "bret-taylor": {
+      "x": 2563.71,
+      "y": 2109.56
+    },
+    "justin-johnson": {
+      "x": 2180.3,
+      "y": 1838.61
+    },
+    "ben-mildenhall": {
+      "x": 2113.97,
+      "y": 1676.92
+    },
+    "christoph-lassner": {
+      "x": 2079.45,
+      "y": 1715.37
+    },
+    "arvind-krishna": {
+      "x": 2554.53,
+      "y": 1951.99
+    },
+    "satya-nadella": {
+      "x": 2459.93,
+      "y": 2134.56
+    },
+    "lisa-su": {
+      "x": 2625.94,
+      "y": 2005.21
+    },
+    "naval-ravikant": {
+      "x": 2701.42,
+      "y": 2493.77
+    },
+    "aravind-srinivas": {
+      "x": 2409.05,
+      "y": 2493.86
+    },
+    "ren-ito": {
+      "x": 1905.83,
+      "y": 2985.16
+    },
+    "sam-bowman": {
+      "x": 2333.03,
+      "y": 1551.36
+    },
+    "ethan-perez": {
+      "x": 2362.55,
+      "y": 1585.14
+    },
+    "holden-karnofsky": {
+      "x": 2430.47,
+      "y": 1600.92
+    },
+    "mike-krieger": {
+      "x": 2516.7,
+      "y": 2081.52
+    },
+    "cami-clark": {
+      "x": 2538.29,
+      "y": 1902.11
+    },
+    "charlie-cheever": {
+      "x": 2755.76,
+      "y": 2346.2
+    },
+    "mikhail-parakhin": {
+      "x": 2343.05,
+      "y": 2256.19
+    },
+    "alexandr-wang": {
+      "x": 2758.97,
+      "y": 2065.08
+    },
+    "clement-delangue": {
+      "x": 2905.1,
+      "y": 1777.4
+    },
+    "harj-taggar": {
+      "x": 2701.42,
+      "y": 2383.39
+    },
+    "julien-chaumond": {
+      "x": 2877.84,
+      "y": 1753.28
+    },
+    "lucy-guo": {
+      "x": 2741.27,
+      "y": 2195.74
+    },
+    "thomas-wolf": {
+      "x": 3094.94,
+      "y": 1583.69
+    },
+    "jessica-livingston": {
+      "x": 2747.79,
+      "y": 2277.37
+    },
+    "paul-graham": {
+      "x": 2781.35,
+      "y": 2275.56
+    },
+    "alexis-ohanian": {
+      "x": 2745.12,
+      "y": 2606.46
+    },
+    "david-sacks": {
+      "x": 2782.85,
+      "y": 2536.65
+    },
+    "jeremy-stoppelman": {
+      "x": 2899.44,
+      "y": 2510.65
+    },
+    "max-levchin": {
+      "x": 2923.58,
+      "y": 2553.68
+    },
+    "john-doerr": {
+      "x": 3052.16,
+      "y": 2180.31
+    },
+    "bill-joy": {
+      "x": 3217.8,
+      "y": 2135.49
+    },
+    "scott-mcnealy": {
+      "x": 3184.11,
+      "y": 2080.44
+    },
+    "yuxiao-dong": {
+      "x": 1767.23,
+      "y": 1624.22
+    },
+    "xiao-liu": {
+      "x": 1794.32,
+      "y": 1586.99
+    },
+    "nick-sivo": {
+      "x": 2844.34,
+      "y": 1950.12
+    },
+    "jony-ive": {
+      "x": 3012.73,
+      "y": 1895.94
+    },
+    "ben-horowitz": {
+      "x": 2926.17,
+      "y": 2268.93
+    },
+    "marc-andreessen": {
+      "x": 2873.95,
+      "y": 2278.37
+    },
+    "kevin-scott": {
+      "x": 2399.36,
+      "y": 2295.18
+    },
+    "reid-hoffman": {
+      "x": 2688.84,
+      "y": 2533.29
+    },
+    "roelof-botha": {
+      "x": 3041.94,
+      "y": 2435.68
+    },
+    "ron-conway": {
+      "x": 2920.95,
+      "y": 1951.15
+    },
+    "alex-schultz": {
+      "x": 2850.41,
+      "y": 2097.99
+    },
+    "ali-partovi": {
+      "x": 2992.44,
+      "y": 2328.33
+    },
+    "dustin-moskovitz": {
+      "x": 2951.63,
+      "y": 2134.68
+    },
+    "hadi-partovi": {
+      "x": 3022.84,
+      "y": 2500.99
+    },
+    "jack-abraham": {
+      "x": 2822.83,
+      "y": 2407.58
+    },
+    "larry-ellison": {
+      "x": 3015.72,
+      "y": 2014.73
+    },
+    "steve-wozniak": {
+      "x": 3079.79,
+      "y": 1883.33
+    },
+    "scott-banister": {
+      "x": 2817.86,
+      "y": 2678.97
+    },
+    "brian-chesky": {
+      "x": 2923.08,
+      "y": 2189.64
+    },
+    "bill-lee": {
+      "x": 2920.27,
+      "y": 2459.46
+    },
+    "blake-masters": {
+      "x": 2786.71,
+      "y": 2606.47
+    },
+    "ken-howery": {
+      "x": 2859.24,
+      "y": 2554.99
+    },
+    "luke-nosek": {
+      "x": 2846.36,
+      "y": 2625.55
+    },
+    "michael-moritz": {
+      "x": 2873.49,
+      "y": 2382.05
+    },
+    "stephen-oskoui": {
+      "x": 2820.09,
+      "y": 2573.81
+    },
+    "robert-morris": {
+      "x": 2864.7,
+      "y": 2155.15
+    },
+    "chris-malachowsky": {
+      "x": 2716.4,
+      "y": 1647.81
+    },
+    "curtis-priem": {
+      "x": 2759.82,
+      "y": 1668.75
+    },
+    "george-cameron": {
+      "x": 2492.32,
+      "y": 2530.52
+    },
+    "micah-hill-smith": {
+      "x": 2522.62,
+      "y": 2581.33
+    },
+    "brian-armstrong": {
+      "x": 2836.34,
+      "y": 2491.63
+    },
+    "joe-lonsdale": {
+      "x": 2720.11,
+      "y": 2779.29
+    },
+    "ian-wong": {
+      "x": 3085.7,
+      "y": 2592.97
+    },
+    "jd-ross": {
+      "x": 3054.33,
+      "y": 2641.4
+    },
+    "babak-nivi": {
+      "x": 2983.83,
+      "y": 2790.57
+    },
+    "andy-konwinski": {
+      "x": 2506.99,
+      "y": 2745.12
+    },
+    "denis-yarats": {
+      "x": 2576.27,
+      "y": 2718.67
+    },
+    "johnny-ho": {
+      "x": 2549.79,
+      "y": 2757.09
+    },
+    "john-giannandrea": {
+      "x": 2967.4,
+      "y": 1809.36
+    },
+    "clay-bavor": {
+      "x": 2687.8,
+      "y": 1907.25
+    },
+    "ben-dunphy": {
+      "x": 2427.26,
+      "y": 2624.79
+    },
+    "rajesh-jha": {
+      "x": 2337.07,
+      "y": 2385.92
+    },
+    "brett-gibson": {
+      "x": 2801.61,
+      "y": 2853.89
+    },
+    "shu-ding": {
+      "x": 2637.37,
+      "y": 2852.76
+    },
+    "alexander-skidanov": {
+      "x": 1973.67,
+      "y": 3197.7
+    },
+    "matthijs-douze": {
+      "x": 1120.19,
+      "y": 2938.68
+    },
+    "herve-jegou": {
+      "x": 1174.23,
+      "y": 3012.8
+    },
+    "justin-rosenstein": {
+      "x": 3048.94,
+      "y": 2082.07
+    },
+    "chamath-palihapitiya": {
+      "x": 2923.15,
+      "y": 2313.93
+    },
+    "edouard-grave": {
+      "x": 1213.16,
+      "y": 3192.25
+    },
+    "hugo-touvron": {
+      "x": 1179.18,
+      "y": 3154.04
+    },
+    "gautier-izacard": {
+      "x": 1172.52,
+      "y": 3201.27
+    },
+    "aurelien-rodriguez": {
+      "x": 1222.89,
+      "y": 3283.72
+    },
+    "eric-hambro": {
+      "x": 1271.41,
+      "y": 3257.25
+    },
+    "faisal-azhar": {
+      "x": 1229.1,
+      "y": 3240.61
+    },
+    "naman-goyal": {
+      "x": 1186.55,
+      "y": 3251.07
+    },
+    "xavier-martinet": {
+      "x": 1269.49,
+      "y": 3293.96
+    },
+    "david-gausebeck": {
+      "x": 3045.15,
+      "y": 2751.75
+    },
+    "alex-karp": {
+      "x": 2723.68,
+      "y": 2905.28
+    },
+    "stephen-cohen": {
+      "x": 2769.54,
+      "y": 2959.2
+    },
+    "xu-li": {
+      "x": 274.67,
+      "y": 1402.17
+    },
+    "xiaogang-wang": {
+      "x": 224.63,
+      "y": 1438.09
+    },
+    "dahua-lin": {
+      "x": 220.04,
+      "y": 1375.19
+    },
+    "yang-fan": {
+      "x": 272.91,
+      "y": 1340.65
+    },
+    "christopher-akiki": {
+      "x": 3477.57,
+      "y": 1226.95
+    },
+    "giada-pistilli": {
+      "x": 3428.63,
+      "y": 1273.15
+    },
+    "margot-mieskes": {
+      "x": 3373.72,
+      "y": 1175.56
+    },
+    "matthias-galle": {
+      "x": 3485.7,
+      "y": 1285.49
+    },
+    "suzana-ilic": {
+      "x": 3382.81,
+      "y": 1231.34
+    },
+    "yacine-jernite": {
+      "x": 3433.66,
+      "y": 1185.38
+    },
+    "joe-gebbia": {
+      "x": 3011.75,
+      "y": 2367.46
+    },
+    "russel-simmons": {
+      "x": 3180.99,
+      "y": 2718.39
+    },
+    "steve-chen": {
+      "x": 3295.92,
+      "y": 2546.8
+    },
+    "jawed-karim": {
+      "x": 3251.76,
+      "y": 2636.28
+    },
+    "jim-clark": {
+      "x": 3360.92,
+      "y": 2366.14
+    },
+    "steve-jobs": {
+      "x": 3188.62,
+      "y": 1824.81
+    },
+    "tim-cook": {
+      "x": 3210.77,
+      "y": 1736.62
+    },
+    "john-ternus": {
+      "x": 3198.17,
+      "y": 1668.9
+    },
+    "siddhartha-mukherjee": {
+      "x": 2884.82,
+      "y": 2824.29
+    },
+    "ujjwal-singh": {
+      "x": 2942.39,
+      "y": 2915.76
+    },
+    "chad-hurley": {
+      "x": 3404.7,
+      "y": 2518.08
+    },
+    "bob-miner": {
+      "x": 3401.27,
+      "y": 1841.72
+    },
+    "ed-oates": {
+      "x": 3423.06,
+      "y": 1902.22
+    },
+    "martin-newell": {
+      "x": 3657.17,
+      "y": 2400.27
+    }
+  },
+  "width": 4548.5,
+  "height": 4548.5,
+  "nodes": 260,
+  "component_bounds": [
+    {
+      "x": 2274.25,
+      "y": 2274.25,
+      "radius": 2274.25,
+      "ids": [
+        "aaron-courville",
+        "ian-goodfellow",
+        "yoshua-bengio",
+        "mehdi-mirza",
+        "bing-xu",
+        "david-warde-farley",
+        "jean-pouget-abadie",
+        "sherjil-ozair",
+        "richard-zemel",
+        "ruslan-salakhutdinov",
+        "jimmy-ba",
+        "sanjay-ghemawat",
+        "andrew-ng",
+        "greg-corrado",
+        "chris-olah",
+        "ilya-sutskever",
+        "jeff-dean",
+        "lukasz-kaiser",
+        "oriol-vinyals",
+        "geoffrey-hinton",
+        "yann-lecun",
+        "michael-i-jordan",
+        "alex-graves",
+        "david-silver",
+        "koray-kavukcuoglu",
+        "volodymyr-mnih",
+        "arthur-mensch",
+        "demis-hassabis",
+        "ioannis-antonoglou",
+        "jacob-devlin",
+        "laurent-sifre",
+        "ming-wei-chang",
+        "quoc-le",
+        "sebastian-borgeaud",
+        "zihang-dai",
+        "peter-dayan",
+        "navdeep-jaitly",
+        "nitish-srivastava",
+        "zhilin-yang",
+        "alex-krizhevsky",
+        "kaiming-he",
+        "william-cohen",
+        "diederik-kingma",
+        "barret-zoph",
+        "noam-shazeer",
+        "daphne-koller",
+        "zico-kolter",
+        "carol-reiley",
+        "fei-fei-li",
+        "pieter-abbeel",
+        "david-ha",
+        "amanda-askell",
+        "ben-mann",
+        "jack-clark",
+        "daniela-amodei",
+        "danny-hernandez",
+        "dario-amodei",
+        "deep-ganguli",
+        "jared-kaplan",
+        "sam-mccandlish",
+        "tom-brown",
+        "tom-henighan",
+        "yuntao-bai",
+        "greg-brockman",
+        "catherine-olsson",
+        "nelson-elhage",
+        "neel-nanda",
+        "jeff-wu",
+        "alec-radford",
+        "prafulla-dhariwal",
+        "adam-dangelo",
+        "andy-bechtolsheim",
+        "daniel-levy",
+        "jan-leike",
+        "jie-tang",
+        "lilian-weng",
+        "long-ouyang",
+        "mira-murati",
+        "john-schulman",
+        "sam-altman",
+        "andrej-karpathy",
+        "andrew-tulloch",
+        "luke-metz",
+        "elon-musk",
+        "pamela-vagata",
+        "trevor-blackwell",
+        "vicki-cheung",
+        "wojciech-zaremba",
+        "jensen-huang",
+        "daniel-gross",
+        "eric-wu",
+        "keith-rabois",
+        "nat-friedman",
+        "vinod-khosla",
+        "sundar-pichai",
+        "alessio-fanelli",
+        "daniel-de-freitas",
+        "mustafa-suleyman",
+        "shawn-wang",
+        "elad-gil",
+        "garry-tan",
+        "eric-schmidt",
+        "guillermo-rauch",
+        "aidan-gomez",
+        "ashish-vaswani",
+        "jakob-uszkoreit",
+        "llion-jones",
+        "niki-parmar",
+        "ivan-zhang",
+        "illia-polosukhin",
+        "simon-osindero",
+        "john-jumper",
+        "jordan-hoffmann",
+        "karen-simonyan",
+        "misha-bilenko",
+        "yee-whye-teh",
+        "nick-frosst",
+        "sara-sabour",
+        "kai-fu-lee",
+        "raj-reddy",
+        "soumith-chintala",
+        "pierre-sermanet",
+        "jeff-johnson",
+        "mark-zuckerberg",
+        "daan-wierstra",
+        "martin-riedmiller",
+        "shane-legg",
+        "armand-joulin",
+        "guillaume-lample",
+        "timothee-lacroix",
+        "charlie-songhurst",
+        "marie-anne-lachaux",
+        "thibaut-lavril",
+        "baptiste-roziere",
+        "peter-thiel",
+        "cyan-banister",
+        "eliezer-yudkowsky",
+        "kenton-lee",
+        "kristina-toutanova",
+        "aohan-zeng",
+        "shaoqing-ren",
+        "jian-sun",
+        "xiangyu-zhang",
+        "xiaoou-tang",
+        "bret-taylor",
+        "justin-johnson",
+        "ben-mildenhall",
+        "christoph-lassner",
+        "arvind-krishna",
+        "satya-nadella",
+        "lisa-su",
+        "naval-ravikant",
+        "aravind-srinivas",
+        "ren-ito",
+        "sam-bowman",
+        "ethan-perez",
+        "holden-karnofsky",
+        "mike-krieger",
+        "cami-clark",
+        "charlie-cheever",
+        "mikhail-parakhin",
+        "alexandr-wang",
+        "clement-delangue",
+        "harj-taggar",
+        "julien-chaumond",
+        "lucy-guo",
+        "thomas-wolf",
+        "jessica-livingston",
+        "paul-graham",
+        "alexis-ohanian",
+        "david-sacks",
+        "jeremy-stoppelman",
+        "max-levchin",
+        "john-doerr",
+        "bill-joy",
+        "scott-mcnealy",
+        "yuxiao-dong",
+        "xiao-liu",
+        "nick-sivo",
+        "jony-ive",
+        "ben-horowitz",
+        "marc-andreessen",
+        "kevin-scott",
+        "reid-hoffman",
+        "roelof-botha",
+        "ron-conway",
+        "alex-schultz",
+        "ali-partovi",
+        "dustin-moskovitz",
+        "hadi-partovi",
+        "jack-abraham",
+        "larry-ellison",
+        "steve-wozniak",
+        "scott-banister",
+        "brian-chesky",
+        "bill-lee",
+        "blake-masters",
+        "ken-howery",
+        "luke-nosek",
+        "michael-moritz",
+        "stephen-oskoui",
+        "robert-morris",
+        "chris-malachowsky",
+        "curtis-priem",
+        "george-cameron",
+        "micah-hill-smith",
+        "brian-armstrong",
+        "joe-lonsdale",
+        "ian-wong",
+        "jd-ross",
+        "babak-nivi",
+        "andy-konwinski",
+        "denis-yarats",
+        "johnny-ho",
+        "john-giannandrea",
+        "clay-bavor",
+        "ben-dunphy",
+        "rajesh-jha",
+        "brett-gibson",
+        "shu-ding",
+        "alexander-skidanov",
+        "matthijs-douze",
+        "herve-jegou",
+        "justin-rosenstein",
+        "chamath-palihapitiya",
+        "edouard-grave",
+        "hugo-touvron",
+        "gautier-izacard",
+        "aurelien-rodriguez",
+        "eric-hambro",
+        "faisal-azhar",
+        "naman-goyal",
+        "xavier-martinet",
+        "david-gausebeck",
+        "alex-karp",
+        "stephen-cohen",
+        "xu-li",
+        "xiaogang-wang",
+        "dahua-lin",
+        "yang-fan",
+        "christopher-akiki",
+        "giada-pistilli",
+        "margot-mieskes",
+        "matthias-galle",
+        "suzana-ilic",
+        "yacine-jernite",
+        "joe-gebbia",
+        "russel-simmons",
+        "steve-chen",
+        "jawed-karim",
+        "jim-clark",
+        "steve-jobs",
+        "tim-cook",
+        "john-ternus",
+        "siddhartha-mukherjee",
+        "ujjwal-singh",
+        "chad-hurley",
+        "bob-miner",
+        "ed-oates",
+        "martin-newell"
+      ]
+    }
+  ],
+  "views": {
+    "openai": {
+      "positions": {
+        "adam-dangelo": {
+          "x": 1105.19,
+          "y": 989.58
+        },
+        "daniel-gross": {
+          "x": 1007.69,
+          "y": 770.73
+        },
+        "aravind-srinivas": {
+          "x": 1209.71,
+          "y": 623.55
+        },
+        "greg-brockman": {
+          "x": 1180.92,
+          "y": 1097.78
+        },
+        "ilya-sutskever": {
+          "x": 1389.11,
+          "y": 1213.79
+        },
+        "sam-altman": {
+          "x": 897.04,
+          "y": 1209.76
+        },
+        "mike-krieger": {
+          "x": 1228.09,
+          "y": 963.25
+        },
+        "mira-murati": {
+          "x": 1177.89,
+          "y": 1125.84
+        },
+        "bret-taylor": {
+          "x": 894.06,
+          "y": 932.79
+        },
+        "andrej-karpathy": {
+          "x": 1149.63,
+          "y": 1058.66
+        },
+        "nat-friedman": {
+          "x": 1086.38,
+          "y": 702.38
+        },
+        "eric-wu": {
+          "x": 818.96,
+          "y": 878.4
+        },
+        "jeff-dean": {
+          "x": 1327.63,
+          "y": 1009.82
+        },
+        "keith-rabois": {
+          "x": 717.79,
+          "y": 1042.04
+        },
+        "vinod-khosla": {
+          "x": 637.03,
+          "y": 338.98
+        },
+        "guillermo-rauch": {
+          "x": 1138.38,
+          "y": 692.03
+        },
+        "mustafa-suleyman": {
+          "x": 1127.55,
+          "y": 473.65
+        },
+        "george-cameron": {
+          "x": 914.97,
+          "y": 479.67
+        },
+        "harj-taggar": {
+          "x": 937.53,
+          "y": 955.98
+        },
+        "micah-hill-smith": {
+          "x": 843.74,
+          "y": 511.9
+        },
+        "fei-fei-li": {
+          "x": 1017.41,
+          "y": 1186.98
+        },
+        "naval-ravikant": {
+          "x": 785.23,
+          "y": 785.06
+        },
+        "brian-armstrong": {
+          "x": 719.81,
+          "y": 277.7
+        },
+        "elad-gil": {
+          "x": 1042.52,
+          "y": 891.43
+        },
+        "garry-tan": {
+          "x": 784.93,
+          "y": 1044.19
+        },
+        "joe-lonsdale": {
+          "x": 806.39,
+          "y": 235.67
+        },
+        "daniel-levy": {
+          "x": 1233.15,
+          "y": 1039.96
+        },
+        "jakob-uszkoreit": {
+          "x": 1347.08,
+          "y": 646.06
+        },
+        "jessica-livingston": {
+          "x": 849.49,
+          "y": 1006.29
+        },
+        "paul-graham": {
+          "x": 870.26,
+          "y": 1079.55
+        },
+        "trevor-blackwell": {
+          "x": 1015.21,
+          "y": 1124.67
+        },
+        "charlie-songhurst": {
+          "x": 904.12,
+          "y": 208.3
+        },
+        "denis-yarats": {
+          "x": 1254.63,
+          "y": 268.89
+        },
+        "sundar-pichai": {
+          "x": 1077.3,
+          "y": 1131.38
+        },
+        "ashish-vaswani": {
+          "x": 1496.91,
+          "y": 509.17
+        },
+        "niki-parmar": {
+          "x": 1550.11,
+          "y": 542.09
+        },
+        "pieter-abbeel": {
+          "x": 1289.78,
+          "y": 785.65
+        },
+        "andy-konwinski": {
+          "x": 1183.38,
+          "y": 270.41
+        },
+        "johnny-ho": {
+          "x": 1323.47,
+          "y": 286.22
+        },
+        "dario-amodei": {
+          "x": 1269,
+          "y": 1351.33
+        },
+        "elon-musk": {
+          "x": 1025.52,
+          "y": 1467.42
+        },
+        "jensen-huang": {
+          "x": 1176.38,
+          "y": 1319.54
+        },
+        "mark-zuckerberg": {
+          "x": 1164.4,
+          "y": 1435.56
+        },
+        "alessio-fanelli": {
+          "x": 995.32,
+          "y": 823.84
+        },
+        "andy-bechtolsheim": {
+          "x": 1154.51,
+          "y": 888.73
+        },
+        "charlie-cheever": {
+          "x": 902.33,
+          "y": 1501.72
+        },
+        "alec-radford": {
+          "x": 1329.34,
+          "y": 1183.48
+        },
+        "mikhail-parakhin": {
+          "x": 1048.09,
+          "y": 1012.52
+        },
+        "misha-bilenko": {
+          "x": 1027.94,
+          "y": 1070.46
+        },
+        "barret-zoph": {
+          "x": 1402.76,
+          "y": 1069.73
+        },
+        "jan-leike": {
+          "x": 1342.62,
+          "y": 1222.48
+        },
+        "jeff-wu": {
+          "x": 1334.56,
+          "y": 1254.94
+        },
+        "jie-tang": {
+          "x": 1314.65,
+          "y": 1114
+        },
+        "john-schulman": {
+          "x": 1228.43,
+          "y": 1139.59
+        },
+        "lilian-weng": {
+          "x": 1273.22,
+          "y": 1112.14
+        },
+        "long-ouyang": {
+          "x": 1283.18,
+          "y": 1159.51
+        },
+        "lukasz-kaiser": {
+          "x": 1483.09,
+          "y": 957.09
+        },
+        "wojciech-zaremba": {
+          "x": 1192.24,
+          "y": 1196.7
+        },
+        "andrew-tulloch": {
+          "x": 1269.42,
+          "y": 1074.22
+        },
+        "luke-metz": {
+          "x": 1318.67,
+          "y": 1069.63
+        },
+        "prafulla-dhariwal": {
+          "x": 1312.31,
+          "y": 1231.24
+        },
+        "alexandr-wang": {
+          "x": 948.24,
+          "y": 1054.45
+        },
+        "clement-delangue": {
+          "x": 1362.81,
+          "y": 724.24
+        },
+        "julien-chaumond": {
+          "x": 1481.52,
+          "y": 788.15
+        },
+        "lucy-guo": {
+          "x": 1271.25,
+          "y": 682.92
+        },
+        "thomas-wolf": {
+          "x": 1427.65,
+          "y": 744.86
+        },
+        "shawn-wang": {
+          "x": 938.13,
+          "y": 819.65
+        },
+        "chris-olah": {
+          "x": 1482.52,
+          "y": 1266.25
+        },
+        "vicki-cheung": {
+          "x": 1096.18,
+          "y": 1231.11
+        },
+        "diederik-kingma": {
+          "x": 1136.15,
+          "y": 1310.64
+        },
+        "pamela-vagata": {
+          "x": 1122.66,
+          "y": 1241.99
+        },
+        "daniela-amodei": {
+          "x": 1387.8,
+          "y": 1381.32
+        },
+        "cami-clark": {
+          "x": 1095.65,
+          "y": 1305.57
+        },
+        "geoffrey-hinton": {
+          "x": 1759.74,
+          "y": 1262.04
+        },
+        "alex-krizhevsky": {
+          "x": 1744.17,
+          "y": 1341.55
+        },
+        "oriol-vinyals": {
+          "x": 1742.02,
+          "y": 1124.51
+        },
+        "quoc-le": {
+          "x": 1732.94,
+          "y": 1009.58
+        },
+        "sanjay-ghemawat": {
+          "x": 1633.18,
+          "y": 1077.38
+        },
+        "amanda-askell": {
+          "x": 1436.01,
+          "y": 1364.65
+        },
+        "jack-clark": {
+          "x": 1472.94,
+          "y": 1415
+        },
+        "david-silver": {
+          "x": 1915.45,
+          "y": 1275.75
+        },
+        "demis-hassabis": {
+          "x": 1265.63,
+          "y": 1643.46
+        },
+        "koray-kavukcuoglu": {
+          "x": 1915.04,
+          "y": 1185.83
+        },
+        "ioannis-antonoglou": {
+          "x": 1901.44,
+          "y": 1357.34
+        },
+        "laurent-sifre": {
+          "x": 1835.62,
+          "y": 1506.18
+        },
+        "ben-mann": {
+          "x": 1445.88,
+          "y": 1322.68
+        },
+        "ruslan-salakhutdinov": {
+          "x": 1874.12,
+          "y": 1433.4
+        },
+        "nitish-srivastava": {
+          "x": 1781.19,
+          "y": 1583.22
+        },
+        "jared-kaplan": {
+          "x": 1444.88,
+          "y": 1398.91
+        },
+        "sam-mccandlish": {
+          "x": 1437.81,
+          "y": 1429.05
+        },
+        "tom-henighan": {
+          "x": 1521.98,
+          "y": 1373.07
+        },
+        "greg-corrado": {
+          "x": 1703.88,
+          "y": 1162.86
+        },
+        "ian-goodfellow": {
+          "x": 1706.83,
+          "y": 1081.85
+        },
+        "tom-brown": {
+          "x": 1486.11,
+          "y": 1380.66
+        },
+        "nick-sivo": {
+          "x": 678.46,
+          "y": 1328.93
+        },
+        "jony-ive": {
+          "x": 379.82,
+          "y": 1199.35
+        },
+        "satya-nadella": {
+          "x": 1053.96,
+          "y": 1500.81
+        },
+        "alexis-ohanian": {
+          "x": 297.05,
+          "y": 1288.09
+        },
+        "ben-horowitz": {
+          "x": 543.88,
+          "y": 1073.68
+        },
+        "arvind-krishna": {
+          "x": 1015.83,
+          "y": 1423.77
+        },
+        "marc-andreessen": {
+          "x": 526.64,
+          "y": 1219.84
+        },
+        "kevin-scott": {
+          "x": 591.2,
+          "y": 1424.35
+        },
+        "david-sacks": {
+          "x": 360.56,
+          "y": 1503.7
+        },
+        "jeremy-stoppelman": {
+          "x": 769.91,
+          "y": 1595.98
+        },
+        "max-levchin": {
+          "x": 815.28,
+          "y": 1646.71
+        },
+        "peter-thiel": {
+          "x": 794.08,
+          "y": 1378.3
+        },
+        "reid-hoffman": {
+          "x": 855.68,
+          "y": 1411.15
+        },
+        "roelof-botha": {
+          "x": 774.27,
+          "y": 1442.95
+        },
+        "ron-conway": {
+          "x": 653.72,
+          "y": 1157.54
+        },
+        "alex-schultz": {
+          "x": 554.41,
+          "y": 1360.43
+        },
+        "ali-partovi": {
+          "x": 321.09,
+          "y": 1406.97
+        },
+        "dustin-moskovitz": {
+          "x": 529.03,
+          "y": 1145.82
+        },
+        "hadi-partovi": {
+          "x": 419.06,
+          "y": 1594
+        },
+        "jack-abraham": {
+          "x": 654.8,
+          "y": 1216.81
+        },
+        "larry-ellison": {
+          "x": 838.3,
+          "y": 1498.99
+        },
+        "steve-wozniak": {
+          "x": 533.55,
+          "y": 1292.4
+        },
+        "scott-banister": {
+          "x": 326.25,
+          "y": 1011.89
+        },
+        "zico-kolter": {
+          "x": 659.71,
+          "y": 983.76
+        },
+        "brian-chesky": {
+          "x": 663.32,
+          "y": 1272.01
+        },
+        "clay-bavor": {
+          "x": 684.12,
+          "y": 736.49
+        },
+        "justin-johnson": {
+          "x": 1179.41,
+          "y": 729.47
+        },
+        "eric-schmidt": {
+          "x": 953.86,
+          "y": 1405.26
+        },
+        "robert-morris": {
+          "x": 698.24,
+          "y": 904.55
+        },
+        "sam-bowman": {
+          "x": 1493.03,
+          "y": 1496.81
+        },
+        "neel-nanda": {
+          "x": 1580.21,
+          "y": 1456.57
+        },
+        "holden-karnofsky": {
+          "x": 1395.07,
+          "y": 1534.08
+        },
+        "catherine-olsson": {
+          "x": 1549.95,
+          "y": 1425.16
+        },
+        "danny-hernandez": {
+          "x": 1572.68,
+          "y": 1493.11
+        },
+        "deep-ganguli": {
+          "x": 1533.53,
+          "y": 1485.76
+        },
+        "ethan-perez": {
+          "x": 1458.25,
+          "y": 1512.58
+        },
+        "nelson-elhage": {
+          "x": 1504.98,
+          "y": 1537.75
+        },
+        "yuntao-bai": {
+          "x": 1537.58,
+          "y": 1523.78
+        },
+        "bill-lee": {
+          "x": 992.74,
+          "y": 1727.48
+        },
+        "blake-masters": {
+          "x": 1041.21,
+          "y": 1799.6
+        },
+        "cyan-banister": {
+          "x": 913.11,
+          "y": 1921.46
+        },
+        "ken-howery": {
+          "x": 933.68,
+          "y": 1729.09
+        },
+        "lisa-su": {
+          "x": 992.42,
+          "y": 1862.77
+        },
+        "luke-nosek": {
+          "x": 872.31,
+          "y": 1827.76
+        },
+        "michael-moritz": {
+          "x": 892.54,
+          "y": 1662.8
+        },
+        "stephen-oskoui": {
+          "x": 1059.24,
+          "y": 1726.98
+        },
+        "soumith-chintala": {
+          "x": 1616.3,
+          "y": 953.02
+        },
+        "noam-shazeer": {
+          "x": 1732.29,
+          "y": 838.93
+        },
+        "jacob-devlin": {
+          "x": 1891.46,
+          "y": 932.45
+        },
+        "michael-i-jordan": {
+          "x": 1482.63,
+          "y": 890.15
+        },
+        "aidan-gomez": {
+          "x": 1750.07,
+          "y": 722.71
+        },
+        "llion-jones": {
+          "x": 1865.54,
+          "y": 636.11
+        },
+        "ivan-zhang": {
+          "x": 1952.97,
+          "y": 784.39
+        },
+        "david-ha": {
+          "x": 1797.73,
+          "y": 575.71
+        },
+        "illia-polosukhin": {
+          "x": 1913.98,
+          "y": 705.77
+        },
+        "jimmy-ba": {
+          "x": 1240.43,
+          "y": 1821.2
+        },
+        "steve-jobs": {
+          "x": 132.36,
+          "y": 1190.41
+        },
+        "tim-cook": {
+          "x": 35.39,
+          "y": 1150.66
+        },
+        "john-ternus": {
+          "x": 35.89,
+          "y": 1251.84
+        },
+        "john-doerr": {
+          "x": 708.99,
+          "y": 1634.87
+        },
+        "kai-fu-lee": {
+          "x": 722.82,
+          "y": 1730.74
+        }
+      },
+      "width": 2284.16,
+      "height": 2284.16,
+      "nodes": 155,
+      "component_bounds": [
+        {
+          "x": 1142.08,
+          "y": 1142.08,
+          "radius": 1142.08,
+          "ids": [
+            "adam-dangelo",
+            "daniel-gross",
+            "aravind-srinivas",
+            "greg-brockman",
+            "ilya-sutskever",
+            "sam-altman",
+            "mike-krieger",
+            "mira-murati",
+            "bret-taylor",
+            "andrej-karpathy",
+            "nat-friedman",
+            "eric-wu",
+            "jeff-dean",
+            "keith-rabois",
+            "vinod-khosla",
+            "guillermo-rauch",
+            "mustafa-suleyman",
+            "george-cameron",
+            "harj-taggar",
+            "micah-hill-smith",
+            "fei-fei-li",
+            "naval-ravikant",
+            "brian-armstrong",
+            "elad-gil",
+            "garry-tan",
+            "joe-lonsdale",
+            "daniel-levy",
+            "jakob-uszkoreit",
+            "jessica-livingston",
+            "paul-graham",
+            "trevor-blackwell",
+            "charlie-songhurst",
+            "denis-yarats",
+            "sundar-pichai",
+            "ashish-vaswani",
+            "niki-parmar",
+            "pieter-abbeel",
+            "andy-konwinski",
+            "johnny-ho",
+            "dario-amodei",
+            "elon-musk",
+            "jensen-huang",
+            "mark-zuckerberg",
+            "alessio-fanelli",
+            "andy-bechtolsheim",
+            "charlie-cheever",
+            "alec-radford",
+            "mikhail-parakhin",
+            "misha-bilenko",
+            "barret-zoph",
+            "jan-leike",
+            "jeff-wu",
+            "jie-tang",
+            "john-schulman",
+            "lilian-weng",
+            "long-ouyang",
+            "lukasz-kaiser",
+            "wojciech-zaremba",
+            "andrew-tulloch",
+            "luke-metz",
+            "prafulla-dhariwal",
+            "alexandr-wang",
+            "clement-delangue",
+            "julien-chaumond",
+            "lucy-guo",
+            "thomas-wolf",
+            "shawn-wang",
+            "chris-olah",
+            "vicki-cheung",
+            "diederik-kingma",
+            "pamela-vagata",
+            "daniela-amodei",
+            "cami-clark",
+            "geoffrey-hinton",
+            "alex-krizhevsky",
+            "oriol-vinyals",
+            "quoc-le",
+            "sanjay-ghemawat",
+            "amanda-askell",
+            "jack-clark",
+            "david-silver",
+            "demis-hassabis",
+            "koray-kavukcuoglu",
+            "ioannis-antonoglou",
+            "laurent-sifre",
+            "ben-mann",
+            "ruslan-salakhutdinov",
+            "nitish-srivastava",
+            "jared-kaplan",
+            "sam-mccandlish",
+            "tom-henighan",
+            "greg-corrado",
+            "ian-goodfellow",
+            "tom-brown",
+            "nick-sivo",
+            "jony-ive",
+            "satya-nadella",
+            "alexis-ohanian",
+            "ben-horowitz",
+            "arvind-krishna",
+            "marc-andreessen",
+            "kevin-scott",
+            "david-sacks",
+            "jeremy-stoppelman",
+            "max-levchin",
+            "peter-thiel",
+            "reid-hoffman",
+            "roelof-botha",
+            "ron-conway",
+            "alex-schultz",
+            "ali-partovi",
+            "dustin-moskovitz",
+            "hadi-partovi",
+            "jack-abraham",
+            "larry-ellison",
+            "steve-wozniak",
+            "scott-banister",
+            "zico-kolter",
+            "brian-chesky",
+            "clay-bavor",
+            "justin-johnson",
+            "eric-schmidt",
+            "robert-morris",
+            "sam-bowman",
+            "neel-nanda",
+            "holden-karnofsky",
+            "catherine-olsson",
+            "danny-hernandez",
+            "deep-ganguli",
+            "ethan-perez",
+            "nelson-elhage",
+            "yuntao-bai",
+            "bill-lee",
+            "blake-masters",
+            "cyan-banister",
+            "ken-howery",
+            "lisa-su",
+            "luke-nosek",
+            "michael-moritz",
+            "stephen-oskoui",
+            "soumith-chintala",
+            "noam-shazeer",
+            "jacob-devlin",
+            "michael-i-jordan",
+            "aidan-gomez",
+            "llion-jones",
+            "ivan-zhang",
+            "david-ha",
+            "illia-polosukhin",
+            "jimmy-ba",
+            "steve-jobs",
+            "tim-cook",
+            "john-ternus",
+            "john-doerr",
+            "kai-fu-lee"
+          ]
+        }
+      ]
+    },
+    "paypal": {
+      "positions": {
+        "adam-dangelo": {
+          "x": 1009.01,
+          "y": 1102.83
+        },
+        "keith-rabois": {
+          "x": 834.95,
+          "y": 1118.29
+        },
+        "david-sacks": {
+          "x": 1037.32,
+          "y": 872.93
+        },
+        "jeremy-stoppelman": {
+          "x": 1007.95,
+          "y": 837.78
+        },
+        "max-levchin": {
+          "x": 867.35,
+          "y": 870.69
+        },
+        "daniel-gross": {
+          "x": 869.06,
+          "y": 1555.54
+        },
+        "eric-wu": {
+          "x": 841.1,
+          "y": 1360.95
+        },
+        "jeff-dean": {
+          "x": 1094.72,
+          "y": 1465.99
+        },
+        "nat-friedman": {
+          "x": 749.79,
+          "y": 1547.11
+        },
+        "vinod-khosla": {
+          "x": 631.7,
+          "y": 1499.98
+        },
+        "babak-nivi": {
+          "x": 985.51,
+          "y": 1529.33
+        },
+        "reid-hoffman": {
+          "x": 596.25,
+          "y": 818.25
+        },
+        "naval-ravikant": {
+          "x": 1070.43,
+          "y": 1084.86
+        },
+        "peter-thiel": {
+          "x": 897.78,
+          "y": 747.29
+        },
+        "ian-wong": {
+          "x": 745.29,
+          "y": 1346.1
+        },
+        "jd-ross": {
+          "x": 937.36,
+          "y": 1342.59
+        },
+        "jack-abraham": {
+          "x": 928.92,
+          "y": 1019.51
+        },
+        "sam-altman": {
+          "x": 777.74,
+          "y": 828.73
+        },
+        "alexis-ohanian": {
+          "x": 1250.5,
+          "y": 952.61
+        },
+        "charlie-cheever": {
+          "x": 1168.92,
+          "y": 1056.59
+        },
+        "elad-gil": {
+          "x": 1217.4,
+          "y": 892.76
+        },
+        "garry-tan": {
+          "x": 1192.76,
+          "y": 992.13
+        },
+        "harj-taggar": {
+          "x": 1249.09,
+          "y": 829.2
+        },
+        "bill-lee": {
+          "x": 940.28,
+          "y": 634.02
+        },
+        "russel-simmons": {
+          "x": 1049.32,
+          "y": 965.75
+        },
+        "elon-musk": {
+          "x": 761.36,
+          "y": 530.32
+        },
+        "steve-chen": {
+          "x": 644.49,
+          "y": 1049.41
+        },
+        "ken-howery": {
+          "x": 830.66,
+          "y": 664.2
+        },
+        "michael-moritz": {
+          "x": 791.14,
+          "y": 746.35
+        },
+        "luke-nosek": {
+          "x": 747.15,
+          "y": 712.8
+        },
+        "jawed-karim": {
+          "x": 706.75,
+          "y": 1012.52
+        },
+        "david-gausebeck": {
+          "x": 827.37,
+          "y": 955.87
+        },
+        "scott-banister": {
+          "x": 588.46,
+          "y": 735.16
+        },
+        "mustafa-suleyman": {
+          "x": 420.33,
+          "y": 822.96
+        },
+        "karen-simonyan": {
+          "x": 305.83,
+          "y": 857.35
+        },
+        "hadi-partovi": {
+          "x": 386.86,
+          "y": 712.73
+        },
+        "chamath-palihapitiya": {
+          "x": 377.82,
+          "y": 999.01
+        },
+        "siddhartha-mukherjee": {
+          "x": 445.51,
+          "y": 911.26
+        },
+        "ujjwal-singh": {
+          "x": 310.66,
+          "y": 773.95
+        },
+        "joe-gebbia": {
+          "x": 326.42,
+          "y": 933.27
+        },
+        "mark-zuckerberg": {
+          "x": 726.63,
+          "y": 645.11
+        },
+        "demis-hassabis": {
+          "x": 969.16,
+          "y": 542.3
+        },
+        "shane-legg": {
+          "x": 1133.07,
+          "y": 731.72
+        },
+        "alex-karp": {
+          "x": 1060.02,
+          "y": 705.26
+        },
+        "joe-lonsdale": {
+          "x": 1148.52,
+          "y": 564.86
+        },
+        "blake-masters": {
+          "x": 896.61,
+          "y": 567.15
+        },
+        "eliezer-yudkowsky": {
+          "x": 1087.64,
+          "y": 618.02
+        },
+        "stephen-cohen": {
+          "x": 1193.53,
+          "y": 656.61
+        },
+        "cyan-banister": {
+          "x": 683.87,
+          "y": 677.8
+        },
+        "stephen-oskoui": {
+          "x": 814.23,
+          "y": 579.04
+        },
+        "roelof-botha": {
+          "x": 680.39,
+          "y": 857.8
+        },
+        "dario-amodei": {
+          "x": 680.81,
+          "y": 291.73
+        },
+        "jensen-huang": {
+          "x": 870.48,
+          "y": 319.47
+        },
+        "greg-brockman": {
+          "x": 517.71,
+          "y": 337.1
+        },
+        "sundar-pichai": {
+          "x": 780.43,
+          "y": 290.14
+        },
+        "lisa-su": {
+          "x": 969.5,
+          "y": 339.85
+        },
+        "andrej-karpathy": {
+          "x": 607.51,
+          "y": 250.35
+        },
+        "diederik-kingma": {
+          "x": 854.49,
+          "y": 233.62
+        },
+        "ilya-sutskever": {
+          "x": 564.45,
+          "y": 401.25
+        },
+        "john-schulman": {
+          "x": 695.1,
+          "y": 219.91
+        },
+        "pamela-vagata": {
+          "x": 930.27,
+          "y": 271.31
+        },
+        "trevor-blackwell": {
+          "x": 591.9,
+          "y": 319.25
+        },
+        "vicki-cheung": {
+          "x": 775.37,
+          "y": 214.64
+        },
+        "wojciech-zaremba": {
+          "x": 498.56,
+          "y": 439.14
+        },
+        "larry-ellison": {
+          "x": 706.54,
+          "y": 390.47
+        },
+        "jim-clark": {
+          "x": 495.29,
+          "y": 1205.52
+        },
+        "chad-hurley": {
+          "x": 563.35,
+          "y": 1095
+        },
+        "ali-partovi": {
+          "x": 155.24,
+          "y": 618.61
+        }
+      },
+      "width": 1590.35,
+      "height": 1590.35,
+      "nodes": 68,
+      "component_bounds": [
+        {
+          "x": 795.18,
+          "y": 795.18,
+          "radius": 795.18,
+          "ids": [
+            "adam-dangelo",
+            "keith-rabois",
+            "david-sacks",
+            "jeremy-stoppelman",
+            "max-levchin",
+            "daniel-gross",
+            "eric-wu",
+            "jeff-dean",
+            "nat-friedman",
+            "vinod-khosla",
+            "babak-nivi",
+            "reid-hoffman",
+            "naval-ravikant",
+            "peter-thiel",
+            "ian-wong",
+            "jd-ross",
+            "jack-abraham",
+            "sam-altman",
+            "alexis-ohanian",
+            "charlie-cheever",
+            "elad-gil",
+            "garry-tan",
+            "harj-taggar",
+            "bill-lee",
+            "russel-simmons",
+            "elon-musk",
+            "steve-chen",
+            "ken-howery",
+            "michael-moritz",
+            "luke-nosek",
+            "jawed-karim",
+            "david-gausebeck",
+            "scott-banister",
+            "mustafa-suleyman",
+            "karen-simonyan",
+            "hadi-partovi",
+            "chamath-palihapitiya",
+            "siddhartha-mukherjee",
+            "ujjwal-singh",
+            "joe-gebbia",
+            "mark-zuckerberg",
+            "demis-hassabis",
+            "shane-legg",
+            "alex-karp",
+            "joe-lonsdale",
+            "blake-masters",
+            "eliezer-yudkowsky",
+            "stephen-cohen",
+            "cyan-banister",
+            "stephen-oskoui",
+            "roelof-botha",
+            "dario-amodei",
+            "jensen-huang",
+            "greg-brockman",
+            "sundar-pichai",
+            "lisa-su",
+            "andrej-karpathy",
+            "diederik-kingma",
+            "ilya-sutskever",
+            "john-schulman",
+            "pamela-vagata",
+            "trevor-blackwell",
+            "vicki-cheung",
+            "wojciech-zaremba",
+            "larry-ellison",
+            "jim-clark",
+            "chad-hurley",
+            "ali-partovi"
+          ]
+        }
+      ]
+    },
+    "anthropic": {
+      "positions": {
+        "adam-dangelo": {
+          "x": 1364.68,
+          "y": 1516.31
+        },
+        "mike-krieger": {
+          "x": 1204.01,
+          "y": 1179.29
+        },
+        "aravind-srinivas": {
+          "x": 1527.67,
+          "y": 1380.99
+        },
+        "daniel-gross": {
+          "x": 1256.56,
+          "y": 1539.39
+        },
+        "guillermo-rauch": {
+          "x": 1563.1,
+          "y": 1280.01
+        },
+        "mustafa-suleyman": {
+          "x": 1457.74,
+          "y": 1464.09
+        },
+        "nat-friedman": {
+          "x": 1567.18,
+          "y": 1169.08
+        },
+        "alexandr-wang": {
+          "x": 1372.21,
+          "y": 1320.52
+        },
+        "dario-amodei": {
+          "x": 910.65,
+          "y": 831.68
+        },
+        "ben-mann": {
+          "x": 854.09,
+          "y": 1002.24
+        },
+        "elon-musk": {
+          "x": 1184.05,
+          "y": 780.44
+        },
+        "greg-brockman": {
+          "x": 774.62,
+          "y": 732.56
+        },
+        "jensen-huang": {
+          "x": 1155.28,
+          "y": 695.73
+        },
+        "mark-zuckerberg": {
+          "x": 1141.35,
+          "y": 927.56
+        },
+        "sundar-pichai": {
+          "x": 963.11,
+          "y": 561.96
+        },
+        "jeff-wu": {
+          "x": 924.57,
+          "y": 1035.1
+        },
+        "alec-radford": {
+          "x": 892.72,
+          "y": 1082.58
+        },
+        "sam-bowman": {
+          "x": 716.62,
+          "y": 1032.07
+        },
+        "chris-olah": {
+          "x": 639.04,
+          "y": 852.21
+        },
+        "neel-nanda": {
+          "x": 658.83,
+          "y": 954.35
+        },
+        "eric-schmidt": {
+          "x": 927.85,
+          "y": 423.27
+        },
+        "holden-karnofsky": {
+          "x": 814.38,
+          "y": 855.34
+        },
+        "sam-altman": {
+          "x": 1096.94,
+          "y": 639.47
+        },
+        "satya-nadella": {
+          "x": 1164.35,
+          "y": 853.76
+        },
+        "arvind-krishna": {
+          "x": 1021.17,
+          "y": 644.52
+        },
+        "fei-fei-li": {
+          "x": 1100.7,
+          "y": 755.15
+        },
+        "ilya-sutskever": {
+          "x": 886.83,
+          "y": 943.29
+        },
+        "prafulla-dhariwal": {
+          "x": 843.16,
+          "y": 1108.53
+        },
+        "amanda-askell": {
+          "x": 732.06,
+          "y": 1075.24
+        },
+        "catherine-olsson": {
+          "x": 667.64,
+          "y": 1013.63
+        },
+        "daniela-amodei": {
+          "x": 771.98,
+          "y": 871.99
+        },
+        "danny-hernandez": {
+          "x": 715.32,
+          "y": 956.51
+        },
+        "deep-ganguli": {
+          "x": 738.51,
+          "y": 909.02
+        },
+        "ethan-perez": {
+          "x": 691.38,
+          "y": 988.6
+        },
+        "jack-clark": {
+          "x": 780.62,
+          "y": 942.46
+        },
+        "jared-kaplan": {
+          "x": 762.51,
+          "y": 987.06
+        },
+        "nelson-elhage": {
+          "x": 688.72,
+          "y": 924.29
+        },
+        "sam-mccandlish": {
+          "x": 813.5,
+          "y": 945.27
+        },
+        "tom-brown": {
+          "x": 798.46,
+          "y": 977.76
+        },
+        "tom-henighan": {
+          "x": 783.83,
+          "y": 1025.09
+        },
+        "yuntao-bai": {
+          "x": 707.45,
+          "y": 886.2
+        },
+        "cami-clark": {
+          "x": 857.44,
+          "y": 579.12
+        },
+        "jan-leike": {
+          "x": 594.74,
+          "y": 1152.65
+        },
+        "sanjay-ghemawat": {
+          "x": 331.3,
+          "y": 696.6
+        },
+        "jeff-dean": {
+          "x": 627.95,
+          "y": 515.65
+        },
+        "lukasz-kaiser": {
+          "x": 290.11,
+          "y": 871.02
+        },
+        "oriol-vinyals": {
+          "x": 390.98,
+          "y": 620.1
+        },
+        "greg-corrado": {
+          "x": 307.36,
+          "y": 969.97
+        },
+        "ian-goodfellow": {
+          "x": 299.31,
+          "y": 780.66
+        },
+        "john-doerr": {
+          "x": 966.12,
+          "y": 239.35
+        },
+        "kai-fu-lee": {
+          "x": 1067.73,
+          "y": 234.44
+        },
+        "michael-moritz": {
+          "x": 872.74,
+          "y": 194.57
+        },
+        "elad-gil": {
+          "x": 1086.29,
+          "y": 64.48
+        },
+        "garry-tan": {
+          "x": 902.83,
+          "y": 31.35
+        },
+        "john-schulman": {
+          "x": 644.52,
+          "y": 1412.27
+        },
+        "long-ouyang": {
+          "x": 517.56,
+          "y": 1356.11
+        },
+        "mira-murati": {
+          "x": 799.49,
+          "y": 408.98
+        }
+      },
+      "width": 1761.12,
+      "height": 1761.12,
+      "nodes": 57,
+      "component_bounds": [
+        {
+          "x": 880.56,
+          "y": 880.56,
+          "radius": 880.56,
+          "ids": [
+            "adam-dangelo",
+            "mike-krieger",
+            "aravind-srinivas",
+            "daniel-gross",
+            "guillermo-rauch",
+            "mustafa-suleyman",
+            "nat-friedman",
+            "alexandr-wang",
+            "dario-amodei",
+            "ben-mann",
+            "elon-musk",
+            "greg-brockman",
+            "jensen-huang",
+            "mark-zuckerberg",
+            "sundar-pichai",
+            "jeff-wu",
+            "alec-radford",
+            "sam-bowman",
+            "chris-olah",
+            "neel-nanda",
+            "eric-schmidt",
+            "holden-karnofsky",
+            "sam-altman",
+            "satya-nadella",
+            "arvind-krishna",
+            "fei-fei-li",
+            "ilya-sutskever",
+            "prafulla-dhariwal",
+            "amanda-askell",
+            "catherine-olsson",
+            "daniela-amodei",
+            "danny-hernandez",
+            "deep-ganguli",
+            "ethan-perez",
+            "jack-clark",
+            "jared-kaplan",
+            "nelson-elhage",
+            "sam-mccandlish",
+            "tom-brown",
+            "tom-henighan",
+            "yuntao-bai",
+            "cami-clark",
+            "jan-leike",
+            "sanjay-ghemawat",
+            "jeff-dean",
+            "lukasz-kaiser",
+            "oriol-vinyals",
+            "greg-corrado",
+            "ian-goodfellow",
+            "john-doerr",
+            "kai-fu-lee",
+            "michael-moritz",
+            "elad-gil",
+            "garry-tan",
+            "john-schulman",
+            "long-ouyang",
+            "mira-murati"
+          ]
+        }
+      ]
+    },
+    "investors": {
+      "positions": {
+        "adam-dangelo": {
+          "x": 1323.05,
+          "y": 1441.72
+        },
+        "eric-wu": {
+          "x": 1161.07,
+          "y": 1403.54
+        },
+        "keith-rabois": {
+          "x": 1286.82,
+          "y": 1351.81
+        },
+        "vinod-khosla": {
+          "x": 1617.48,
+          "y": 1472.76
+        },
+        "andy-bechtolsheim": {
+          "x": 1674.23,
+          "y": 1599.31
+        },
+        "sam-altman": {
+          "x": 1302.26,
+          "y": 1628.79
+        },
+        "alexis-ohanian": {
+          "x": 1166.98,
+          "y": 1231.3
+        },
+        "david-sacks": {
+          "x": 1339.51,
+          "y": 1279.03
+        },
+        "elad-gil": {
+          "x": 1079.03,
+          "y": 1299.29
+        },
+        "garry-tan": {
+          "x": 1192.1,
+          "y": 1274.35
+        },
+        "harj-taggar": {
+          "x": 1208.63,
+          "y": 1403.46
+        },
+        "max-levchin": {
+          "x": 1520.55,
+          "y": 1235.94
+        },
+        "naval-ravikant": {
+          "x": 1149.94,
+          "y": 1348.2
+        },
+        "daniel-gross": {
+          "x": 1247.81,
+          "y": 1312.16
+        },
+        "jeff-dean": {
+          "x": 1370.18,
+          "y": 1219.47
+        },
+        "nat-friedman": {
+          "x": 1274.3,
+          "y": 1168.98
+        },
+        "ian-wong": {
+          "x": 980.64,
+          "y": 1374.06
+        },
+        "jd-ross": {
+          "x": 988.68,
+          "y": 1309.89
+        },
+        "greg-brockman": {
+          "x": 1258.05,
+          "y": 1557.62
+        },
+        "jessica-livingston": {
+          "x": 1162.61,
+          "y": 1506.29
+        },
+        "paul-graham": {
+          "x": 1199.72,
+          "y": 1509.64
+        },
+        "trevor-blackwell": {
+          "x": 1163.08,
+          "y": 1575.87
+        },
+        "babak-nivi": {
+          "x": 884.15,
+          "y": 1308.56
+        },
+        "reid-hoffman": {
+          "x": 1413.8,
+          "y": 1113.41
+        },
+        "peter-thiel": {
+          "x": 1474.51,
+          "y": 1161.39
+        },
+        "jack-abraham": {
+          "x": 1456.83,
+          "y": 1442.47
+        },
+        "john-doerr": {
+          "x": 1828.29,
+          "y": 1571.91
+        },
+        "bill-joy": {
+          "x": 1888.05,
+          "y": 1578.65
+        },
+        "scott-mcnealy": {
+          "x": 1824.17,
+          "y": 1662.16
+        },
+        "ilya-sutskever": {
+          "x": 1335.06,
+          "y": 1735.41
+        },
+        "nick-sivo": {
+          "x": 1336.26,
+          "y": 1843.82
+        },
+        "jony-ive": {
+          "x": 1262.68,
+          "y": 1838.12
+        },
+        "satya-nadella": {
+          "x": 1201.66,
+          "y": 1174.86
+        },
+        "ben-horowitz": {
+          "x": 1568.43,
+          "y": 1547.15
+        },
+        "alec-radford": {
+          "x": 1023.57,
+          "y": 2060.3
+        },
+        "mikhail-parakhin": {
+          "x": 1181.07,
+          "y": 1075.04
+        },
+        "mira-murati": {
+          "x": 1280.94,
+          "y": 1967.7
+        },
+        "misha-bilenko": {
+          "x": 1124.66,
+          "y": 1087.22
+        },
+        "dario-amodei": {
+          "x": 1574.45,
+          "y": 1778.25
+        },
+        "arvind-krishna": {
+          "x": 1214.23,
+          "y": 1957.23
+        },
+        "fei-fei-li": {
+          "x": 1497.03,
+          "y": 1703.72
+        },
+        "jensen-huang": {
+          "x": 1349.77,
+          "y": 1964.49
+        },
+        "sundar-pichai": {
+          "x": 1536.58,
+          "y": 1827.92
+        },
+        "barret-zoph": {
+          "x": 819.23,
+          "y": 1757.34
+        },
+        "daniel-levy": {
+          "x": 1149.33,
+          "y": 2117.92
+        },
+        "jan-leike": {
+          "x": 878.28,
+          "y": 1906.39
+        },
+        "jeff-wu": {
+          "x": 1368.68,
+          "y": 2123.9
+        },
+        "jie-tang": {
+          "x": 1086.49,
+          "y": 2088.09
+        },
+        "john-schulman": {
+          "x": 996.87,
+          "y": 1657.51
+        },
+        "lilian-weng": {
+          "x": 1219.04,
+          "y": 2128.69
+        },
+        "long-ouyang": {
+          "x": 919.02,
+          "y": 1966.68
+        },
+        "lukasz-kaiser": {
+          "x": 1453.59,
+          "y": 2093.08
+        },
+        "wojciech-zaremba": {
+          "x": 1061.89,
+          "y": 1756.76
+        },
+        "andrej-karpathy": {
+          "x": 1050.95,
+          "y": 1514.8
+        },
+        "andrew-tulloch": {
+          "x": 1291.49,
+          "y": 2134.76
+        },
+        "luke-metz": {
+          "x": 970.74,
+          "y": 2014.71
+        },
+        "prafulla-dhariwal": {
+          "x": 844.32,
+          "y": 1838.68
+        },
+        "marc-andreessen": {
+          "x": 1729.63,
+          "y": 1652
+        },
+        "kevin-scott": {
+          "x": 1092.59,
+          "y": 1898.64
+        },
+        "bret-taylor": {
+          "x": 1419.22,
+          "y": 1946.28
+        },
+        "charlie-cheever": {
+          "x": 1131.01,
+          "y": 1286.06
+        },
+        "jeremy-stoppelman": {
+          "x": 1285.27,
+          "y": 1263.06
+        },
+        "roelof-botha": {
+          "x": 1700.91,
+          "y": 1407.55
+        },
+        "ron-conway": {
+          "x": 1557.86,
+          "y": 1915.64
+        },
+        "alex-schultz": {
+          "x": 1514.09,
+          "y": 1628.97
+        },
+        "ali-partovi": {
+          "x": 1554.83,
+          "y": 1491.76
+        },
+        "dustin-moskovitz": {
+          "x": 1482.33,
+          "y": 1762.79
+        },
+        "hadi-partovi": {
+          "x": 1548.87,
+          "y": 1340.2
+        },
+        "larry-ellison": {
+          "x": 1647.34,
+          "y": 1787.09
+        },
+        "steve-wozniak": {
+          "x": 1029.19,
+          "y": 1852.96
+        },
+        "scott-banister": {
+          "x": 1574.49,
+          "y": 1186.27
+        },
+        "zico-kolter": {
+          "x": 1151.45,
+          "y": 1933.6
+        },
+        "diederik-kingma": {
+          "x": 1064.63,
+          "y": 1693.44
+        },
+        "elon-musk": {
+          "x": 1480.93,
+          "y": 1290.12
+        },
+        "pamela-vagata": {
+          "x": 1007.7,
+          "y": 1715.91
+        },
+        "vicki-cheung": {
+          "x": 1122.65,
+          "y": 1758.34
+        },
+        "alexandr-wang": {
+          "x": 1199.68,
+          "y": 1812.6
+        },
+        "brian-chesky": {
+          "x": 1387.78,
+          "y": 1611.51
+        },
+        "brett-gibson": {
+          "x": 979.5,
+          "y": 1110.88
+        },
+        "joe-lonsdale": {
+          "x": 1314.54,
+          "y": 1051.75
+        },
+        "bill-lee": {
+          "x": 1356.75,
+          "y": 1150.68
+        },
+        "andy-konwinski": {
+          "x": 655.61,
+          "y": 1286.34
+        },
+        "aravind-srinivas": {
+          "x": 933.62,
+          "y": 994.83
+        },
+        "denis-yarats": {
+          "x": 739.04,
+          "y": 1242.29
+        },
+        "johnny-ho": {
+          "x": 680.19,
+          "y": 1161.54
+        },
+        "eric-schmidt": {
+          "x": 1641.36,
+          "y": 1632.25
+        },
+        "brian-armstrong": {
+          "x": 1427.58,
+          "y": 1392.62
+        },
+        "jakob-uszkoreit": {
+          "x": 839.77,
+          "y": 1171.22
+        },
+        "guillermo-rauch": {
+          "x": 894.82,
+          "y": 837.74
+        },
+        "arthur-mensch": {
+          "x": 1241.12,
+          "y": 672.33
+        },
+        "charlie-songhurst": {
+          "x": 696.58,
+          "y": 985.58
+        },
+        "steve-chen": {
+          "x": 1885.55,
+          "y": 1342.06
+        },
+        "ken-howery": {
+          "x": 1599.59,
+          "y": 1114.61
+        },
+        "russel-simmons": {
+          "x": 1833.03,
+          "y": 1036.06
+        },
+        "michael-moritz": {
+          "x": 1677.04,
+          "y": 1347.78
+        },
+        "luke-nosek": {
+          "x": 1657.08,
+          "y": 1168.97
+        },
+        "jawed-karim": {
+          "x": 1831.78,
+          "y": 1222.01
+        },
+        "david-gausebeck": {
+          "x": 1686.94,
+          "y": 1015.46
+        },
+        "mustafa-suleyman": {
+          "x": 1250.53,
+          "y": 833.46
+        },
+        "robert-morris": {
+          "x": 1000.42,
+          "y": 1556.76
+        },
+        "joe-gebbia": {
+          "x": 1362.01,
+          "y": 1425.8
+        },
+        "karen-simonyan": {
+          "x": 1437.54,
+          "y": 454.31
+        },
+        "chamath-palihapitiya": {
+          "x": 1524.06,
+          "y": 1407.99
+        },
+        "siddhartha-mukherjee": {
+          "x": 1396.15,
+          "y": 858.71
+        },
+        "ujjwal-singh": {
+          "x": 1605.06,
+          "y": 796.98
+        },
+        "mark-zuckerberg": {
+          "x": 1602.54,
+          "y": 1310.41
+        },
+        "demis-hassabis": {
+          "x": 1444.69,
+          "y": 816.66
+        },
+        "shane-legg": {
+          "x": 1477.34,
+          "y": 878.66
+        },
+        "alex-karp": {
+          "x": 1472.18,
+          "y": 954.03
+        },
+        "blake-masters": {
+          "x": 1610.8,
+          "y": 1237.06
+        },
+        "eliezer-yudkowsky": {
+          "x": 1565.89,
+          "y": 875.57
+        },
+        "stephen-cohen": {
+          "x": 1354.72,
+          "y": 917.44
+        },
+        "cyan-banister": {
+          "x": 1522.77,
+          "y": 1011.69
+        },
+        "stephen-oskoui": {
+          "x": 1658.04,
+          "y": 1114.79
+        },
+        "jim-clark": {
+          "x": 2067.48,
+          "y": 1531.36
+        },
+        "kai-fu-lee": {
+          "x": 1854.21,
+          "y": 1946.08
+        },
+        "alessio-fanelli": {
+          "x": 2062.11,
+          "y": 1756.28
+        },
+        "shawn-wang": {
+          "x": 2026.44,
+          "y": 1832.51
+        },
+        "chad-hurley": {
+          "x": 2054.29,
+          "y": 1422.47
+        },
+        "clement-delangue": {
+          "x": 1634.72,
+          "y": 2251.52
+        },
+        "julien-chaumond": {
+          "x": 1760.39,
+          "y": 2184.61
+        },
+        "thomas-wolf": {
+          "x": 1702.2,
+          "y": 2226.84
+        },
+        "cami-clark": {
+          "x": 1856.59,
+          "y": 1778.49
+        },
+        "mike-krieger": {
+          "x": 977.78,
+          "y": 375.1
+        },
+        "rajesh-jha": {
+          "x": 1147.32,
+          "y": 557.22
+        },
+        "daniel-de-freitas": {
+          "x": 1199.04,
+          "y": 422.91
+        },
+        "noam-shazeer": {
+          "x": 985.46,
+          "y": 509.85
+        },
+        "quoc-le": {
+          "x": 1090.13,
+          "y": 445.31
+        },
+        "simon-osindero": {
+          "x": 1641.27,
+          "y": 98.55
+        },
+        "david-silver": {
+          "x": 1369.31,
+          "y": 46.96
+        },
+        "ioannis-antonoglou": {
+          "x": 1555.78,
+          "y": 138.14
+        },
+        "jordan-hoffmann": {
+          "x": 1687.9,
+          "y": 170.81
+        },
+        "laurent-sifre": {
+          "x": 1434.57,
+          "y": 114.59
+        },
+        "oriol-vinyals": {
+          "x": 1555.04,
+          "y": 50.94
+        },
+        "sebastian-borgeaud": {
+          "x": 1298.55,
+          "y": 94.28
+        },
+        "koray-kavukcuoglu": {
+          "x": 1466.5,
+          "y": 33.9
+        },
+        "martin-newell": {
+          "x": 2310.2,
+          "y": 1547.32
+        },
+        "raj-reddy": {
+          "x": 2060.28,
+          "y": 2194.26
+        },
+        "geoffrey-hinton": {
+          "x": 2117.69,
+          "y": 2131.75
+        }
+      },
+      "width": 2740.82,
+      "height": 2740.82,
+      "nodes": 139,
+      "component_bounds": [
+        {
+          "x": 1370.41,
+          "y": 1370.41,
+          "radius": 1370.41,
+          "ids": [
+            "adam-dangelo",
+            "eric-wu",
+            "keith-rabois",
+            "vinod-khosla",
+            "andy-bechtolsheim",
+            "sam-altman",
+            "alexis-ohanian",
+            "david-sacks",
+            "elad-gil",
+            "garry-tan",
+            "harj-taggar",
+            "max-levchin",
+            "naval-ravikant",
+            "daniel-gross",
+            "jeff-dean",
+            "nat-friedman",
+            "ian-wong",
+            "jd-ross",
+            "greg-brockman",
+            "jessica-livingston",
+            "paul-graham",
+            "trevor-blackwell",
+            "babak-nivi",
+            "reid-hoffman",
+            "peter-thiel",
+            "jack-abraham",
+            "john-doerr",
+            "bill-joy",
+            "scott-mcnealy",
+            "ilya-sutskever",
+            "nick-sivo",
+            "jony-ive",
+            "satya-nadella",
+            "ben-horowitz",
+            "alec-radford",
+            "mikhail-parakhin",
+            "mira-murati",
+            "misha-bilenko",
+            "dario-amodei",
+            "arvind-krishna",
+            "fei-fei-li",
+            "jensen-huang",
+            "sundar-pichai",
+            "barret-zoph",
+            "daniel-levy",
+            "jan-leike",
+            "jeff-wu",
+            "jie-tang",
+            "john-schulman",
+            "lilian-weng",
+            "long-ouyang",
+            "lukasz-kaiser",
+            "wojciech-zaremba",
+            "andrej-karpathy",
+            "andrew-tulloch",
+            "luke-metz",
+            "prafulla-dhariwal",
+            "marc-andreessen",
+            "kevin-scott",
+            "bret-taylor",
+            "charlie-cheever",
+            "jeremy-stoppelman",
+            "roelof-botha",
+            "ron-conway",
+            "alex-schultz",
+            "ali-partovi",
+            "dustin-moskovitz",
+            "hadi-partovi",
+            "larry-ellison",
+            "steve-wozniak",
+            "scott-banister",
+            "zico-kolter",
+            "diederik-kingma",
+            "elon-musk",
+            "pamela-vagata",
+            "vicki-cheung",
+            "alexandr-wang",
+            "brian-chesky",
+            "brett-gibson",
+            "joe-lonsdale",
+            "bill-lee",
+            "andy-konwinski",
+            "aravind-srinivas",
+            "denis-yarats",
+            "johnny-ho",
+            "eric-schmidt",
+            "brian-armstrong",
+            "jakob-uszkoreit",
+            "guillermo-rauch",
+            "arthur-mensch",
+            "charlie-songhurst",
+            "steve-chen",
+            "ken-howery",
+            "russel-simmons",
+            "michael-moritz",
+            "luke-nosek",
+            "jawed-karim",
+            "david-gausebeck",
+            "mustafa-suleyman",
+            "robert-morris",
+            "joe-gebbia",
+            "karen-simonyan",
+            "chamath-palihapitiya",
+            "siddhartha-mukherjee",
+            "ujjwal-singh",
+            "mark-zuckerberg",
+            "demis-hassabis",
+            "shane-legg",
+            "alex-karp",
+            "blake-masters",
+            "eliezer-yudkowsky",
+            "stephen-cohen",
+            "cyan-banister",
+            "stephen-oskoui",
+            "jim-clark",
+            "kai-fu-lee",
+            "alessio-fanelli",
+            "shawn-wang",
+            "chad-hurley",
+            "clement-delangue",
+            "julien-chaumond",
+            "thomas-wolf",
+            "cami-clark",
+            "mike-krieger",
+            "rajesh-jha",
+            "daniel-de-freitas",
+            "noam-shazeer",
+            "quoc-le",
+            "simon-osindero",
+            "david-silver",
+            "ioannis-antonoglou",
+            "jordan-hoffmann",
+            "laurent-sifre",
+            "oriol-vinyals",
+            "sebastian-borgeaud",
+            "koray-kavukcuoglu",
+            "martin-newell",
+            "raj-reddy",
+            "geoffrey-hinton"
+          ]
+        }
+      ]
+    },
+    "academic": {
+      "positions": {
+        "aaron-courville": {
+          "x": 2566.73,
+          "y": 2142.55
+        },
+        "ian-goodfellow": {
+          "x": 2305.54,
+          "y": 2070.08
+        },
+        "yoshua-bengio": {
+          "x": 2523.96,
+          "y": 2160.86
+        },
+        "mehdi-mirza": {
+          "x": 2523.59,
+          "y": 2276.19
+        },
+        "bing-xu": {
+          "x": 2615.95,
+          "y": 2243.87
+        },
+        "david-warde-farley": {
+          "x": 2656.32,
+          "y": 2221.99
+        },
+        "jean-pouget-abadie": {
+          "x": 2641.3,
+          "y": 2175.74
+        },
+        "sherjil-ozair": {
+          "x": 2361.85,
+          "y": 2352.38
+        },
+        "richard-zemel": {
+          "x": 2531.2,
+          "y": 2060.29
+        },
+        "ruslan-salakhutdinov": {
+          "x": 2465.59,
+          "y": 2032.55
+        },
+        "jimmy-ba": {
+          "x": 2615.31,
+          "y": 2101.51
+        },
+        "sanjay-ghemawat": {
+          "x": 2092.6,
+          "y": 2255.18
+        },
+        "andrew-ng": {
+          "x": 2197.64,
+          "y": 1693.61
+        },
+        "greg-corrado": {
+          "x": 2105.92,
+          "y": 2108.35
+        },
+        "chris-olah": {
+          "x": 2084.02,
+          "y": 1932.08
+        },
+        "ilya-sutskever": {
+          "x": 1957.73,
+          "y": 1868.93
+        },
+        "jeff-dean": {
+          "x": 2051.49,
+          "y": 2135.84
+        },
+        "lukasz-kaiser": {
+          "x": 1827.55,
+          "y": 2015.66
+        },
+        "oriol-vinyals": {
+          "x": 2151.86,
+          "y": 2250.08
+        },
+        "geoffrey-hinton": {
+          "x": 2325.45,
+          "y": 2120.1
+        },
+        "yann-lecun": {
+          "x": 2500.53,
+          "y": 2319.7
+        },
+        "michael-i-jordan": {
+          "x": 2702.41,
+          "y": 2043.36
+        },
+        "alex-graves": {
+          "x": 2597.97,
+          "y": 2415.52
+        },
+        "david-silver": {
+          "x": 2230.85,
+          "y": 2318.84
+        },
+        "koray-kavukcuoglu": {
+          "x": 2318.39,
+          "y": 2458.94
+        },
+        "volodymyr-mnih": {
+          "x": 2500.55,
+          "y": 2389.47
+        },
+        "arthur-mensch": {
+          "x": 2400.61,
+          "y": 2860.32
+        },
+        "demis-hassabis": {
+          "x": 2321.53,
+          "y": 2493.11
+        },
+        "ioannis-antonoglou": {
+          "x": 2198.6,
+          "y": 2290.68
+        },
+        "jacob-devlin": {
+          "x": 2136.7,
+          "y": 2445.95
+        },
+        "laurent-sifre": {
+          "x": 2218.41,
+          "y": 2485.47
+        },
+        "ming-wei-chang": {
+          "x": 2178.48,
+          "y": 2488.83
+        },
+        "quoc-le": {
+          "x": 2240.41,
+          "y": 2194.64
+        },
+        "sebastian-borgeaud": {
+          "x": 2297.68,
+          "y": 2581.2
+        },
+        "zihang-dai": {
+          "x": 2319.05,
+          "y": 2304.03
+        },
+        "peter-dayan": {
+          "x": 2421.55,
+          "y": 2321.84
+        },
+        "navdeep-jaitly": {
+          "x": 2432.85,
+          "y": 2131.98
+        },
+        "nitish-srivastava": {
+          "x": 2365.9,
+          "y": 1971.73
+        },
+        "zhilin-yang": {
+          "x": 2407.64,
+          "y": 2015.29
+        },
+        "alex-krizhevsky": {
+          "x": 2251.78,
+          "y": 1924.89
+        },
+        "kaiming-he": {
+          "x": 2993.32,
+          "y": 1939.29
+        },
+        "william-cohen": {
+          "x": 2506.35,
+          "y": 1942.37
+        },
+        "noam-shazeer": {
+          "x": 1886.11,
+          "y": 2332.22
+        },
+        "fei-fei-li": {
+          "x": 1861.42,
+          "y": 1390.2
+        },
+        "jeff-wu": {
+          "x": 2006.89,
+          "y": 1737.65
+        },
+        "alec-radford": {
+          "x": 1948.62,
+          "y": 2077.23
+        },
+        "amanda-askell": {
+          "x": 2129.09,
+          "y": 1408.66
+        },
+        "jack-clark": {
+          "x": 2107.12,
+          "y": 1487.68
+        },
+        "prafulla-dhariwal": {
+          "x": 1642.29,
+          "y": 1934.9
+        },
+        "adam-dangelo": {
+          "x": 1883.14,
+          "y": 1563.89
+        },
+        "andy-bechtolsheim": {
+          "x": 1389.13,
+          "y": 1748.3
+        },
+        "ben-mann": {
+          "x": 2045.29,
+          "y": 1416.81
+        },
+        "dario-amodei": {
+          "x": 1958.53,
+          "y": 1406.03
+        },
+        "jared-kaplan": {
+          "x": 1728.67,
+          "y": 1475.35
+        },
+        "sam-mccandlish": {
+          "x": 2193.14,
+          "y": 1469.92
+        },
+        "tom-henighan": {
+          "x": 1490.61,
+          "y": 1826.69
+        },
+        "barret-zoph": {
+          "x": 1898.66,
+          "y": 2072.09
+        },
+        "daniel-levy": {
+          "x": 1883.56,
+          "y": 1824.36
+        },
+        "greg-brockman": {
+          "x": 1508.7,
+          "y": 1625.62
+        },
+        "jan-leike": {
+          "x": 1923.46,
+          "y": 1766.99
+        },
+        "jie-tang": {
+          "x": 2080.12,
+          "y": 1796.96
+        },
+        "lilian-weng": {
+          "x": 1771.61,
+          "y": 1886.45
+        },
+        "long-ouyang": {
+          "x": 1870.24,
+          "y": 1732.7
+        },
+        "mira-murati": {
+          "x": 1846.6,
+          "y": 1884.56
+        },
+        "john-schulman": {
+          "x": 1829.65,
+          "y": 1779.39
+        },
+        "sam-altman": {
+          "x": 1877.9,
+          "y": 1658.56
+        },
+        "andrej-karpathy": {
+          "x": 1724.45,
+          "y": 1744.34
+        },
+        "andrew-tulloch": {
+          "x": 1601.23,
+          "y": 1886.07
+        },
+        "luke-metz": {
+          "x": 1839.06,
+          "y": 2157.27
+        },
+        "diederik-kingma": {
+          "x": 1667.02,
+          "y": 1690.55
+        },
+        "elon-musk": {
+          "x": 1805.89,
+          "y": 1622.63
+        },
+        "pamela-vagata": {
+          "x": 1643.75,
+          "y": 1763.82
+        },
+        "trevor-blackwell": {
+          "x": 1746.81,
+          "y": 1619.13
+        },
+        "vicki-cheung": {
+          "x": 1668.43,
+          "y": 1824.78
+        },
+        "wojciech-zaremba": {
+          "x": 1802.76,
+          "y": 1827.68
+        },
+        "jensen-huang": {
+          "x": 1962.75,
+          "y": 1597.38
+        },
+        "daniel-gross": {
+          "x": 1727.53,
+          "y": 1675.86
+        },
+        "tom-brown": {
+          "x": 1872.44,
+          "y": 1449.64
+        },
+        "aidan-gomez": {
+          "x": 1915.02,
+          "y": 2225.13
+        },
+        "ashish-vaswani": {
+          "x": 1586.9,
+          "y": 2230.81
+        },
+        "jakob-uszkoreit": {
+          "x": 1586.76,
+          "y": 1995.77
+        },
+        "llion-jones": {
+          "x": 1531.78,
+          "y": 2271.57
+        },
+        "niki-parmar": {
+          "x": 1570.72,
+          "y": 2199.16
+        },
+        "ivan-zhang": {
+          "x": 1978.43,
+          "y": 2208.58
+        },
+        "david-ha": {
+          "x": 1423.1,
+          "y": 2194.07
+        },
+        "illia-polosukhin": {
+          "x": 1583.87,
+          "y": 2311.39
+        },
+        "simon-osindero": {
+          "x": 2390.99,
+          "y": 2479.87
+        },
+        "yee-whye-teh": {
+          "x": 2236.26,
+          "y": 2451.34
+        },
+        "nick-frosst": {
+          "x": 2157.09,
+          "y": 2175.69
+        },
+        "sara-sabour": {
+          "x": 2363.95,
+          "y": 2246.91
+        },
+        "kai-fu-lee": {
+          "x": 2264.61,
+          "y": 1640.41
+        },
+        "raj-reddy": {
+          "x": 2399.27,
+          "y": 1853.93
+        },
+        "soumith-chintala": {
+          "x": 2144.71,
+          "y": 2566.85
+        },
+        "pierre-sermanet": {
+          "x": 2406,
+          "y": 2586.22
+        },
+        "jeff-johnson": {
+          "x": 2328.98,
+          "y": 2871.03
+        },
+        "mark-zuckerberg": {
+          "x": 2847.35,
+          "y": 2381.03
+        },
+        "daan-wierstra": {
+          "x": 2715.54,
+          "y": 2530.86
+        },
+        "martin-riedmiller": {
+          "x": 2680.14,
+          "y": 2583.74
+        },
+        "john-jumper": {
+          "x": 2598.28,
+          "y": 2814.66
+        },
+        "misha-bilenko": {
+          "x": 1961.62,
+          "y": 2613.09
+        },
+        "jordan-hoffmann": {
+          "x": 2453.89,
+          "y": 2738.99
+        },
+        "karen-simonyan": {
+          "x": 2534.4,
+          "y": 2698.99
+        },
+        "shane-legg": {
+          "x": 2636.87,
+          "y": 2637.97
+        },
+        "armand-joulin": {
+          "x": 2412.78,
+          "y": 3023.96
+        },
+        "guillaume-lample": {
+          "x": 2455.83,
+          "y": 3172.3
+        },
+        "timothee-lacroix": {
+          "x": 2494.47,
+          "y": 3161.47
+        },
+        "marie-anne-lachaux": {
+          "x": 2506.52,
+          "y": 3237.02
+        },
+        "thibaut-lavril": {
+          "x": 2546.89,
+          "y": 3226.83
+        },
+        "baptiste-roziere": {
+          "x": 2461.85,
+          "y": 3246.35
+        },
+        "eliezer-yudkowsky": {
+          "x": 2650.31,
+          "y": 2723.73
+        },
+        "kenton-lee": {
+          "x": 2062.39,
+          "y": 2750.46
+        },
+        "kristina-toutanova": {
+          "x": 1988.87,
+          "y": 2727.2
+        },
+        "aohan-zeng": {
+          "x": 2416.08,
+          "y": 1660.52
+        },
+        "shaoqing-ren": {
+          "x": 3348.73,
+          "y": 1893.78
+        },
+        "jian-sun": {
+          "x": 3391.3,
+          "y": 1826.61
+        },
+        "xiangyu-zhang": {
+          "x": 3319.51,
+          "y": 1786.83
+        },
+        "xiaoou-tang": {
+          "x": 3550.43,
+          "y": 1787.08
+        },
+        "daniel-de-freitas": {
+          "x": 1664.41,
+          "y": 2562.78
+        },
+        "mustafa-suleyman": {
+          "x": 1572.64,
+          "y": 2659.35
+        },
+        "justin-johnson": {
+          "x": 1684.34,
+          "y": 1347.41
+        },
+        "ben-mildenhall": {
+          "x": 1667.31,
+          "y": 1168.63
+        },
+        "christoph-lassner": {
+          "x": 1722.99,
+          "y": 1162.2
+        },
+        "arvind-krishna": {
+          "x": 1806.69,
+          "y": 1063.67
+        },
+        "satya-nadella": {
+          "x": 1966.06,
+          "y": 1066.35
+        },
+        "sundar-pichai": {
+          "x": 1739.51,
+          "y": 1058.18
+        },
+        "lisa-su": {
+          "x": 1863.04,
+          "y": 1027.18
+        },
+        "naval-ravikant": {
+          "x": 1474.2,
+          "y": 1528.91
+        },
+        "nat-friedman": {
+          "x": 1448.3,
+          "y": 1584.14
+        },
+        "daphne-koller": {
+          "x": 1898.48,
+          "y": 1079.89
+        },
+        "guillermo-rauch": {
+          "x": 1529.92,
+          "y": 1299.54
+        },
+        "elad-gil": {
+          "x": 1530.62,
+          "y": 1531.54
+        },
+        "thomas-wolf": {
+          "x": 706.57,
+          "y": 1153.32
+        },
+        "yuxiao-dong": {
+          "x": 2297.07,
+          "y": 1533.98
+        },
+        "xiao-liu": {
+          "x": 2342.73,
+          "y": 1575.2
+        },
+        "garry-tan": {
+          "x": 1266.7,
+          "y": 1820.84
+        },
+        "aravind-srinivas": {
+          "x": 1375.25,
+          "y": 2064.72
+        },
+        "pieter-abbeel": {
+          "x": 1280.13,
+          "y": 2317.62
+        },
+        "ren-ito": {
+          "x": 1225.73,
+          "y": 2415.93
+        },
+        "alexander-skidanov": {
+          "x": 1319.88,
+          "y": 2508.08
+        },
+        "eric-schmidt": {
+          "x": 2467.55,
+          "y": 1364.91
+        },
+        "alessio-fanelli": {
+          "x": 1964.63,
+          "y": 2858.13
+        },
+        "shawn-wang": {
+          "x": 2047.26,
+          "y": 2884.66
+        },
+        "matthijs-douze": {
+          "x": 2268.58,
+          "y": 3224.29
+        },
+        "herve-jegou": {
+          "x": 2343.77,
+          "y": 3240.24
+        },
+        "edouard-grave": {
+          "x": 2478.65,
+          "y": 3322.41
+        },
+        "hugo-touvron": {
+          "x": 2423.61,
+          "y": 3320.6
+        },
+        "gautier-izacard": {
+          "x": 2449.63,
+          "y": 3358.13
+        },
+        "aurelien-rodriguez": {
+          "x": 2537.7,
+          "y": 3367.49
+        },
+        "eric-hambro": {
+          "x": 2583.5,
+          "y": 3299.74
+        },
+        "faisal-azhar": {
+          "x": 2576.02,
+          "y": 3341.79
+        },
+        "naman-goyal": {
+          "x": 2534.18,
+          "y": 3319.69
+        },
+        "xavier-martinet": {
+          "x": 2495.75,
+          "y": 3374.88
+        },
+        "peter-thiel": {
+          "x": 2884.53,
+          "y": 2878.32
+        },
+        "xu-li": {
+          "x": 3779.87,
+          "y": 1649.64
+        },
+        "xiaogang-wang": {
+          "x": 3776.47,
+          "y": 1725.39
+        },
+        "dahua-lin": {
+          "x": 3829.67,
+          "y": 1711.37
+        },
+        "yang-fan": {
+          "x": 3817.51,
+          "y": 1789.52
+        },
+        "clement-delangue": {
+          "x": 498.22,
+          "y": 1148.95
+        },
+        "julien-chaumond": {
+          "x": 566.87,
+          "y": 1022.75
+        },
+        "alexandr-wang": {
+          "x": 403.43,
+          "y": 1184.33
+        },
+        "christopher-akiki": {
+          "x": 395.8,
+          "y": 911.56
+        },
+        "giada-pistilli": {
+          "x": 456.98,
+          "y": 956.46
+        },
+        "margot-mieskes": {
+          "x": 456.7,
+          "y": 896.08
+        },
+        "matthias-galle": {
+          "x": 361.33,
+          "y": 962.82
+        },
+        "suzana-ilic": {
+          "x": 423.5,
+          "y": 1011.95
+        },
+        "yacine-jernite": {
+          "x": 364.98,
+          "y": 1024.54
+        },
+        "ron-conway": {
+          "x": 624.26,
+          "y": 931.92
+        },
+        "reid-hoffman": {
+          "x": 3919.79,
+          "y": 3409.38
+        },
+        "siddhartha-mukherjee": {
+          "x": 3932.91,
+          "y": 3323.31
+        },
+        "ujjwal-singh": {
+          "x": 3949.28,
+          "y": 3215.96
+        },
+        "jim-clark": {
+          "x": 3988.64,
+          "y": 3035.82
+        },
+        "martin-newell": {
+          "x": 4066.17,
+          "y": 3037.01
+        }
+      },
+      "width": 4144.45,
+      "height": 4144.45,
+      "nodes": 172,
+      "component_bounds": [
+        {
+          "x": 2072.23,
+          "y": 2072.23,
+          "radius": 2072.23,
+          "ids": [
+            "aaron-courville",
+            "ian-goodfellow",
+            "yoshua-bengio",
+            "mehdi-mirza",
+            "bing-xu",
+            "david-warde-farley",
+            "jean-pouget-abadie",
+            "sherjil-ozair",
+            "richard-zemel",
+            "ruslan-salakhutdinov",
+            "jimmy-ba",
+            "sanjay-ghemawat",
+            "andrew-ng",
+            "greg-corrado",
+            "chris-olah",
+            "ilya-sutskever",
+            "jeff-dean",
+            "lukasz-kaiser",
+            "oriol-vinyals",
+            "geoffrey-hinton",
+            "yann-lecun",
+            "michael-i-jordan",
+            "alex-graves",
+            "david-silver",
+            "koray-kavukcuoglu",
+            "volodymyr-mnih",
+            "arthur-mensch",
+            "demis-hassabis",
+            "ioannis-antonoglou",
+            "jacob-devlin",
+            "laurent-sifre",
+            "ming-wei-chang",
+            "quoc-le",
+            "sebastian-borgeaud",
+            "zihang-dai",
+            "peter-dayan",
+            "navdeep-jaitly",
+            "nitish-srivastava",
+            "zhilin-yang",
+            "alex-krizhevsky",
+            "kaiming-he",
+            "william-cohen",
+            "noam-shazeer",
+            "fei-fei-li",
+            "jeff-wu",
+            "alec-radford",
+            "amanda-askell",
+            "jack-clark",
+            "prafulla-dhariwal",
+            "adam-dangelo",
+            "andy-bechtolsheim",
+            "ben-mann",
+            "dario-amodei",
+            "jared-kaplan",
+            "sam-mccandlish",
+            "tom-henighan",
+            "barret-zoph",
+            "daniel-levy",
+            "greg-brockman",
+            "jan-leike",
+            "jie-tang",
+            "lilian-weng",
+            "long-ouyang",
+            "mira-murati",
+            "john-schulman",
+            "sam-altman",
+            "andrej-karpathy",
+            "andrew-tulloch",
+            "luke-metz",
+            "diederik-kingma",
+            "elon-musk",
+            "pamela-vagata",
+            "trevor-blackwell",
+            "vicki-cheung",
+            "wojciech-zaremba",
+            "jensen-huang",
+            "daniel-gross",
+            "tom-brown",
+            "aidan-gomez",
+            "ashish-vaswani",
+            "jakob-uszkoreit",
+            "llion-jones",
+            "niki-parmar",
+            "ivan-zhang",
+            "david-ha",
+            "illia-polosukhin",
+            "simon-osindero",
+            "yee-whye-teh",
+            "nick-frosst",
+            "sara-sabour",
+            "kai-fu-lee",
+            "raj-reddy",
+            "soumith-chintala",
+            "pierre-sermanet",
+            "jeff-johnson",
+            "mark-zuckerberg",
+            "daan-wierstra",
+            "martin-riedmiller",
+            "john-jumper",
+            "misha-bilenko",
+            "jordan-hoffmann",
+            "karen-simonyan",
+            "shane-legg",
+            "armand-joulin",
+            "guillaume-lample",
+            "timothee-lacroix",
+            "marie-anne-lachaux",
+            "thibaut-lavril",
+            "baptiste-roziere",
+            "eliezer-yudkowsky",
+            "kenton-lee",
+            "kristina-toutanova",
+            "aohan-zeng",
+            "shaoqing-ren",
+            "jian-sun",
+            "xiangyu-zhang",
+            "xiaoou-tang",
+            "daniel-de-freitas",
+            "mustafa-suleyman",
+            "justin-johnson",
+            "ben-mildenhall",
+            "christoph-lassner",
+            "arvind-krishna",
+            "satya-nadella",
+            "sundar-pichai",
+            "lisa-su",
+            "naval-ravikant",
+            "nat-friedman",
+            "daphne-koller",
+            "guillermo-rauch",
+            "elad-gil",
+            "thomas-wolf",
+            "yuxiao-dong",
+            "xiao-liu",
+            "garry-tan",
+            "aravind-srinivas",
+            "pieter-abbeel",
+            "ren-ito",
+            "alexander-skidanov",
+            "eric-schmidt",
+            "alessio-fanelli",
+            "shawn-wang",
+            "matthijs-douze",
+            "herve-jegou",
+            "edouard-grave",
+            "hugo-touvron",
+            "gautier-izacard",
+            "aurelien-rodriguez",
+            "eric-hambro",
+            "faisal-azhar",
+            "naman-goyal",
+            "xavier-martinet",
+            "peter-thiel",
+            "xu-li",
+            "xiaogang-wang",
+            "dahua-lin",
+            "yang-fan",
+            "clement-delangue",
+            "julien-chaumond",
+            "alexandr-wang",
+            "christopher-akiki",
+            "giada-pistilli",
+            "margot-mieskes",
+            "matthias-galle",
+            "suzana-ilic",
+            "yacine-jernite",
+            "ron-conway"
+          ]
+        },
+        {
+          "x": 3933.99,
+          "y": 3316.22,
+          "radius": 138.9,
+          "ids": [
+            "reid-hoffman",
+            "siddhartha-mukherjee",
+            "ujjwal-singh"
+          ]
+        },
+        {
+          "x": 4027.4,
+          "y": 3036.41,
+          "radius": 79.77,
+          "ids": [
+            "jim-clark",
+            "martin-newell"
+          ]
+        }
+      ]
+    },
+    "china": {
+      "positions": {
+        "alec-radford": {
+          "x": 497.39,
+          "y": 999.82
+        },
+        "jie-tang": {
+          "x": 737.58,
+          "y": 837.38
+        },
+        "zhilin-yang": {
+          "x": 1049.8,
+          "y": 1124.91
+        },
+        "yuxiao-dong": {
+          "x": 873.75,
+          "y": 795.65
+        },
+        "xiao-liu": {
+          "x": 840.52,
+          "y": 875.28
+        },
+        "aohan-zeng": {
+          "x": 924.4,
+          "y": 928.09
+        },
+        "barret-zoph": {
+          "x": 539.36,
+          "y": 762.55
+        },
+        "daniel-levy": {
+          "x": 742.51,
+          "y": 527.55
+        },
+        "greg-brockman": {
+          "x": 437.45,
+          "y": 895.89
+        },
+        "ilya-sutskever": {
+          "x": 621.17,
+          "y": 661.28
+        },
+        "jeff-wu": {
+          "x": 854.63,
+          "y": 570.69
+        },
+        "jan-leike": {
+          "x": 430.75,
+          "y": 787.79
+        },
+        "long-ouyang": {
+          "x": 634.67,
+          "y": 545.86
+        },
+        "lukasz-kaiser": {
+          "x": 607.55,
+          "y": 1026.73
+        },
+        "mira-murati": {
+          "x": 466.37,
+          "y": 679.58
+        },
+        "wojciech-zaremba": {
+          "x": 755.12,
+          "y": 630.63
+        },
+        "john-schulman": {
+          "x": 547.71,
+          "y": 895.41
+        },
+        "lilian-weng": {
+          "x": 534.38,
+          "y": 596.66
+        },
+        "sam-altman": {
+          "x": 927.35,
+          "y": 652.75
+        },
+        "william-cohen": {
+          "x": 946.07,
+          "y": 1143.13
+        },
+        "ruslan-salakhutdinov": {
+          "x": 1173.07,
+          "y": 1237.87
+        },
+        "zihang-dai": {
+          "x": 1145.56,
+          "y": 1453.85
+        },
+        "quoc-le": {
+          "x": 1084.75,
+          "y": 1262.98
+        },
+        "kaiming-he": {
+          "x": 1508.26,
+          "y": 887.06
+        },
+        "yann-lecun": {
+          "x": 871.78,
+          "y": 1256.28
+        },
+        "arthur-mensch": {
+          "x": 1353.85,
+          "y": 1366.2
+        },
+        "david-silver": {
+          "x": 1309.94,
+          "y": 1539.79
+        },
+        "demis-hassabis": {
+          "x": 925.34,
+          "y": 1633.3
+        },
+        "ioannis-antonoglou": {
+          "x": 1422.47,
+          "y": 1559.06
+        },
+        "jacob-devlin": {
+          "x": 1096.17,
+          "y": 1748.73
+        },
+        "jeff-dean": {
+          "x": 1062.47,
+          "y": 1623.82
+        },
+        "koray-kavukcuoglu": {
+          "x": 1295.08,
+          "y": 1719.61
+        },
+        "laurent-sifre": {
+          "x": 996.32,
+          "y": 1716.25
+        },
+        "ming-wei-chang": {
+          "x": 1417.05,
+          "y": 1450.2
+        },
+        "oriol-vinyals": {
+          "x": 1195.66,
+          "y": 1757.6
+        },
+        "sanjay-ghemawat": {
+          "x": 934.8,
+          "y": 1529.75
+        },
+        "sebastian-borgeaud": {
+          "x": 1367.76,
+          "y": 1651.73
+        },
+        "sherjil-ozair": {
+          "x": 1205.79,
+          "y": 1642.81
+        },
+        "xiaoou-tang": {
+          "x": 1822.8,
+          "y": 725.41
+        },
+        "xu-li": {
+          "x": 1889.44,
+          "y": 609.07
+        },
+        "xiaogang-wang": {
+          "x": 1942.17,
+          "y": 579.61
+        },
+        "dahua-lin": {
+          "x": 1941.52,
+          "y": 676.22
+        },
+        "jian-sun": {
+          "x": 2063.07,
+          "y": 780.62
+        },
+        "yang-fan": {
+          "x": 1984.99,
+          "y": 633.17
+        },
+        "eric-schmidt": {
+          "x": 2074.52,
+          "y": 2007.03
+        },
+        "kai-fu-lee": {
+          "x": 1957.16,
+          "y": 1957.38
+        },
+        "raj-reddy": {
+          "x": 2007.23,
+          "y": 1840.25
+        },
+        "geoffrey-hinton": {
+          "x": 1907.52,
+          "y": 2074.61
+        },
+        "fei-fei-li": {
+          "x": 1840.16,
+          "y": 1907.33
+        }
+      },
+      "width": 2135.39,
+      "height": 2135.39,
+      "nodes": 49,
+      "component_bounds": [
+        {
+          "x": 1067.7,
+          "y": 1067.7,
+          "radius": 1067.7,
+          "ids": [
+            "alec-radford",
+            "jie-tang",
+            "zhilin-yang",
+            "yuxiao-dong",
+            "xiao-liu",
+            "aohan-zeng",
+            "barret-zoph",
+            "daniel-levy",
+            "greg-brockman",
+            "ilya-sutskever",
+            "jeff-wu",
+            "jan-leike",
+            "long-ouyang",
+            "lukasz-kaiser",
+            "mira-murati",
+            "wojciech-zaremba",
+            "john-schulman",
+            "lilian-weng",
+            "sam-altman",
+            "william-cohen",
+            "ruslan-salakhutdinov",
+            "zihang-dai",
+            "quoc-le",
+            "kaiming-he",
+            "yann-lecun",
+            "arthur-mensch",
+            "david-silver",
+            "demis-hassabis",
+            "ioannis-antonoglou",
+            "jacob-devlin",
+            "jeff-dean",
+            "koray-kavukcuoglu",
+            "laurent-sifre",
+            "ming-wei-chang",
+            "oriol-vinyals",
+            "sanjay-ghemawat",
+            "sebastian-borgeaud",
+            "sherjil-ozair",
+            "xiaoou-tang",
+            "xu-li",
+            "xiaogang-wang",
+            "dahua-lin",
+            "jian-sun",
+            "yang-fan"
+          ]
+        },
+        {
+          "x": 1957.32,
+          "y": 1957.32,
+          "radius": 162.42,
+          "ids": [
+            "eric-schmidt",
+            "kai-fu-lee",
+            "raj-reddy",
+            "geoffrey-hinton",
+            "fei-fei-li"
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "positions": {
+        "armand-joulin": {
+          "x": 562.71,
+          "y": 321.47
+        },
+        "guillaume-lample": {
+          "x": 628.61,
+          "y": 344.37
+        },
+        "edouard-grave": {
+          "x": 655.15,
+          "y": 251.23
+        },
+        "hugo-touvron": {
+          "x": 617.74,
+          "y": 223.28
+        },
+        "timothee-lacroix": {
+          "x": 609.05,
+          "y": 373.94
+        },
+        "gautier-izacard": {
+          "x": 765.32,
+          "y": 280.68
+        },
+        "matthijs-douze": {
+          "x": 495.85,
+          "y": 41.69
+        },
+        "herve-jegou": {
+          "x": 669.68,
+          "y": 103.35
+        },
+        "aurelien-rodriguez": {
+          "x": 532.83,
+          "y": 176.68
+        },
+        "baptiste-roziere": {
+          "x": 717.51,
+          "y": 388.39
+        },
+        "eric-hambro": {
+          "x": 752.93,
+          "y": 220.12
+        },
+        "faisal-azhar": {
+          "x": 599.2,
+          "y": 150.95
+        },
+        "marie-anne-lachaux": {
+          "x": 668.54,
+          "y": 419.09
+        },
+        "naman-goyal": {
+          "x": 490.27,
+          "y": 224.1
+        },
+        "thibaut-lavril": {
+          "x": 515.61,
+          "y": 369.66
+        },
+        "xavier-martinet": {
+          "x": 705.46,
+          "y": 177.18
+        },
+        "laurent-sifre": {
+          "x": 490.71,
+          "y": 727.66
+        },
+        "demis-hassabis": {
+          "x": 438.53,
+          "y": 518.42
+        },
+        "koray-kavukcuoglu": {
+          "x": 525.23,
+          "y": 532.22
+        },
+        "yee-whye-teh": {
+          "x": 345.62,
+          "y": 462.35
+        },
+        "arthur-mensch": {
+          "x": 562.3,
+          "y": 626.86
+        },
+        "david-silver": {
+          "x": 591.46,
+          "y": 913.44
+        },
+        "ilya-sutskever": {
+          "x": 215.14,
+          "y": 923.34
+        },
+        "ioannis-antonoglou": {
+          "x": 719.94,
+          "y": 827.71
+        },
+        "jordan-hoffmann": {
+          "x": 440.59,
+          "y": 852.02
+        },
+        "karen-simonyan": {
+          "x": 322.88,
+          "y": 610.06
+        },
+        "oriol-vinyals": {
+          "x": 663.68,
+          "y": 879.67
+        },
+        "sebastian-borgeaud": {
+          "x": 368.08,
+          "y": 820.16
+        },
+        "simon-osindero": {
+          "x": 746.77,
+          "y": 747.81
+        },
+        "jacob-devlin": {
+          "x": 506.08,
+          "y": 899.02
+        },
+        "jeff-dean": {
+          "x": 282.23,
+          "y": 679.17
+        },
+        "ming-wei-chang": {
+          "x": 652.8,
+          "y": 762.33
+        },
+        "quoc-le": {
+          "x": 374.14,
+          "y": 699.42
+        },
+        "sanjay-ghemawat": {
+          "x": 718.3,
+          "y": 670.19
+        },
+        "sherjil-ozair": {
+          "x": 573.16,
+          "y": 825.91
+        },
+        "zihang-dai": {
+          "x": 308.16,
+          "y": 763.01
+        },
+        "john-jumper": {
+          "x": 465.77,
+          "y": 1068.77
+        },
+        "garry-tan": {
+          "x": 360.11,
+          "y": 990.13
+        },
+        "charlie-songhurst": {
+          "x": 941.88,
+          "y": 734.19
+        },
+        "alexandr-wang": {
+          "x": 1307.9,
+          "y": 992.07
+        },
+        "clement-delangue": {
+          "x": 1210.11,
+          "y": 950.19
+        },
+        "julien-chaumond": {
+          "x": 1188.53,
+          "y": 902.61
+        },
+        "thomas-wolf": {
+          "x": 1128.98,
+          "y": 1011.28
+        },
+        "greg-brockman": {
+          "x": 1090.54,
+          "y": 861.18
+        },
+        "ron-conway": {
+          "x": 1269.83,
+          "y": 841.71
+        }
+      },
+      "width": 1362.79,
+      "height": 1107.69,
+      "nodes": 45,
+      "component_bounds": [
+        {
+          "x": 553.85,
+          "y": 553.85,
+          "radius": 553.85,
+          "ids": [
+            "armand-joulin",
+            "guillaume-lample",
+            "edouard-grave",
+            "hugo-touvron",
+            "timothee-lacroix",
+            "gautier-izacard",
+            "matthijs-douze",
+            "herve-jegou",
+            "aurelien-rodriguez",
+            "baptiste-roziere",
+            "eric-hambro",
+            "faisal-azhar",
+            "marie-anne-lachaux",
+            "naman-goyal",
+            "thibaut-lavril",
+            "xavier-martinet",
+            "laurent-sifre",
+            "demis-hassabis",
+            "koray-kavukcuoglu",
+            "yee-whye-teh",
+            "arthur-mensch",
+            "david-silver",
+            "ilya-sutskever",
+            "ioannis-antonoglou",
+            "jordan-hoffmann",
+            "karen-simonyan",
+            "oriol-vinyals",
+            "sebastian-borgeaud",
+            "simon-osindero",
+            "jacob-devlin",
+            "jeff-dean",
+            "ming-wei-chang",
+            "quoc-le",
+            "sanjay-ghemawat",
+            "sherjil-ozair",
+            "zihang-dai",
+            "john-jumper",
+            "garry-tan",
+            "charlie-songhurst"
+          ]
+        },
+        {
+          "x": 1199.31,
+          "y": 926.51,
+          "radius": 163.47,
+          "ids": [
+            "alexandr-wang",
+            "clement-delangue",
+            "julien-chaumond",
+            "thomas-wolf",
+            "greg-brockman",
+            "ron-conway"
+          ]
+        }
+      ]
+    },
+    "personal": {
+      "positions": {
+        "aaron-courville": {
+          "x": 923.86,
+          "y": 2604.55
+        },
+        "yoshua-bengio": {
+          "x": 995.97,
+          "y": 2481.75
+        },
+        "michael-i-jordan": {
+          "x": 1024.56,
+          "y": 2641.93
+        },
+        "geoffrey-hinton": {
+          "x": 1010.56,
+          "y": 2266.65
+        },
+        "yann-lecun": {
+          "x": 1046.73,
+          "y": 2398.35
+        },
+        "peter-dayan": {
+          "x": 1176.55,
+          "y": 1957.91
+        },
+        "raj-reddy": {
+          "x": 941.67,
+          "y": 2204.43
+        },
+        "aidan-gomez": {
+          "x": 852.96,
+          "y": 2257.43
+        },
+        "nick-frosst": {
+          "x": 944.22,
+          "y": 2379.47
+        },
+        "alex-krizhevsky": {
+          "x": 861.34,
+          "y": 2348.45
+        },
+        "demis-hassabis": {
+          "x": 1343.8,
+          "y": 1631.33
+        },
+        "peter-thiel": {
+          "x": 1524.83,
+          "y": 1344.26
+        },
+        "eliezer-yudkowsky": {
+          "x": 1456.72,
+          "y": 1541.62
+        },
+        "mustafa-suleyman": {
+          "x": 1319.95,
+          "y": 1462.09
+        },
+        "mark-zuckerberg": {
+          "x": 1735.78,
+          "y": 1194.24
+        },
+        "shane-legg": {
+          "x": 1541.93,
+          "y": 1529.83
+        },
+        "alex-karp": {
+          "x": 1576.7,
+          "y": 1459.9
+        },
+        "blake-masters": {
+          "x": 1415.83,
+          "y": 1256.48
+        },
+        "reid-hoffman": {
+          "x": 1363.29,
+          "y": 1251.34
+        },
+        "david-sacks": {
+          "x": 1663.17,
+          "y": 1401.59
+        },
+        "cyan-banister": {
+          "x": 1732.22,
+          "y": 1510.35
+        },
+        "keith-rabois": {
+          "x": 1530.38,
+          "y": 1159.36
+        },
+        "sam-altman": {
+          "x": 1473.31,
+          "y": 1012.45
+        },
+        "adam-dangelo": {
+          "x": 1870.28,
+          "y": 1136.24
+        },
+        "alexandr-wang": {
+          "x": 1674.11,
+          "y": 1060.73
+        },
+        "alex-schultz": {
+          "x": 1798.96,
+          "y": 1074
+        },
+        "elon-musk": {
+          "x": 1279.99,
+          "y": 1106.32
+        },
+        "siddhartha-mukherjee": {
+          "x": 1223.02,
+          "y": 1331.49
+        },
+        "scott-banister": {
+          "x": 1858.86,
+          "y": 1609.87
+        },
+        "jack-abraham": {
+          "x": 1516.13,
+          "y": 1072.2
+        },
+        "nick-sivo": {
+          "x": 1397.71,
+          "y": 905.05
+        },
+        "jony-ive": {
+          "x": 1250.54,
+          "y": 878.69
+        },
+        "roelof-botha": {
+          "x": 1434.08,
+          "y": 832.76
+        },
+        "ron-conway": {
+          "x": 1564.49,
+          "y": 899.97
+        },
+        "paul-graham": {
+          "x": 1579.54,
+          "y": 732.23
+        },
+        "brian-chesky": {
+          "x": 1594.21,
+          "y": 813.34
+        },
+        "bill-lee": {
+          "x": 1301.85,
+          "y": 1190.98
+        },
+        "ken-howery": {
+          "x": 1132.32,
+          "y": 1155.6
+        },
+        "stephen-oskoui": {
+          "x": 1342.13,
+          "y": 1108.73
+        },
+        "larry-ellison": {
+          "x": 1122.55,
+          "y": 952.54
+        },
+        "steve-jobs": {
+          "x": 1052.29,
+          "y": 799.64
+        },
+        "robert-morris": {
+          "x": 1561.72,
+          "y": 559.4
+        },
+        "trevor-blackwell": {
+          "x": 1658.14,
+          "y": 567.14
+        },
+        "jessica-livingston": {
+          "x": 1699.45,
+          "y": 704.4
+        },
+        "joe-gebbia": {
+          "x": 1637.5,
+          "y": 671.13
+        },
+        "steve-wozniak": {
+          "x": 916.29,
+          "y": 730.63
+        },
+        "tim-cook": {
+          "x": 930.48,
+          "y": 664.09
+        },
+        "andy-bechtolsheim": {
+          "x": 3367.61,
+          "y": 1570.4
+        },
+        "john-doerr": {
+          "x": 3325.96,
+          "y": 1676.6
+        },
+        "eric-schmidt": {
+          "x": 3263.16,
+          "y": 1833.56
+        },
+        "dario-amodei": {
+          "x": 3164.99,
+          "y": 1953.28
+        },
+        "cami-clark": {
+          "x": 3250.94,
+          "y": 1965.29
+        },
+        "greg-brockman": {
+          "x": 3175.2,
+          "y": 2098.33
+        },
+        "daniela-amodei": {
+          "x": 3093.83,
+          "y": 2004.91
+        },
+        "holden-karnofsky": {
+          "x": 3058.21,
+          "y": 1918.55
+        },
+        "mira-murati": {
+          "x": 3289.72,
+          "y": 2055.39
+        },
+        "chris-olah": {
+          "x": 3081.04,
+          "y": 2164.33
+        },
+        "ilya-sutskever": {
+          "x": 3188.72,
+          "y": 2321.24
+        },
+        "jensen-huang": {
+          "x": 3196.22,
+          "y": 2501.41
+        },
+        "chris-malachowsky": {
+          "x": 3120.72,
+          "y": 2587.8
+        },
+        "curtis-priem": {
+          "x": 3180.51,
+          "y": 2618.58
+        },
+        "lisa-su": {
+          "x": 3292,
+          "y": 2570.31
+        },
+        "daniel-gross": {
+          "x": 2907.75,
+          "y": 1434.91
+        },
+        "george-cameron": {
+          "x": 2901.99,
+          "y": 1342.19
+        },
+        "micah-hill-smith": {
+          "x": 2836.82,
+          "y": 1374.96
+        },
+        "nat-friedman": {
+          "x": 2831.01,
+          "y": 1282.23
+        },
+        "jie-tang": {
+          "x": 2495.78,
+          "y": 2529.26
+        },
+        "zhilin-yang": {
+          "x": 2440.78,
+          "y": 2436.87
+        },
+        "zihang-dai": {
+          "x": 2487.9,
+          "y": 2353.26
+        },
+        "quoc-le": {
+          "x": 2333.36,
+          "y": 2438.43
+        },
+        "alexis-ohanian": {
+          "x": 349.13,
+          "y": 2531.04
+        },
+        "garry-tan": {
+          "x": 431.23,
+          "y": 2561.98
+        },
+        "brian-armstrong": {
+          "x": 522.48,
+          "y": 2596.38
+        },
+        "arthur-mensch": {
+          "x": 221.56,
+          "y": 2355.69
+        },
+        "guillaume-lample": {
+          "x": 176.25,
+          "y": 2431.47
+        },
+        "timothee-lacroix": {
+          "x": 266.84,
+          "y": 2279.99
+        },
+        "chad-hurley": {
+          "x": 100.4,
+          "y": 371.72
+        },
+        "jim-clark": {
+          "x": 158.74,
+          "y": 437.9
+        },
+        "martin-newell": {
+          "x": 217.13,
+          "y": 504.14
+        },
+        "jeff-dean": {
+          "x": 354.43,
+          "y": 218.36
+        },
+        "sanjay-ghemawat": {
+          "x": 273.94,
+          "y": 252.98
+        },
+        "noam-shazeer": {
+          "x": 444.06,
+          "y": 179.8
+        },
+        "ali-partovi": {
+          "x": 2185,
+          "y": 2540.84
+        },
+        "hadi-partovi": {
+          "x": 2161.49,
+          "y": 2614.79
+        },
+        "andrew-ng": {
+          "x": 122.64,
+          "y": 2073.03
+        },
+        "carol-reiley": {
+          "x": 54.69,
+          "y": 2110.48
+        },
+        "bret-taylor": {
+          "x": 632.28,
+          "y": 50.51
+        },
+        "clay-bavor": {
+          "x": 618.52,
+          "y": 126.84
+        },
+        "joe-lonsdale": {
+          "x": 2057.21,
+          "y": 106.31
+        },
+        "stephen-cohen": {
+          "x": 2126.3,
+          "y": 71.03
+        },
+        "navdeep-jaitly": {
+          "x": 2215.86,
+          "y": 179.37
+        },
+        "nitish-srivastava": {
+          "x": 2286.59,
+          "y": 211.13
+        },
+        "sam-mccandlish": {
+          "x": 2404.23,
+          "y": 284.06
+        },
+        "tom-brown": {
+          "x": 2386.56,
+          "y": 359.44
+        }
+      },
+      "width": 3813.35,
+      "height": 2732.76,
+      "nodes": 94,
+      "component_bounds": [
+        {
+          "x": 1358.57,
+          "y": 1358.57,
+          "radius": 1358.57,
+          "ids": [
+            "aaron-courville",
+            "yoshua-bengio",
+            "michael-i-jordan",
+            "geoffrey-hinton",
+            "yann-lecun",
+            "peter-dayan",
+            "raj-reddy",
+            "aidan-gomez",
+            "nick-frosst",
+            "alex-krizhevsky",
+            "demis-hassabis",
+            "peter-thiel",
+            "eliezer-yudkowsky",
+            "mustafa-suleyman",
+            "mark-zuckerberg",
+            "shane-legg",
+            "alex-karp",
+            "blake-masters",
+            "reid-hoffman",
+            "david-sacks",
+            "cyan-banister",
+            "keith-rabois",
+            "sam-altman",
+            "adam-dangelo",
+            "alexandr-wang",
+            "alex-schultz",
+            "elon-musk",
+            "siddhartha-mukherjee",
+            "scott-banister",
+            "jack-abraham",
+            "nick-sivo",
+            "jony-ive",
+            "roelof-botha",
+            "ron-conway",
+            "paul-graham",
+            "brian-chesky",
+            "bill-lee",
+            "ken-howery",
+            "stephen-oskoui",
+            "larry-ellison",
+            "steve-jobs",
+            "robert-morris",
+            "trevor-blackwell",
+            "jessica-livingston",
+            "joe-gebbia",
+            "steve-wozniak",
+            "tim-cook"
+          ]
+        },
+        {
+          "x": 3203.26,
+          "y": 2122.67,
+          "radius": 610.1,
+          "ids": [
+            "andy-bechtolsheim",
+            "john-doerr",
+            "eric-schmidt",
+            "dario-amodei",
+            "cami-clark",
+            "greg-brockman",
+            "daniela-amodei",
+            "holden-karnofsky",
+            "mira-murati",
+            "chris-olah",
+            "ilya-sutskever",
+            "jensen-huang",
+            "chris-malachowsky",
+            "curtis-priem",
+            "lisa-su"
+          ]
+        },
+        {
+          "x": 2869.39,
+          "y": 1358.57,
+          "radius": 124.24,
+          "ids": [
+            "daniel-gross",
+            "george-cameron",
+            "micah-hill-smith",
+            "nat-friedman"
+          ]
+        },
+        {
+          "x": 2439.45,
+          "y": 2439.45,
+          "radius": 142.03,
+          "ids": [
+            "jie-tang",
+            "zhilin-yang",
+            "zihang-dai",
+            "quoc-le"
+          ]
+        },
+        {
+          "x": 434.28,
+          "y": 2563.14,
+          "radius": 131.75,
+          "ids": [
+            "alexis-ohanian",
+            "garry-tan",
+            "brian-armstrong"
+          ]
+        },
+        {
+          "x": 221.55,
+          "y": 2355.72,
+          "radius": 125.75,
+          "ids": [
+            "arthur-mensch",
+            "guillaume-lample",
+            "timothee-lacroix"
+          ]
+        },
+        {
+          "x": 158.76,
+          "y": 437.92,
+          "radius": 125.76,
+          "ids": [
+            "chad-hurley",
+            "jim-clark",
+            "martin-newell"
+          ]
+        },
+        {
+          "x": 357.48,
+          "y": 217.05,
+          "radius": 131.74,
+          "ids": [
+            "jeff-dean",
+            "sanjay-ghemawat",
+            "noam-shazeer"
+          ]
+        },
+        {
+          "x": 2173.24,
+          "y": 2577.81,
+          "radius": 79.8,
+          "ids": [
+            "ali-partovi",
+            "hadi-partovi"
+          ]
+        },
+        {
+          "x": 88.66,
+          "y": 2091.75,
+          "radius": 79.79,
+          "ids": [
+            "andrew-ng",
+            "carol-reiley"
+          ]
+        },
+        {
+          "x": 625.4,
+          "y": 88.68,
+          "radius": 79.78,
+          "ids": [
+            "bret-taylor",
+            "clay-bavor"
+          ]
+        },
+        {
+          "x": 2091.75,
+          "y": 88.67,
+          "radius": 79.79,
+          "ids": [
+            "joe-lonsdale",
+            "stephen-cohen"
+          ]
+        },
+        {
+          "x": 2251.22,
+          "y": 195.25,
+          "radius": 79.77,
+          "ids": [
+            "navdeep-jaitly",
+            "nitish-srivastava"
+          ]
+        },
+        {
+          "x": 2395.39,
+          "y": 321.75,
+          "radius": 79.71,
+          "ids": [
+            "sam-mccandlish",
+            "tom-brown"
+          ]
+        }
+      ]
+    },
+    "central": {
+      "positions": {
+        "adam-dangelo": {
+          "x": 1373.61,
+          "y": 1551.76
+        },
+        "charlie-cheever": {
+          "x": 1443.11,
+          "y": 1766.08
+        },
+        "mark-zuckerberg": {
+          "x": 1294.14,
+          "y": 1460.14
+        },
+        "eric-wu": {
+          "x": 1513.7,
+          "y": 1419.28
+        },
+        "jeff-dean": {
+          "x": 1280.77,
+          "y": 963.07
+        },
+        "daniel-gross": {
+          "x": 1514.96,
+          "y": 1485.61
+        },
+        "keith-rabois": {
+          "x": 1315.7,
+          "y": 1514.58
+        },
+        "nat-friedman": {
+          "x": 1599.13,
+          "y": 1559.31
+        },
+        "vinod-khosla": {
+          "x": 1690.72,
+          "y": 1321.12
+        },
+        "aravind-srinivas": {
+          "x": 1595.82,
+          "y": 1703.56
+        },
+        "alexandr-wang": {
+          "x": 1362.24,
+          "y": 1648.25
+        },
+        "greg-brockman": {
+          "x": 1340.06,
+          "y": 1376.88
+        },
+        "ilya-sutskever": {
+          "x": 1243.18,
+          "y": 1138.31
+        },
+        "andy-bechtolsheim": {
+          "x": 1221.89,
+          "y": 1601.75
+        },
+        "sam-altman": {
+          "x": 1157.59,
+          "y": 1578.1
+        },
+        "mike-krieger": {
+          "x": 1743.9,
+          "y": 1436.28
+        },
+        "mira-murati": {
+          "x": 1201.83,
+          "y": 1364.34
+        },
+        "bret-taylor": {
+          "x": 1287.05,
+          "y": 1663.97
+        },
+        "alexis-ohanian": {
+          "x": 1461.41,
+          "y": 1945.57
+        },
+        "david-sacks": {
+          "x": 1395.48,
+          "y": 1958.96
+        },
+        "elad-gil": {
+          "x": 1521.56,
+          "y": 1625.4
+        },
+        "garry-tan": {
+          "x": 1458.6,
+          "y": 1421.58
+        },
+        "harj-taggar": {
+          "x": 1425.4,
+          "y": 1666.67
+        },
+        "jeremy-stoppelman": {
+          "x": 1127.16,
+          "y": 1695.27
+        },
+        "max-levchin": {
+          "x": 1084.84,
+          "y": 1670.68
+        },
+        "naval-ravikant": {
+          "x": 1484.98,
+          "y": 1738.64
+        },
+        "zico-kolter": {
+          "x": 1278.64,
+          "y": 1835.14
+        },
+        "andrej-karpathy": {
+          "x": 1233.82,
+          "y": 1392.73
+        },
+        "charlie-songhurst": {
+          "x": 1674.13,
+          "y": 1869.18
+        },
+        "guillermo-rauch": {
+          "x": 1539.17,
+          "y": 1365.17
+        },
+        "fei-fei-li": {
+          "x": 1395.79,
+          "y": 1427.02
+        },
+        "dario-amodei": {
+          "x": 1526.87,
+          "y": 1253.15
+        },
+        "elon-musk": {
+          "x": 971.15,
+          "y": 1416.79
+        },
+        "andrew-ng": {
+          "x": 1410.11,
+          "y": 645.49
+        },
+        "sanjay-ghemawat": {
+          "x": 1149.73,
+          "y": 829.22
+        },
+        "noam-shazeer": {
+          "x": 1095.07,
+          "y": 778.41
+        },
+        "quoc-le": {
+          "x": 1241.41,
+          "y": 696.95
+        },
+        "sundar-pichai": {
+          "x": 1171.93,
+          "y": 1183.11
+        },
+        "alessio-fanelli": {
+          "x": 1412.77,
+          "y": 1049.3
+        },
+        "greg-corrado": {
+          "x": 1083.64,
+          "y": 834.08
+        },
+        "arthur-mensch": {
+          "x": 1129.65,
+          "y": 560.05
+        },
+        "laurent-sifre": {
+          "x": 1197.17,
+          "y": 738.44
+        },
+        "sebastian-borgeaud": {
+          "x": 1111.9,
+          "y": 610.3
+        },
+        "sherjil-ozair": {
+          "x": 1176.21,
+          "y": 544.31
+        },
+        "zihang-dai": {
+          "x": 1225.1,
+          "y": 601.27
+        },
+        "david-silver": {
+          "x": 1041.01,
+          "y": 616.1
+        },
+        "ioannis-antonoglou": {
+          "x": 1152.8,
+          "y": 747.65
+        },
+        "jacob-devlin": {
+          "x": 1221.78,
+          "y": 556.47
+        },
+        "demis-hassabis": {
+          "x": 999.21,
+          "y": 760.08
+        },
+        "koray-kavukcuoglu": {
+          "x": 1027.94,
+          "y": 565.71
+        },
+        "ming-wei-chang": {
+          "x": 1171.66,
+          "y": 604.55
+        },
+        "oriol-vinyals": {
+          "x": 1116.95,
+          "y": 696.64
+        },
+        "barret-zoph": {
+          "x": 1165.23,
+          "y": 1135.12
+        },
+        "daniel-de-freitas": {
+          "x": 1479.57,
+          "y": 548.57
+        },
+        "mustafa-suleyman": {
+          "x": 1238.07,
+          "y": 980.11
+        },
+        "david-ha": {
+          "x": 991.12,
+          "y": 820.66
+        },
+        "lukasz-kaiser": {
+          "x": 1004.07,
+          "y": 1118.5
+        },
+        "shawn-wang": {
+          "x": 1439.14,
+          "y": 1099.46
+        },
+        "chris-olah": {
+          "x": 1336.08,
+          "y": 1099.13
+        },
+        "ian-goodfellow": {
+          "x": 1037.61,
+          "y": 910.32
+        },
+        "eric-schmidt": {
+          "x": 1691.48,
+          "y": 1220.24
+        },
+        "george-cameron": {
+          "x": 1785.96,
+          "y": 1598.23
+        },
+        "micah-hill-smith": {
+          "x": 1757.72,
+          "y": 1648.95
+        },
+        "brian-armstrong": {
+          "x": 1878.37,
+          "y": 1764.33
+        },
+        "joe-lonsdale": {
+          "x": 1906.17,
+          "y": 1698.55
+        },
+        "daniel-levy": {
+          "x": 1285,
+          "y": 1332
+        },
+        "jakob-uszkoreit": {
+          "x": 1409.82,
+          "y": 1343.56
+        },
+        "jessica-livingston": {
+          "x": 1358.02,
+          "y": 1767.96
+        },
+        "paul-graham": {
+          "x": 1291.43,
+          "y": 1729.32
+        },
+        "trevor-blackwell": {
+          "x": 1209.28,
+          "y": 1444.61
+        },
+        "lucy-guo": {
+          "x": 1733.56,
+          "y": 1535.5
+        },
+        "andy-konwinski": {
+          "x": 1768.76,
+          "y": 1873.03
+        },
+        "denis-yarats": {
+          "x": 1754.57,
+          "y": 1807.16
+        },
+        "johnny-ho": {
+          "x": 1822.17,
+          "y": 1814.43
+        },
+        "jensen-huang": {
+          "x": 1233.95,
+          "y": 1328.09
+        },
+        "alec-radford": {
+          "x": 1279.17,
+          "y": 1178.64
+        },
+        "mikhail-parakhin": {
+          "x": 1072.54,
+          "y": 1502.69
+        },
+        "misha-bilenko": {
+          "x": 1130.39,
+          "y": 969.51
+        },
+        "jan-leike": {
+          "x": 1241.79,
+          "y": 1237.29
+        },
+        "jeff-wu": {
+          "x": 1331.89,
+          "y": 1225.79
+        },
+        "jie-tang": {
+          "x": 1027.71,
+          "y": 1283.83
+        },
+        "john-schulman": {
+          "x": 1119.14,
+          "y": 1302.7
+        },
+        "lilian-weng": {
+          "x": 1059.99,
+          "y": 1325.13
+        },
+        "long-ouyang": {
+          "x": 1275.02,
+          "y": 1258.91
+        },
+        "wojciech-zaremba": {
+          "x": 1127.57,
+          "y": 1341.45
+        },
+        "andrew-tulloch": {
+          "x": 1078.09,
+          "y": 1269.48
+        },
+        "luke-metz": {
+          "x": 1123.03,
+          "y": 1253.57
+        },
+        "prafulla-dhariwal": {
+          "x": 1326.17,
+          "y": 1268.33
+        },
+        "clement-delangue": {
+          "x": 1817.16,
+          "y": 1459.78
+        },
+        "julien-chaumond": {
+          "x": 1687.14,
+          "y": 1652.71
+        },
+        "thomas-wolf": {
+          "x": 1582.98,
+          "y": 1787.08
+        },
+        "vicki-cheung": {
+          "x": 1127.31,
+          "y": 1428.23
+        },
+        "diederik-kingma": {
+          "x": 1093.58,
+          "y": 1395.63
+        },
+        "pamela-vagata": {
+          "x": 1137.08,
+          "y": 1394.05
+        },
+        "daniela-amodei": {
+          "x": 1582.42,
+          "y": 1299.67
+        },
+        "cami-clark": {
+          "x": 1623.07,
+          "y": 1358.38
+        },
+        "geoffrey-hinton": {
+          "x": 1383.76,
+          "y": 821.41
+        },
+        "alex-krizhevsky": {
+          "x": 931.3,
+          "y": 1004.51
+        },
+        "amanda-askell": {
+          "x": 1611,
+          "y": 1147.04
+        },
+        "jack-clark": {
+          "x": 1548.35,
+          "y": 1116.73
+        },
+        "ben-mann": {
+          "x": 1509.19,
+          "y": 1025.59
+        },
+        "ruslan-salakhutdinov": {
+          "x": 1471.74,
+          "y": 719.28
+        },
+        "nitish-srivastava": {
+          "x": 1612.86,
+          "y": 765.18
+        },
+        "jared-kaplan": {
+          "x": 1576.68,
+          "y": 1026.76
+        },
+        "sam-mccandlish": {
+          "x": 1600.43,
+          "y": 1073.71
+        },
+        "tom-henighan": {
+          "x": 1534.14,
+          "y": 970.61
+        },
+        "tom-brown": {
+          "x": 1536.12,
+          "y": 1066.83
+        },
+        "nick-sivo": {
+          "x": 1045.12,
+          "y": 1830.34
+        },
+        "jony-ive": {
+          "x": 954.42,
+          "y": 1770.51
+        },
+        "satya-nadella": {
+          "x": 1442.37,
+          "y": 1533.92
+        },
+        "ben-horowitz": {
+          "x": 1029.83,
+          "y": 1965.91
+        },
+        "arvind-krishna": {
+          "x": 1479.42,
+          "y": 1560.99
+        },
+        "marc-andreessen": {
+          "x": 1171.09,
+          "y": 1984.82
+        },
+        "kevin-scott": {
+          "x": 907.77,
+          "y": 1900.77
+        },
+        "peter-thiel": {
+          "x": 987.53,
+          "y": 1210.43
+        },
+        "reid-hoffman": {
+          "x": 946.67,
+          "y": 1606.77
+        },
+        "roelof-botha": {
+          "x": 901.84,
+          "y": 1668.36
+        },
+        "ron-conway": {
+          "x": 1095.53,
+          "y": 1846.98
+        },
+        "alex-schultz": {
+          "x": 966.28,
+          "y": 1938.75
+        },
+        "ali-partovi": {
+          "x": 795.31,
+          "y": 2101.36
+        },
+        "dustin-moskovitz": {
+          "x": 1097.75,
+          "y": 1982.02
+        },
+        "hadi-partovi": {
+          "x": 929.61,
+          "y": 2174.33
+        },
+        "jack-abraham": {
+          "x": 1151.08,
+          "y": 1858.79
+        },
+        "larry-ellison": {
+          "x": 863.59,
+          "y": 1594.19
+        },
+        "steve-wozniak": {
+          "x": 855.77,
+          "y": 1848.55
+        },
+        "scott-banister": {
+          "x": 1077.03,
+          "y": 2210.3
+        },
+        "brian-chesky": {
+          "x": 999.59,
+          "y": 1803.55
+        },
+        "justin-johnson": {
+          "x": 907.5,
+          "y": 1522.51
+        },
+        "sam-bowman": {
+          "x": 1965.71,
+          "y": 1197.8
+        },
+        "neel-nanda": {
+          "x": 1931.94,
+          "y": 1034.81
+        },
+        "holden-karnofsky": {
+          "x": 1782.46,
+          "y": 1184.98
+        },
+        "catherine-olsson": {
+          "x": 1874.63,
+          "y": 1012.22
+        },
+        "danny-hernandez": {
+          "x": 1896.04,
+          "y": 1087.24
+        },
+        "deep-ganguli": {
+          "x": 1917.85,
+          "y": 1163.99
+        },
+        "ethan-perez": {
+          "x": 1851.27,
+          "y": 957.95
+        },
+        "nelson-elhage": {
+          "x": 1959.42,
+          "y": 1112.59
+        },
+        "yuntao-bai": {
+          "x": 1939.21,
+          "y": 1256.49
+        },
+        "bill-lee": {
+          "x": 719.8,
+          "y": 1492.95
+        },
+        "blake-masters": {
+          "x": 650.69,
+          "y": 1515.41
+        },
+        "cyan-banister": {
+          "x": 777.58,
+          "y": 1049.63
+        },
+        "ken-howery": {
+          "x": 695.84,
+          "y": 1430.6
+        },
+        "lisa-su": {
+          "x": 589.14,
+          "y": 1571.57
+        },
+        "luke-nosek": {
+          "x": 570.77,
+          "y": 1473.34
+        },
+        "michael-moritz": {
+          "x": 635.87,
+          "y": 1641.2
+        },
+        "stephen-oskoui": {
+          "x": 732.9,
+          "y": 1562.16
+        },
+        "zhilin-yang": {
+          "x": 1383.78,
+          "y": 396.75
+        },
+        "navdeep-jaitly": {
+          "x": 1271.29,
+          "y": 336.7
+        },
+        "volodymyr-mnih": {
+          "x": 787.55,
+          "y": 466.36
+        },
+        "alex-graves": {
+          "x": 998.37,
+          "y": 431.59
+        },
+        "daan-wierstra": {
+          "x": 933.29,
+          "y": 356.98
+        },
+        "martin-riedmiller": {
+          "x": 830.17,
+          "y": 416.91
+        },
+        "john-jumper": {
+          "x": 1071,
+          "y": 420.79
+        },
+        "karen-simonyan": {
+          "x": 900.83,
+          "y": 499.06
+        },
+        "yee-whye-teh": {
+          "x": 873.58,
+          "y": 379.95
+        },
+        "mehdi-mirza": {
+          "x": 1018.84,
+          "y": 220.11
+        },
+        "simon-osindero": {
+          "x": 944.68,
+          "y": 456.66
+        },
+        "shane-legg": {
+          "x": 828.33,
+          "y": 533.87
+        },
+        "peter-dayan": {
+          "x": 792.43,
+          "y": 597.83
+        },
+        "eliezer-yudkowsky": {
+          "x": 707.95,
+          "y": 613.67
+        },
+        "jordan-hoffmann": {
+          "x": 1041.6,
+          "y": 369
+        },
+        "armand-joulin": {
+          "x": 730.49,
+          "y": 403.95
+        },
+        "yann-lecun": {
+          "x": 903.82,
+          "y": 200.44
+        },
+        "pierre-sermanet": {
+          "x": 905.21,
+          "y": 74.93
+        },
+        "soumith-chintala": {
+          "x": 913.94,
+          "y": 824.57
+        },
+        "aidan-gomez": {
+          "x": 661.54,
+          "y": 1029.4
+        },
+        "ashish-vaswani": {
+          "x": 497.49,
+          "y": 1148.18
+        },
+        "llion-jones": {
+          "x": 501.78,
+          "y": 1008.44
+        },
+        "niki-parmar": {
+          "x": 563.99,
+          "y": 882.3
+        },
+        "ivan-zhang": {
+          "x": 497.71,
+          "y": 1075.95
+        },
+        "illia-polosukhin": {
+          "x": 525.94,
+          "y": 944.76
+        },
+        "michael-i-jordan": {
+          "x": 757.71,
+          "y": 1324.57
+        },
+        "pieter-abbeel": {
+          "x": 757.94,
+          "y": 1254.35
+        }
+      },
+      "width": 2457.3,
+      "height": 2457.3,
+      "nodes": 172,
+      "component_bounds": [
+        {
+          "x": 1228.65,
+          "y": 1228.65,
+          "radius": 1228.65,
+          "ids": [
+            "adam-dangelo",
+            "charlie-cheever",
+            "mark-zuckerberg",
+            "eric-wu",
+            "jeff-dean",
+            "daniel-gross",
+            "keith-rabois",
+            "nat-friedman",
+            "vinod-khosla",
+            "aravind-srinivas",
+            "alexandr-wang",
+            "greg-brockman",
+            "ilya-sutskever",
+            "andy-bechtolsheim",
+            "sam-altman",
+            "mike-krieger",
+            "mira-murati",
+            "bret-taylor",
+            "alexis-ohanian",
+            "david-sacks",
+            "elad-gil",
+            "garry-tan",
+            "harj-taggar",
+            "jeremy-stoppelman",
+            "max-levchin",
+            "naval-ravikant",
+            "zico-kolter",
+            "andrej-karpathy",
+            "charlie-songhurst",
+            "guillermo-rauch",
+            "fei-fei-li",
+            "dario-amodei",
+            "elon-musk",
+            "andrew-ng",
+            "sanjay-ghemawat",
+            "noam-shazeer",
+            "quoc-le",
+            "sundar-pichai",
+            "alessio-fanelli",
+            "greg-corrado",
+            "arthur-mensch",
+            "laurent-sifre",
+            "sebastian-borgeaud",
+            "sherjil-ozair",
+            "zihang-dai",
+            "david-silver",
+            "ioannis-antonoglou",
+            "jacob-devlin",
+            "demis-hassabis",
+            "koray-kavukcuoglu",
+            "ming-wei-chang",
+            "oriol-vinyals",
+            "barret-zoph",
+            "daniel-de-freitas",
+            "mustafa-suleyman",
+            "david-ha",
+            "lukasz-kaiser",
+            "shawn-wang",
+            "chris-olah",
+            "ian-goodfellow",
+            "eric-schmidt",
+            "george-cameron",
+            "micah-hill-smith",
+            "brian-armstrong",
+            "joe-lonsdale",
+            "daniel-levy",
+            "jakob-uszkoreit",
+            "jessica-livingston",
+            "paul-graham",
+            "trevor-blackwell",
+            "lucy-guo",
+            "andy-konwinski",
+            "denis-yarats",
+            "johnny-ho",
+            "jensen-huang",
+            "alec-radford",
+            "mikhail-parakhin",
+            "misha-bilenko",
+            "jan-leike",
+            "jeff-wu",
+            "jie-tang",
+            "john-schulman",
+            "lilian-weng",
+            "long-ouyang",
+            "wojciech-zaremba",
+            "andrew-tulloch",
+            "luke-metz",
+            "prafulla-dhariwal",
+            "clement-delangue",
+            "julien-chaumond",
+            "thomas-wolf",
+            "vicki-cheung",
+            "diederik-kingma",
+            "pamela-vagata",
+            "daniela-amodei",
+            "cami-clark",
+            "geoffrey-hinton",
+            "alex-krizhevsky",
+            "amanda-askell",
+            "jack-clark",
+            "ben-mann",
+            "ruslan-salakhutdinov",
+            "nitish-srivastava",
+            "jared-kaplan",
+            "sam-mccandlish",
+            "tom-henighan",
+            "tom-brown",
+            "nick-sivo",
+            "jony-ive",
+            "satya-nadella",
+            "ben-horowitz",
+            "arvind-krishna",
+            "marc-andreessen",
+            "kevin-scott",
+            "peter-thiel",
+            "reid-hoffman",
+            "roelof-botha",
+            "ron-conway",
+            "alex-schultz",
+            "ali-partovi",
+            "dustin-moskovitz",
+            "hadi-partovi",
+            "jack-abraham",
+            "larry-ellison",
+            "steve-wozniak",
+            "scott-banister",
+            "brian-chesky",
+            "justin-johnson",
+            "sam-bowman",
+            "neel-nanda",
+            "holden-karnofsky",
+            "catherine-olsson",
+            "danny-hernandez",
+            "deep-ganguli",
+            "ethan-perez",
+            "nelson-elhage",
+            "yuntao-bai",
+            "bill-lee",
+            "blake-masters",
+            "cyan-banister",
+            "ken-howery",
+            "lisa-su",
+            "luke-nosek",
+            "michael-moritz",
+            "stephen-oskoui",
+            "zhilin-yang",
+            "navdeep-jaitly",
+            "volodymyr-mnih",
+            "alex-graves",
+            "daan-wierstra",
+            "martin-riedmiller",
+            "john-jumper",
+            "karen-simonyan",
+            "yee-whye-teh",
+            "mehdi-mirza",
+            "simon-osindero",
+            "shane-legg",
+            "peter-dayan",
+            "eliezer-yudkowsky",
+            "jordan-hoffmann",
+            "armand-joulin",
+            "yann-lecun",
+            "pierre-sermanet",
+            "soumith-chintala",
+            "aidan-gomez",
+            "ashish-vaswani",
+            "llion-jones",
+            "niki-parmar",
+            "ivan-zhang",
+            "illia-polosukhin",
+            "michael-i-jordan",
+            "pieter-abbeel"
+          ]
+        }
+      ]
+    }
+  }
+}

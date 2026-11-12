@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'unsafe-inline'; img-src 'none'; font-src 'none'; connect-src 'none'; media-src 'none'; worker-src 'none'; child-src 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Model intelligence vs. cost</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --background: #fff;
+      --foreground: #1a1c1f;
+      --border: #e2dfea;
+      --muted-foreground: #6d6d7e;
+      --popover: #fff;
+      --popover-foreground: #1a1c1f;
+      --blue: #4b2b7c;
+      --font-size-base: 14px;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; }
+    body {
+      padding: 0 0 24px;
+      background: #fff;
+      color: var(--foreground);
+      font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    #model-intelligence-cost { width: 100%; max-width: 736px; margin: 0 auto; color: var(--foreground); }
+    #model-intelligence-cost h1 { margin: 1.1rem 0; font-size: clamp(1.75rem, 4.2vw, 3rem); line-height: 1.04; letter-spacing: -.045em; color: #25104f; }
+    #model-intelligence-cost h1 em { font-family: Georgia, serif; font-weight: 500; color: #4b2b7c; }
+    #model-intelligence-cost .text-small { font-size: 13px; line-height: 1.6; }
+    #model-intelligence-cost .text-muted { color: var(--muted-foreground); }
+    #model-intelligence-cost .viz-row { display: flex; flex-wrap: wrap; align-items: center; }
+    #model-intelligence-cost .frontier-key { display: flex; }
+    @media (max-width: 460px) { body { padding: 0 0 24px; } }
+  </style>
+</head>
+<body>
+<div id="model-intelligence-cost">
+  <h1>Model intelligence <em>vs. cost</em></h1>
+  <p class="text-small"><a href="model-frontier-v4-chart.html" target="_top">View archived Intelligence Index v4 chart</a></p>
+  <p class="text-small">59 model families · 20 average scores across reasoning settings · single listed setting for the rest</p>
+  <div class="chart-controls">
+  <div class="cost-switch" role="group" aria-label="Choose cost measure">
+    <button type="button" data-cost-view="price" aria-pressed="true">Blended API price</button>
+    <button type="button" data-cost-view="task" aria-pressed="false">Cost per task</button>
+  </div>
+  <div class="cost-switch" role="group" aria-label="Choose frontier type">
+    <button type="button" data-frontier-view="year" aria-pressed="true">Year-end frontiers</button>
+    <button type="button" data-frontier-view="pareto" aria-pressed="false">Pareto line</button>
+  </div>
+  </div>
+  <details class="provider-filter">
+    <summary>Providers: <span data-provider-summary>All providers</span></summary>
+    <fieldset>
+      <legend class="text-small">Choose providers to compare</legend>
+      <div class="provider-actions">
+        <button type="button" data-provider-action="all">Select all</button>
+        <button type="button" data-provider-action="clear">Clear</button>
+      </div>
+      <div class="provider-options" data-provider-options></div>
+      <p class="text-small text-muted">Frontiers use the selected providers in both cost views.</p>
+    </fieldset>
+  </details>
+  <p class="text-small text-muted" data-view-note aria-live="polite">Blended API price per million tokens · 59 families shown</p>
+  <div class="viz-row" aria-label="Color represents model release date">
+    <span class="text-small">Release date</span>
+    <span class="text-small" data-earliest-release>Earliest release</span>
+    <span class="date-ramp" aria-hidden="true"></span>
+    <span class="text-small" data-latest-release>Latest release</span>
+  </div>
+  <div class="frontier-key">
+    <span class="frontier-swatch" aria-hidden="true"></span>
+    <span class="text-small" data-frontier-key>Year-end frontiers · current</span>
+  </div>
+  <div class="chart-host">
+    <svg class="chart" role="img" aria-label="Scatter plot of model family intelligence against cost. Higher scores are higher on the chart; lower costs are farther right. Use the controls above to choose providers and blended API token price or measured cost per Intelligence Index task. Dot color shows release date. The frontier control chooses year-end frontiers or a Pareto line for the selected providers.">
+      <desc>The blended-price view shows one dot per model family, with an arithmetic mean score across reasoning settings where measured. The task-cost view shows one dot per measured model configuration and effort setting. Blended API price uses a three-to-one input to output token ratio. Each year-end frontier includes only models released by 31 December of that year.</desc>
+    </svg>
+    <div class="tooltip" role="tooltip"></div>
+  </div>
+  <p class="text-small text-muted">Data updated 12 November 2026 · Artificial Analysis Intelligence Index v5.0.1 · latest listed model release: <span class="latest-release-date">date shown on chart</span>. The blended-price view shows 59 model families, averaging scores and prices across listed settings. Prices are 3:1 input/output USD per million tokens. Only models with scores published for this index version are included; coverage of older releases may be limited. Source-estimated scores are marked in tooltips. Scores from different index versions are not directly comparable. The task-cost view shows 115 configurations with published benchmark costs, including actual token use, caching, and reasoning. Configurations without measured costs are omitted. Each year-end frontier includes models released by 31 December of its label year; “current” includes all shown releases. Frontiers use this dataset’s values, not archived historical prices or scores. The Pareto line connects models for which no selected model is both at least as capable and no more expensive, with at least one strict improvement. Colours span the earliest to latest release currently shown; all points have dark outlines for contrast.</p>
+  <p class="text-small text-muted">Sources: <a href="https://artificialanalysis.ai/models" target="_blank" rel="noopener">Artificial Analysis benchmarks and pricing</a> · <a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking" target="_blank" rel="noopener">Intelligence Index methodology</a> · <a href="https://artificialanalysis.ai/models/gemini-4-argon" target="_blank" rel="noopener">Gemini 4 Argon</a></p>
+  <style>
+    #model-intelligence-cost { width: 100%; max-width: 736px; color: var(--foreground); }
+    #model-intelligence-cost .chart-controls { display: flex; flex-wrap: wrap; gap: 8px; }
+    #model-intelligence-cost .cost-switch { display: inline-flex; gap: 4px; padding: 3px; border: 1px solid var(--border); border-radius: 7px; background: #f5f3fa; }
+    #model-intelligence-cost .cost-switch button { border: 0; border-radius: 5px; padding: 7px 10px; background: transparent; color: var(--foreground); font: inherit; cursor: pointer; }
+    #model-intelligence-cost .cost-switch button[aria-pressed="true"] { background: #25104f; color: var(--background, #fff); }
+    #model-intelligence-cost .cost-switch button:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+    #model-intelligence-cost .provider-filter { margin-top: 10px; border: 1px solid var(--border); border-radius: 7px; background: var(--popover); }
+    #model-intelligence-cost .provider-filter summary { padding: 8px 10px; cursor: pointer; }
+    #model-intelligence-cost .provider-filter summary:focus-visible,
+    #model-intelligence-cost .provider-filter button:focus-visible,
+    #model-intelligence-cost .provider-filter input:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+    #model-intelligence-cost .provider-filter fieldset { min-width: 0; margin: 0; padding: 8px 10px; border: 0; border-top: 1px solid var(--border); }
+    #model-intelligence-cost .provider-actions { display: flex; gap: 8px; margin-bottom: 8px; }
+    #model-intelligence-cost .provider-actions button { border: 1px solid var(--border); border-radius: 5px; padding: 5px 10px; background: var(--popover); color: var(--foreground); font: inherit; cursor: pointer; }
+    #model-intelligence-cost .provider-options { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 4px 12px; max-height: 200px; overflow-y: auto; padding: 3px; }
+    #model-intelligence-cost .provider-options label { display: flex; align-items: center; gap: 7px; min-height: 32px; cursor: pointer; }
+    #model-intelligence-cost .provider-options input { margin: 0; accent-color: var(--blue); }
+    #model-intelligence-cost .provider-filter p { margin: 8px 0 0; }
+    #model-intelligence-cost [data-view-note] { margin: 6px 0 0; }
+    #model-intelligence-cost .viz-row { gap: 8px; margin: 10px 0 6px; }
+    #model-intelligence-cost .frontier-key { display: flex; align-items: center; gap: 8px; margin: 0 0 2px; }
+    #model-intelligence-cost .frontier-swatch {
+      display: inline-block;
+      width: 24px;
+      height: 0;
+      border-top: 2px dotted #8b8b8b;
+    }
+    #model-intelligence-cost .date-ramp {
+      display: inline-block;
+      width: min(180px, 42vw);
+      height: 10px;
+      background: linear-gradient(90deg, #000004 0%, #4f0b6f 25%, #8c2981 45%, #de4968 65%, #fe9f6d 82%, #fcfdbf 100%);
+    }
+    #model-intelligence-cost .chart-host { position: relative; width: 100%; margin: 1rem 0; border: 1px solid var(--border); border-radius: 1rem; background: #fcfcfe; box-shadow: 0 7px 30px #25104f06; }
+    #model-intelligence-cost svg.chart { display: block; width: 100%; height: auto; overflow: visible; }
+    #model-intelligence-cost svg.chart text { fill: var(--foreground); font-family: inherit; font-size: 12px; }
+    #model-intelligence-cost .grid line { stroke: var(--border); stroke-opacity: .72; }
+    #model-intelligence-cost .plot-frame { fill: none; stroke: var(--border); stroke-width: 1; }
+    #model-intelligence-cost .axis path { stroke: var(--border); }
+    #model-intelligence-cost .axis line { stroke: var(--border); }
+    #model-intelligence-cost .axis text { fill: var(--muted-foreground); }
+    #model-intelligence-cost svg.chart .frontier-line { fill: none; stroke: #8b8b8b; stroke-width: 2; stroke-dasharray: 2 4; stroke-linecap: round; }
+    #model-intelligence-cost svg.chart .frontier-label { fill: #666; font-size: 12px; font-weight: 700; paint-order: stroke; stroke: #fff; stroke-width: 3px; stroke-linejoin: round; }
+    #model-intelligence-cost .mark { stroke: #36323d; stroke-width: 0.7px; }
+    #model-intelligence-cost .tooltip {
+      position: absolute;
+      display: none;
+      z-index: 2;
+      max-width: min(300px, calc(100% - 16px));
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      background: var(--popover);
+      color: var(--popover-foreground);
+      pointer-events: none;
+      font-size: var(--font-size-base);
+    }
+    #model-intelligence-cost .tooltip .text-small { color: var(--muted-foreground); }
+    #model-intelligence-cost a { color: var(--blue); }
+    @media (max-width: 420px) {
+      #model-intelligence-cost .date-ramp { width: min(120px, 34vw); }
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script>
+    (function () {
+      const root = document.getElementById("model-intelligence-cost");
+      const svg = d3.select(root.querySelector("svg.chart"));
+      const tip = root.querySelector(".tooltip");
+      const host = root.querySelector(".chart-host");
+      let costView = "price";
+      let frontierView = "year";
+      const records = [["gpt-oss-120b","OpenAI","2025-08-05",3.81981165137417,0.26249999999999996,1,3.81981165137417,3.81981165137417,0],["Claude 4.5 Haiku","Anthropic","2025-10-15",7.43033851624488,2,1,7.43033851624488,7.43033851624488,0],["Gemini 3.1 Flash-Lite","Google","2026-03-03",6.15684082814488,0.5625,1,6.15684082814488,6.15684082814488,0],["Mistral Small 4","Mistral","2026-03-16",4.29716249600478,0.26249999999999996,1,4.29716249600478,4.29716249600478,0],["Mistral Medium 3.5","Mistral","2026-04-29",4.64508756526957,3,1,4.64508756526957,4.64508756526957,0],["MiniMax-M3","MiniMax","2026-06-01",18.8789083859255,0.5249999999999999,1,18.8789083859255,18.8789083859255,0],["Nemotron 3 Ultra 550B A55B","NVIDIA","2026-06-04",11.7592726308177,1.125,1,11.7592726308177,11.7592726308177,0],["GPT-5.6 Luna","OpenAI","2026-07-09",23.7902433286348,0.45,1,23.7902433286348,23.7902433286348,0],["GPT-5.6 Terra","OpenAI","2026-07-09",32.3433563656461,4.5,1,32.3433563656461,32.3433563656461,0],["Inkling","Thinking Machines","2026-07-15",12.4781698715401,1.7625,1,12.4781698715401,12.4781698715401,0],["Kimi K3","Kimi","2026-07-16",17.4191985300887,6,1,17.4191985300887,17.4191985300887,0],["Gemini 3.5 Flash-Lite","Google","2026-07-21",11.6563462044212,0.85,1,11.6563462044212,11.6563462044212,0],["Claude Opus 5","Anthropic","2026-07-24",44.1646231569372,10,1,44.1646231569372,44.1646231569372,0],["Inkling Small","Thinking Machines","2026-07-30",12.9101620926084,0.5249999999999999,1,12.9101620926084,12.9101620926084,0],["Solar Pro 4","Upstage","2026-08-06",14.1589437644357,0.5249999999999999,1,14.1589437644357,14.1589437644357,0],["Muse Glimmer","Meta","2026-08-10",6.34128724913462,0.5249999999999999,1,6.34128724913462,6.34128724913462,0],["Nemotron 3.5 Lightning","NVIDIA","2026-08-11",5.5346663903388,0.095,1,5.5346663903388,5.5346663903388,0],["Grok 4.6","SpaceXAI","2026-08-12",31.028795176621,3,1,31.028795176621,31.028795176621,0],["DeepSeek V4 Pro 0813","DeepSeek","2026-08-13",17.8154460636462,1.98,2,12.5675939779921,23.0632981493003,0],["Qwen3.8 27B","Alibaba","2026-08-14",15.826692327453575,1.125,4,10.0316676028892,20.1068756031705,0],["GLM-5.3","Z AI","2026-08-18",27.380659573209947,2.15,2,23.1079373025379,31.653381843882,0],["Granite 4.2 8B","IBM","2026-08-25",5.09826495217051,0.1075,1,5.09826495217051,5.09826495217051,0],["GLM-5.3-Flash","Z AI","2026-08-26",27.803889160883,0.2375,1,27.803889160883,27.803889160883,0],["Qwen3.8-Flash-Next","Alibaba","2026-08-26",28.5750026655353,0.22999999999999998,1,28.5750026655353,28.5750026655353,0],["Apodex 1.1","Apodex","2026-08-30",13.6712884627289,0.975,1,13.6712884627289,13.6712884627289,0],["Claude Fable 5.1","Anthropic","2026-09-01",45.64241714505866,20,5,38.683648810734,50.0216384248632,0],["Gemini 3.8 Flash","Google","2026-09-02",27.824561236406367,1.5,3,22.548302237854,30.8468119957291,0],["Muse Spark 1.3","Meta","2026-09-02",36.6172039139368,2,1,36.6172039139368,36.6172039139368,0],["Qwen3.8 Max (0902)","Alibaba","2026-09-02",33.6545627367888,3,1,33.6545627367888,33.6545627367888,0],["GPT-6 Astra","OpenAI","2026-09-03",52.3798525696835,20,5,43.3349823228524,56.8538559596797,0],["Step 5 Preview","StepFun","2026-09-18",28.5283090216016,1.425,1,28.5283090216016,28.5283090216016,0],["Grok 4.7","SpaceXAI","2026-09-21",33.943128535085634,3,3,31.132077602567,35.4850117067196,0],["MiMo-V2.6-Flash","Xiaomi","2026-09-21",26.7276981444568,0.17500000000000002,1,26.7276981444568,26.7276981444568,0],["MiMo-V2.6-Pro","Xiaomi","2026-09-21",29.8897833093321,0.54375,1,29.8897833093321,29.8897833093321,0],["Claude Opus 5.5","Anthropic","2026-09-22",50.26952459029972,8,5,34.752785007759,59.1060336078904,0],["GPT-6 Luna","OpenAI","2026-09-22",18.38297631133594,0.19999999999999998,6,9.44244373619813,27.8552004938153,0],["GPT-6 Sol","OpenAI","2026-09-22",44.1555010304265,4,1,44.1555010304265,44.1555010304265,0],["Claude Sonnet 5.5","Anthropic","2026-09-28",40.48994654029886,4,5,25.649704549789,54.54133407109,0],["GPT-6.1 Sol","OpenAI","2026-09-29",47.70917607978534,4,5,34.8029244314559,54.6087338138148,0],["Gemini 4 Argon","Google","2026-09-30",50.4121935905389,4,1,50.4121935905389,50.4121935905389,0],["Mistral Large 4 Preview","Mistral","2026-10-06",25.336451488165,1.0499999999999998,1,25.336451488165,25.336451488165,0],["Claude Haiku 5.5","Anthropic","2026-10-07",28.84339319396438,0.2,5,18.6180055310996,36.4845435880142,0],["Muse Wonder","Meta","2026-10-12",42.05071525920175,8,2,40.5266079185604,43.5748225998431,0],["Muse Spark Open","Meta","2026-10-15",24.8815868992913,2,1,24.8815868992913,24.8815868992913,0],["Nemotron 3.5 Super VL","NVIDIA","2026-10-15",13.6203422723141,0.25625,1,13.6203422723141,13.6203422723141,0],["Beam 1.0","Reflection","2026-10-16",17.7307282547205,0.6000000000000001,1,17.7307282547205,17.7307282547205,0],["DeepSeek V4.1 Flash 1017","DeepSeek","2026-10-17",26.582179303729166,0.5249999999999999,3,18.5131594039446,32.5896393532027,0],["MiniMax-M3.1-Flash","MiniMax","2026-10-19",29.0595214290458,0.26249999999999996,1,29.0595214290458,29.0595214290458,0],["Ling 3.1 Flash 1019","InclusionAI","2026-10-22",29.570119369837,0.44999999999999996,1,29.570119369837,29.570119369837,0],["Kimi K3.1 Pro","Kimi","2026-10-23",46.4526236744189,4,1,46.4526236744189,46.4526236744189,0],["GPT-6.1 Terra","OpenAI","2026-10-26",39.518176022065234,2,6,29.4169280792131,51.3265188577015,0],["Gemini 4 Carbon","Google","2026-10-28",57.501710894032406,4,3,54.2206114502924,60.025738829526,0],["Mistral Large 4","Mistral","2026-10-29",24.6263634248525,1.0499999999999998,2,23.1277321742266,26.1249946754784,0],["Tencent Hy4","Tencent","2026-11-03",34.5552385392508,1.25075,1,34.5552385392508,34.5552385392508,0],["Inkling 2 Small","Thinking Machines","2026-11-05",30.6286781498958,0.475,1,30.6286781498958,30.6286781498958,0],["Agnes 2.5 Pro Theta","Sapiens AI","2026-11-07",24.029012523359,0.15000000000000002,1,24.029012523359,24.029012523359,0],["Claude Fable 5.2","Anthropic","2026-11-09",59.78709362621204,16,5,53.9249388799182,64.563595756626,0],["Muse Ember","Meta","2026-11-09",35.068129823735,0.2,2,34.1149608609788,36.0212987864912,0],["Gemini 4 Hydrogen","Google","2026-11-12",43.208234390574674,3,4,26.8936694361562,53.9192287317542,0]].map(function (r) {
+        return { name: r[0], provider: r[1], date: new Date(r[2] + "T00:00:00Z"),
+          score: r[3], price: r[4], settings: r[5], low: r[6], high: r[7], estimatedSettings: r[8] };
+      });
+      const taskRecords = [["gpt-oss-120b (High)","OpenAI","2025-08-05",3.81981165137417,0.34534207651823257,0.26249999999999996,false],["Claude 4.5 Haiku (Reasoning)","Anthropic","2025-10-15",7.43033851624488,0.5317769104171033,2,false],["Gemini 3.1 Flash-Lite","Google","2026-03-03",6.15684082814488,0.19445134743611814,0.5625,false],["Mistral Small 4 (Reasoning)","Mistral","2026-03-16",4.29716249600478,0.03990856296103761,0.26249999999999996,false],["Mistral Medium 3.5","Mistral","2026-04-29",4.64508756526957,1.0390849688366068,3,false],["MiniMax-M3","MiniMax","2026-06-01",18.8789083859255,1.2850974407373852,0.5249999999999999,false],["Nemotron 3 Ultra 550B A55B (Reasoning)","NVIDIA","2026-06-04",11.7592726308177,2.2257365504312134,1.125,false],["GPT-5.6 Luna (Max)","OpenAI","2026-07-09",23.7902433286348,0.3312633263840317,0.45,false],["GPT-5.6 Terra (Max)","OpenAI","2026-07-09",32.3433563656461,3.734901899414753,4.5,false],["Inkling (Xhigh)","Thinking Machines","2026-07-15",12.4781698715401,1.3519575079737436,1.7625,false],["Kimi K3 (Low)","Kimi","2026-07-16",17.4191985300887,2.368773852349091,6,false],["Gemini 3.5 Flash-Lite","Google","2026-07-21",11.6563462044212,0.6929018557975878,0.85,false],["Claude Opus 5 (Max)","Anthropic","2026-07-24",44.1646231569372,11.821495652976125,10,false],["Inkling Small","Thinking Machines","2026-07-30",12.9101620926084,0.20316116043899832,0.5249999999999999,false],["Solar Pro 4","Upstage","2026-08-06",14.1589437644357,0.9557366659448332,0.5249999999999999,false],["Muse Glimmer (High)","Meta","2026-08-10",6.34128724913462,0.16950439773904172,0.5249999999999999,false],["Nemotron 3.5 Lightning","NVIDIA","2026-08-11",5.5346663903388,0.31445225066768195,0.095,false],["Grok 4.6 (Xhigh)","SpaceXAI","2026-08-12",31.028795176621,4.678631982547866,3,false],["DeepSeek V4 Pro 0813 (Max)","DeepSeek","2026-08-13",23.0632981493003,1.7691338076407441,1.98,false],["DeepSeek V4 Pro 0813 (Non-reasoning)","DeepSeek","2026-08-13",12.5675939779921,0.9769879356486032,1.98,false],["Qwen3.8 27B (Low)","Alibaba","2026-08-14",15.6850612405479,1.9059046111258202,1.125,false],["Qwen3.8 27B (Medium)","Alibaba","2026-08-14",17.4831648632067,2.1600047179927624,1.125,false],["Qwen3.8 27B (Non-reasoning)","Alibaba","2026-08-14",10.0316676028892,3.7729435511821583,1.125,false],["Qwen3.8 27B (Xhigh)","Alibaba","2026-08-14",20.1068756031705,3.5295494751410654,1.125,false],["GLM-5.3 (Low)","Z AI","2026-08-18",23.1079373025379,1.5749301149593384,2.15,false],["GLM-5.3 (Max)","Z AI","2026-08-18",31.653381843882,5.009264601719954,2.15,false],["Granite 4.2 8B","IBM","2026-08-25",5.09826495217051,0.0404628507686443,0.1075,false],["GLM-5.3-Flash","Z AI","2026-08-26",27.803889160883,0.5833103440014082,0.2375,false],["Qwen3.8-Flash-Next","Alibaba","2026-08-26",28.5750026655353,0.5693810918846318,0.22999999999999998,false],["Apodex 1.1","Apodex","2026-08-30",13.6712884627289,0.764236100822604,0.975,false],["Claude Fable 5.1 (High, Default Fallback)","Anthropic","2026-09-01",47.174988245604,7.539956160226559,20,false],["Claude Fable 5.1 (Low, Default Fallback)","Anthropic","2026-09-01",38.683648810734,4.471135894646431,20,false],["Claude Fable 5.1 (Max, Default Fallback)","Anthropic","2026-09-01",49.1602124158081,12.993997201178466,20,false],["Claude Fable 5.1 (Medium, Default Fallback)","Anthropic","2026-09-01",43.171597828284,5.564264690221474,20,false],["Claude Fable 5.1 (Xhigh, Default Fallback)","Anthropic","2026-09-01",50.0216384248632,10.847474706140272,20,false],["Gemini 3.8 Flash (High)","Google","2026-09-02",30.8468119957291,7.766006178152514,1.5,false],["Gemini 3.8 Flash (Medium)","Google","2026-09-02",30.078569475636,6.258586089480771,1.5,false],["Muse Spark 1.3 (Max)","Meta","2026-09-02",36.6172039139368,2.3857813858107244,2,false],["Qwen3.8 Max (0902)","Alibaba","2026-09-02",33.6545627367888,10.023891571541945,3,false],["GPT-6 Astra (High)","OpenAI","2026-09-03",54.849838322506,3.2385719685518306,20,false],["GPT-6 Astra (Low)","OpenAI","2026-09-03",43.3349823228524,1.4237229635663595,20,false],["GPT-6 Astra (Max)","OpenAI","2026-09-03",56.8538559596797,6.244666943602518,20,false],["GPT-6 Astra (Medium)","OpenAI","2026-09-03",51.5548393864113,2.732438933013427,20,false],["GPT-6 Astra (Xhigh)","OpenAI","2026-09-03",55.3057468569681,3.6589264906126227,20,false],["Step 5 Preview","StepFun","2026-09-18",28.5283090216016,2.3452525606205166,1.425,false],["Grok 4.7 (High)","SpaceXAI","2026-09-21",35.2122962959703,6.18359556537658,3,false],["Grok 4.7 (Low)","SpaceXAI","2026-09-21",31.132077602567,2.9222013011913153,3,false],["Grok 4.7 (Xhigh)","SpaceXAI","2026-09-21",35.4850117067196,7.771539401587139,3,false],["MiMo-V2.6-Flash","Xiaomi","2026-09-21",26.7276981444568,0.12852987084014672,0.17500000000000002,false],["MiMo-V2.6-Pro","Xiaomi","2026-09-21",29.8897833093321,0.25718036275876155,0.54375,false],["Claude Opus 5.5 (High, Default Fallback)","Anthropic","2026-09-22",51.8359958227294,3.4646622820973185,8,false],["Claude Opus 5.5 (Low, Default Fallback)","Anthropic","2026-09-22",34.752785007759,0.9755293224458845,8,false],["Claude Opus 5.5 (Max, Default Fallback)","Anthropic","2026-09-22",59.1060336078904,10.036409719512749,8,false],["Claude Opus 5.5 (Medium, Default Fallback)","Anthropic","2026-09-22",48.2081024960691,2.4510894376611723,8,false],["Claude Opus 5.5 (Xhigh, Default Fallback)","Anthropic","2026-09-22",57.4447060170507,6.047194490848774,8,false],["GPT-6 Luna (High)","OpenAI","2026-09-22",21.4290170864582,0.07294776473194697,0.2,false],["GPT-6 Luna (Low)","OpenAI","2026-09-22",9.66610812336462,0.005115255188520391,0.2,false],["GPT-6 Luna (Max)","OpenAI","2026-09-22",27.8552004938153,0.15195575732105837,0.2,false],["GPT-6 Luna (Medium)","OpenAI","2026-09-22",18.4542156192416,0.042201836106537785,0.2,false],["GPT-6 Luna (Non-reasoning)","OpenAI","2026-09-22",9.44244373619813,0.07141741932294249,0.2,false],["GPT-6 Luna (Xhigh)","OpenAI","2026-09-22",23.4508728089378,0.10409320921120957,0.2,false],["GPT-6 Sol (Max)","OpenAI","2026-09-22",44.1555010304265,2.465800491412395,4,false],["Claude Sonnet 5.5 (High, Default Fallback)","Anthropic","2026-09-28",41.515109087048,1.6361294399784785,4,false],["Claude Sonnet 5.5 (Low, Default Fallback)","Anthropic","2026-09-28",25.649704549789,0.5113424463897498,4,false],["Claude Sonnet 5.5 (Max, Default Fallback)","Anthropic","2026-09-28",54.54133407109,10.020621343395753,4,false],["Claude Sonnet 5.5 (Medium, Default Fallback)","Anthropic","2026-09-28",30.8195522148431,0.7806560352024481,4,false],["Claude Sonnet 5.5 (Xhigh, Default Fallback)","Anthropic","2026-09-28",49.9240327787242,4.091984916321919,4,false],["GPT-6.1 Sol (High)","OpenAI","2026-09-29",50.3291231936536,0.5909853515780825,4,false],["GPT-6.1 Sol (Low)","OpenAI","2026-09-29",34.8029244314559,0.16147357831822573,4,false],["GPT-6.1 Sol (Max)","OpenAI","2026-09-29",54.6087338138148,1.2720632679446995,4,false],["GPT-6.1 Sol (Medium)","OpenAI","2026-09-29",46.3468797067114,0.3593898648025732,4,false],["GPT-6.1 Sol (Xhigh)","OpenAI","2026-09-29",52.458219253291,0.7639949356156494,4,false],["Gemini 4 Argon (High)","Google","2026-09-30",50.4121935905389,4.973304355775267,4,false],["Mistral Large 4 Preview","Mistral","2026-10-06",25.336451488165,4.208903290646695,1.0499999999999998,false],["Claude Haiku 5.5 (High)","Anthropic","2026-10-07",29.874315467743,0.15856031956679498,0.2,false],["Claude Haiku 5.5 (Low)","Anthropic","2026-10-07",18.6180055310996,0.043757686381988486,0.2,false],["Claude Haiku 5.5 (Max)","Anthropic","2026-10-07",36.4845435880142,0.41100741536816304,0.2,false],["Claude Haiku 5.5 (Medium)","Anthropic","2026-10-07",24.6013254343023,0.0917645584066771,0.2,false],["Claude Haiku 5.5 (Xhigh)","Anthropic","2026-10-07",34.6387759486628,0.24836110126596478,0.2,false],["Muse Wonder (High)","Meta","2026-10-12",40.5266079185604,4.560546278670271,8,false],["Muse Wonder (Max)","Meta","2026-10-12",43.5748225998431,6.9520364786062245,8,false],["Muse Spark Open (Xhigh)","Meta","2026-10-15",24.8815868992913,2.0176680435839316,2,false],["Nemotron 3.5 Super VL","NVIDIA","2026-10-15",13.6203422723141,0.5196327287868884,0.25625,false],["Beam 1.0","Reflection","2026-10-16",17.7307282547205,0.28440671352465285,0.6000000000000001,false],["DeepSeek V4.1 Flash 1017 (High)","DeepSeek","2026-10-17",28.6437391540402,0.45619449806633267,0.5249999999999999,false],["DeepSeek V4.1 Flash 1017 (Max)","DeepSeek","2026-10-17",32.5896393532027,0.60210514783598,0.5249999999999999,false],["DeepSeek V4.1 Flash 1017 (Non-reasoning)","DeepSeek","2026-10-17",18.5131594039446,0.4254202455035728,0.5249999999999999,false],["MiniMax-M3.1-Flash","MiniMax","2026-10-19",29.0595214290458,0.49097067348453205,0.26249999999999996,false],["Ling 3.1 Flash 1019","InclusionAI","2026-10-22",29.570119369837,3.185145018337793,0.44999999999999996,false],["Kimi K3.1 Pro","Kimi","2026-10-23",46.4526236744189,3.6812002895742055,4,false],["GPT-6.1 Terra (High)","OpenAI","2026-10-26",42.4344508712563,0.2592796466169722,2,false],["GPT-6.1 Terra (Low)","OpenAI","2026-10-26",29.4169280792131,0.07133756205169729,2,false],["GPT-6.1 Terra (Max)","OpenAI","2026-10-26",51.3265188577015,0.961108031081634,2,false],["GPT-6.1 Terra (Medium)","OpenAI","2026-10-26",38.1652076677975,0.16880458238389412,2,false],["GPT-6.1 Terra (Non-reasoning)","OpenAI","2026-10-26",30.515898867357,0.22589585897456366,2,false],["GPT-6.1 Terra (Xhigh)","OpenAI","2026-10-26",45.250051789066,0.40068900166662513,2,false],["Gemini 4 Carbon (High)","Google","2026-10-28",60.025738829526,5.484780948230178,4,false],["Gemini 4 Carbon (Low)","Google","2026-10-28",54.2206114502924,5.221404723668021,4,false],["Gemini 4 Carbon (Medium)","Google","2026-10-28",58.2587824022788,4.677653677420589,4,false],["Mistral Large 4 (High)","Mistral","2026-10-29",26.1249946754784,2.0617306268126856,1.0499999999999998,false],["Mistral Large 4 (Medium)","Mistral","2026-10-29",23.1277321742266,1.4120973060945472,1.0499999999999998,false],["Tencent Hy4","Tencent","2026-11-03",34.5552385392508,1.0311060706397974,1.25075,false],["Inkling 2 Small","Thinking Machines","2026-11-05",30.6286781498958,1.1784281349617984,0.475,false],["Agnes 2.5 Pro Theta","Sapiens AI","2026-11-07",24.029012523359,0.5746675567739363,0.15000000000000002,false],["Claude Fable 5.2 (High, Default Fallback)","Anthropic","2026-11-09",61.8218785440284,9.078414777860381,16,false],["Claude Fable 5.2 (Low, Default Fallback)","Anthropic","2026-11-09",53.9249388799182,3.097241904274546,16,false],["Claude Fable 5.2 (Max, Default Fallback)","Anthropic","2026-11-09",64.563595756626,26.53855780398091,16,false],["Claude Fable 5.2 (Medium, Default Fallback)","Anthropic","2026-11-09",56.4083157101519,3.8026050641787634,16,false],["Claude Fable 5.2 (Xhigh, Default Fallback)","Anthropic","2026-11-09",62.2167392403357,14.828587632511116,16,false],["Muse Ember (Max)","Meta","2026-11-09",36.0212987864912,0.1359356168986363,0.2,false],["Muse Ember (Xhigh)","Meta","2026-11-09",34.1149608609788,0.1162277983030469,0.2,false],["Gemini 4 Hydrogen (High)","Google","2026-11-12",50.7870826951304,1.8733140062520008,3,false],["Gemini 4 Hydrogen (Low)","Google","2026-11-12",26.8936694361562,0.2922227000200506,3,false],["Gemini 4 Hydrogen (Medium)","Google","2026-11-12",41.2329566992579,0.7979866055252406,3,false],["Gemini 4 Hydrogen (Xhigh)","Google","2026-11-12",53.9192287317542,3.1601590757006157,3,false]].map(function (r) {
+        return { name: r[0], provider: r[1], date: new Date(r[2] + "T00:00:00Z"),
+          score: r[3], taskCost: r[4], price: r[5], estimated: r[6] };
+      });
+      const providers = Array.from(new Set(records.concat(taskRecords).map(function (d) {
+        return d.provider;
+      }))).sort(function (a, b) { return a.localeCompare(b); });
+      const selectedProviders = new Set(providers);
+      const providerOptions = root.querySelector("[data-provider-options]");
+      providers.forEach(function (provider) {
+        const label = document.createElement("label");
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.dataset.provider = provider;
+        checkbox.checked = true;
+        label.append(checkbox, document.createTextNode(provider));
+        providerOptions.append(label);
+        checkbox.addEventListener("change", function () {
+          if (checkbox.checked) selectedProviders.add(provider); else selectedProviders.delete(provider);
+          draw();
+        });
+      });
+      root.querySelectorAll("[data-provider-action]").forEach(function (button) {
+        button.addEventListener("click", function () {
+          selectedProviders.clear();
+          if (button.dataset.providerAction === "all") {
+            providers.forEach(function (provider) { selectedProviders.add(provider); });
+          }
+          providerOptions.querySelectorAll("input").forEach(function (checkbox) {
+            checkbox.checked = selectedProviders.has(checkbox.dataset.provider);
+          });
+          draw();
+        });
+      });
+      const latestReleaseDate = d3.max(records, function (d) { return d.date; });
+      const latestReleaseLabel = d3.utcFormat("%d %b %Y")(latestReleaseDate);
+      root.querySelector(".latest-release-date").textContent = latestReleaseLabel;
+      function cross(a, b, c) {
+        const ax = Math.log(a.cost), bx = Math.log(b.cost), cx = Math.log(c.cost);
+        return (bx - ax) * (c.score - a.score) - (b.score - a.score) * (cx - ax);
+      }
+      function buildFrontier(source, label) {
+        if (!source.length) return null;
+        const sortedPrices = source.slice().sort(function (a, b) {
+          return a.cost - b.cost || b.score - a.score;
+        });
+        const priceLeaders = sortedPrices.filter(function (d, i) {
+          return i === 0 || d.cost !== sortedPrices[i - 1].cost;
+        });
+        if (priceLeaders.length === 1) {
+          return { label: label, slope: 0, intercept: priceLeaders[0].score };
+        }
+        const upperHull = [];
+        priceLeaders.forEach(function (d) {
+          while (upperHull.length >= 2 && cross(upperHull[upperHull.length - 2], upperHull[upperHull.length - 1], d) >= 0) {
+            upperHull.pop();
+          }
+          upperHull.push(d);
+        });
+        const bestScore = d3.max(source, function (d) { return d.score; });
+        const bestScoreIndex = upperHull.findIndex(function (d) { return d.score === bestScore; });
+        const pair = bestScoreIndex > 0
+          ? [upperHull[bestScoreIndex - 1], upperHull[bestScoreIndex]]
+          : upperHull.slice(0, 2);
+        const slope = (pair[1].score - pair[0].score) /
+          (Math.log(pair[1].cost) - Math.log(pair[0].cost));
+        return { label: label, slope: slope, intercept: pair[0].score - slope * Math.log(pair[0].cost) };
+      }
+      function paretoPoints(source) {
+        const sorted = source.slice().sort(function (a, b) {
+          return a.cost - b.cost || b.score - a.score;
+        });
+        let best = -Infinity;
+        return sorted.filter(function (d) {
+          if (d.score <= best) return false;
+          best = d.score;
+          return true;
+        });
+      }
+      const firstReleaseYear = d3.min(records, function (d) { return d.date.getUTCFullYear(); });
+      const currentYear = latestReleaseDate.getUTCFullYear();
+      const magmaStops = d3.range(33).map(function (i) {
+        const t = i / 32;
+        return d3.interpolateMagma(t) + " " + (t * 100) + "%";
+      });
+      const dateRamp = root.querySelector(".date-ramp");
+      const dateFormat = d3.utcFormat("%b %-d, %Y");
+      const money = function (v) {
+        if (v >= 100) return "$" + d3.format(".0f")(v);
+        if (v >= 10) return "$" + d3.format(".1f")(v).replace(/\.0$/, "");
+        if (v >= 1) return "$" + d3.format(".2f")(v).replace(/0+$/, "").replace(/\.$/, "");
+        return "$" + d3.format(".2~g")(v);
+      };
+      const taskMoney = function (v) {
+        return "$" + d3.format(v < 0.01 ? ".3~g" : ".3~f")(v);
+      };
+      const esc = function (s) {
+        return String(s).replace(/[&<>"']/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+        });
+      };
+      let tree;
+      let hideTimer;
+      function hideTip() { tip.style.display = "none"; }
+      function showTip(d, event) {
+        clearTimeout(hideTimer);
+        const effortLine = costView === "task" ? "" : d.settings > 1
+          ? "<div>" + d.settings + " settings averaged · range " + d.low.toFixed(1) + "–" + d.high.toFixed(1) + "</div>"
+          : "<div>Single listed setting</div>";
+        const costLine = costView === "task"
+          ? "<div>" + taskMoney(d.taskCost) + " / Intelligence Index task</div>" +
+            (Number.isFinite(d.price) ? "<div class=\"text-small\">" + money(d.price) + " / 1M tokens blended</div>" : "")
+          : "<div>" + money(d.price) + " / 1M tokens blended</div>";
+        tip.innerHTML = "<strong>" + esc(d.name) + "</strong>" +
+          '<div class="text-small">' + esc(d.provider) + " · released " + dateFormat(d.date) + "</div>" +
+          "<div>" + (costView === "price" ? "Mean score " : "Index score ") + d.score.toFixed(2) + "</div>" +
+          costLine + effortLine + (d.estimatedSettings > 0
+            ? "<div class=\"text-small\">Source estimates: " + d.estimatedSettings + " of " + d.settings + " settings</div>"
+            : d.estimated ? "<div class=\"text-small\">Source-estimated index score</div>" : "");
+        tip.style.display = "block";
+        const box = host.getBoundingClientRect();
+        const x0 = event.clientX - box.left + 12;
+        const y0 = event.clientY - box.top + 12;
+        const left = Math.max(4, Math.min(x0, box.width - tip.offsetWidth - 4));
+        const top = Math.max(4, Math.min(y0, box.height - tip.offsetHeight - 4));
+        tip.style.left = left + "px";
+        tip.style.top = top + "px";
+      }
+      function draw() {
+        hideTip();
+        root.querySelector("[data-provider-summary]").textContent = selectedProviders.size === providers.length
+          ? "All providers" : selectedProviders.size === 0 ? "None selected"
+          : selectedProviders.size <= 2 ? providers.filter(function (provider) {
+            return selectedProviders.has(provider);
+          }).join(", ") : selectedProviders.size + " selected";
+        const activeRecords = (costView === "price" ? records : taskRecords).filter(function (d) {
+          return selectedProviders.has(d.provider);
+        }).map(function (d) {
+          return Object.assign({ cost: costView === "price" ? d.price : d.taskCost }, d);
+        });
+        const visibleDates = d3.extent(activeRecords, function (d) { return d.date; });
+        const hasDates = activeRecords.length > 0;
+        const singleDate = hasDates && +visibleDates[0] === +visibleDates[1];
+        const formatRelease = d3.utcFormat("%d %b %Y");
+        root.querySelector("[data-earliest-release]").textContent = hasDates
+          ? formatRelease(visibleDates[0]) : "No models shown";
+        root.querySelector("[data-latest-release]").textContent = hasDates
+          ? formatRelease(visibleDates[1]) : "";
+        dateRamp.style.background = !hasDates ? "#d3d3d3" : singleDate
+          ? d3.interpolateMagma(0.5) : "linear-gradient(90deg, " + magmaStops.join(", ") + ")";
+        const color = hasDates && !singleDate
+          ? d3.scaleSequential(visibleDates, d3.interpolateMagma)
+          : function () { return d3.interpolateMagma(0.5); };
+        root.querySelector("[data-view-note]").textContent = costView === "price"
+          ? "Blended API price per million tokens · " + activeRecords.length + " families shown"
+          : "Measured Intelligence Index cost per task · " + activeRecords.length + " configurations shown";
+        root.querySelectorAll("[data-cost-view]").forEach(function (button) {
+          button.setAttribute("aria-pressed", String(button.dataset.costView === costView));
+        });
+        root.querySelectorAll("[data-frontier-view]").forEach(function (button) {
+          button.setAttribute("aria-pressed", String(button.dataset.frontierView === frontierView));
+        });
+        root.querySelector("[data-frontier-key]").textContent = frontierView === "year"
+          ? "Year-end frontiers · current" : "Pareto line · selected providers";
+        const frontiers = [];
+        for (let year = firstReleaseYear; year < currentYear; year += 1) {
+          const yearEnd = new Date(Date.UTC(year, 11, 31, 23, 59, 59, 999));
+          const frontier = buildFrontier(activeRecords.filter(function (d) { return d.date <= yearEnd; }), String(year));
+          if (frontier) frontiers.push(frontier);
+        }
+        const currentFrontier = buildFrontier(activeRecords, "current");
+        if (currentFrontier) frontiers.push(currentFrontier);
+        const width = Math.max(320, Math.round(host.getBoundingClientRect().width));
+        const height = width < 460 ? 470 : 520;
+        const margin = { top: 16, right: 16, bottom: 76, left: 68 };
+        const plotW = width - margin.left - margin.right;
+        const plotH = height - margin.top - margin.bottom;
+        svg.attr("viewBox", "0 0 " + width + " " + height);
+        svg.selectAll("*:not(title):not(desc)").remove();
+        if (!activeRecords.length) {
+          tree = null;
+          svg.attr("viewBox", "0 0 " + width + " 120");
+          svg.append("text").attr("text-anchor", "middle")
+            .attr("x", width / 2).attr("y", 50)
+            .text(selectedProviders.size ? "No models with this cost measure." : "No providers selected.");
+          svg.append("text").attr("text-anchor", "middle")
+            .attr("x", width / 2).attr("y", 74).text("Choose providers above to show models.");
+          return;
+        }
+        const g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        const priceExtent = d3.extent(activeRecords, function (d) { return d.cost; });
+        const scoreExtent = d3.extent(activeRecords, function (d) { return d.score; });
+        const x = d3.scaleLog()
+          .domain([Math.max(0.001, priceExtent[0] / 1.4), priceExtent[1] * 1.4])
+          .range([plotW, 0])
+          .clamp(true);
+        const yPad = Math.max(1, (scoreExtent[1] - scoreExtent[0]) * 0.06);
+        const y = d3.scaleLinear()
+          .domain([Math.min(0, scoreExtent[0]), scoreExtent[1] + yPad])
+          .range([plotH, 0])
+          .nice();
+        g.append("rect").attr("class", "plot-frame")
+          .attr("data-chart-frame", "")
+          .attr("x", 0).attr("y", 0).attr("width", plotW).attr("height", plotH);
+        const yAxis = d3.axisLeft(y).ticks(width < 420 ? 4 : 6).tickSize(-plotW).tickPadding(7);
+        g.append("g").attr("class", "grid").call(yAxis.tickFormat(""));
+        const costTicks = [0.001, 0.01, 0.1, 1, 10, 100, 1000].filter(function (v) {
+          return v >= priceExtent[0] / 1.4 && v <= priceExtent[1] * 1.4;
+        });
+        if (width < 420 && costTicks.length > 4) costTicks.splice(1, costTicks.length - 3);
+        const xAxis = d3.axisBottom(x).tickValues(costTicks).tickFormat(money).tickSize(-plotH).tickPadding(8);
+        g.append("g").attr("class", "grid").attr("transform", "translate(0," + plotH + ")")
+          .call(xAxis.tickFormat(""));
+        g.append("g").attr("class", "axis").call(d3.axisLeft(y).ticks(width < 420 ? 4 : 6).tickSize(0).tickPadding(7));
+        g.append("g").attr("class", "axis").attr("transform", "translate(0," + plotH + ")")
+          .call(d3.axisBottom(x).tickValues(costTicks).tickFormat(money).tickSize(0).tickPadding(8));
+        svg.append("text").attr("class", "axis-title").attr("data-axis", "y")
+          .attr("text-anchor", "middle")
+          .attr("transform", "translate(15," + (margin.top + plotH / 2) + ") rotate(-90)")
+          .text("Intelligence Index score");
+        svg.append("text").attr("class", "axis-title").attr("data-axis", "x")
+          .attr("text-anchor", "middle")
+          .attr("x", margin.left + plotW / 2).attr("y", height - 12)
+          .text(costView === "price" ? "Blended API price per 1M tokens · cheaper to the right" : "Measured cost per Intelligence Index task · cheaper to the right");
+        const frontierGeometry = (frontierView === "year" ? frontiers : []).map(function (frontier) {
+          const intercept = frontier.intercept;
+          let logMin = Math.log(x.domain()[0]);
+          let logMax = Math.log(x.domain()[1]);
+          if (frontier.slope !== 0) {
+            const yDomain = y.domain();
+            const logScoreMin = (yDomain[0] - intercept) / frontier.slope;
+            const logScoreMax = (yDomain[1] - intercept) / frontier.slope;
+            logMin = Math.max(logMin, Math.min(logScoreMin, logScoreMax));
+            logMax = Math.min(logMax, Math.max(logScoreMin, logScoreMax));
+          }
+          const points = [logMin, logMax].map(function (logPrice) {
+            return { cost: Math.exp(logPrice), score: intercept + frontier.slope * logPrice };
+          });
+          const left = points[1], right = points[0];
+          const leftX = x(left.cost), leftY = y(left.score);
+          const rightX = x(right.cost), rightY = y(right.score);
+          const dx = rightX - leftX, dy = rightY - leftY;
+          const length = Math.hypot(dx, dy) || 1;
+          const roomAbove = 22;
+          const shiftAlong = leftY < roomAbove && dy > 0
+            ? (roomAbove - leftY) * dx / dy
+            : 0;
+          const anchorX = leftX + shiftAlong;
+          const anchorY = leftY + shiftAlong * dy / dx;
+          return {
+            label: frontier.label,
+            points: points,
+            angle: Math.atan2(dy, dx) * 180 / Math.PI,
+            labelX: Math.max(2, Math.min(plotW - 44, anchorX + dy / length * 6)),
+            labelY: anchorY - dx / length * 6,
+          };
+        });
+        const frontierLine = d3.line()
+          .x(function (d) { return x(d.cost); })
+          .y(function (d) { return y(d.score); });
+        g.append("g").attr("class", "frontier-lines").attr("aria-hidden", "true")
+          .selectAll("path").data(frontierGeometry).join("path")
+          .attr("class", "frontier-line").attr("d", function (d) { return frontierLine(d.points); });
+        if (frontierView === "pareto") {
+          g.append("path").datum(paretoPoints(activeRecords))
+            .attr("class", "frontier-line pareto-line").attr("aria-hidden", "true")
+            .attr("d", frontierLine);
+        }
+        g.append("g").attr("class", "marks").selectAll("circle").data(activeRecords).join("circle")
+          .attr("class", "mark").attr("cx", function (d) { return x(d.cost); })
+          .attr("cy", function (d) { return y(d.score); }).attr("r", 4.2)
+          .attr("fill", function (d) { return color(d.date); })
+          .attr("opacity", 0.82)
+          .attr("aria-label", function (d) {
+            return d.name + ", " + d.provider + ", " + (costView === "price" ? "mean score " : "index score ") + d.score.toFixed(2) + ", " +
+              (costView === "price" ? money(d.price) + " per million tokens" : taskMoney(d.taskCost) + " per Intelligence Index task");
+          })
+          .append("title").text(function (d) { return d.name + " · " + d.score.toFixed(2) + " · " +
+            (costView === "price" ? money(d.price) + "/1M" : taskMoney(d.taskCost) + "/task"); });
+        g.append("g").attr("class", "frontier-labels").attr("aria-hidden", "true")
+          .selectAll("text").data(frontierGeometry).join("text")
+          .attr("class", "frontier-label")
+          .attr("x", function (d) { return d.labelX; })
+          .attr("y", function (d) { return d.labelY; })
+          .attr("transform", function (d) { return "rotate(" + d.angle + " " + d.labelX + " " + d.labelY + ")"; })
+          .attr("pointer-events", "none")
+          .text(function (d) { return d.label; });
+        tree = d3.quadtree(activeRecords, function (d) { return x(d.cost); }, function (d) { return y(d.score); });
+        g.append("rect").attr("data-chart-hit", "").attr("data-chart-hover-overlay", "nearest-point")
+          .attr("x", 0).attr("y", 0).attr("width", plotW).attr("height", plotH)
+          .attr("fill", "transparent").attr("pointer-events", "all")
+          .on("pointermove", function (event) {
+            const p = d3.pointer(event, this);
+            const nearest = tree.find(p[0], p[1], 22);
+            if (nearest) showTip(nearest, event); else hideTip();
+          })
+          .on("pointerdown", function (event) {
+            const p = d3.pointer(event, this);
+            const nearest = tree.find(p[0], p[1], 22);
+            if (nearest) showTip(nearest, event);
+          })
+          .on("pointerleave", hideTip);
+      }
+      root.querySelectorAll("[data-cost-view]").forEach(function (button) {
+        button.addEventListener("click", function () {
+          if (costView !== button.dataset.costView) {
+            costView = button.dataset.costView;
+            draw();
+          }
+        });
+      });
+      root.querySelectorAll("[data-frontier-view]").forEach(function (button) {
+        button.addEventListener("click", function () {
+          if (frontierView !== button.dataset.frontierView) {
+            frontierView = button.dataset.frontierView;
+            draw();
+          }
+        });
+      });
+      new ResizeObserver(draw).observe(host);
+      draw();
+    })();
+  </script>
+</div>
+
+
+
+<script>
+  (function () {
+    if (window.parent === window) return;
+    const chart = document.getElementById('model-intelligence-cost');
+    function reportHeight() {
+      const bottom = Math.max(chart.getBoundingClientRect().bottom, document.body.getBoundingClientRect().bottom);
+      window.parent.postMessage({ type: 'model-frontier-frame-height', height: Math.ceil(bottom + window.scrollY) }, '*');
+    }
+    const observer = new ResizeObserver(reportHeight);
+    observer.observe(chart);
+    observer.observe(document.body);
+    window.addEventListener('resize', reportHeight);
+    window.addEventListener('message', function (event) {
+      if (event.source === window.parent && event.data?.type === 'model-frontier-measure') reportHeight();
+    });
+    reportHeight();
+  })();
+</script>
+</body>
+</html>
+
