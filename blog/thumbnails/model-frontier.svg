@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<title>Model frontier: intelligence and cost</title><desc>Scatterplot of AI model intelligence against measured benchmark task cost, based on a November 2026 snapshot. A line marks the cost-performance frontier.</desc>
+<rect width="1200" height="1500" fill="#fff"/><g font-family="Arial, Helvetica, sans-serif">
+<text x="88" y="122" fill="#25104f" font-size="78" font-weight="700">THE MODEL</text><text x="88" y="213" fill="#25104f" font-size="78" font-weight="700">FRONTIER</text>
+<text x="92" y="276" fill="#253047" font-size="30">How much intelligence can a dollar buy?</text>
+<text x="92" y="320" fill="#657391" font-size="24">Model configurations · November 2026 snapshot</text>
+<text x="154" y="397" fill="#253047" font-size="24" font-weight="700">Artificial Analysis Intelligence Index</text>
+<path d="M154 1070.0H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="1079.0" text-anchor="end" fill="#657391" font-size="23">0</text>
+<path d="M154 971.5H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="980.5" text-anchor="end" fill="#657391" font-size="23">10</text>
+<path d="M154 873.1H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="882.1" text-anchor="end" fill="#657391" font-size="23">20</text>
+<path d="M154 774.6H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="783.6" text-anchor="end" fill="#657391" font-size="23">30</text>
+<path d="M154 676.2H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="685.2" text-anchor="end" fill="#657391" font-size="23">40</text>
+<path d="M154 577.7H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="586.7" text-anchor="end" fill="#657391" font-size="23">50</text>
+<path d="M154 479.2H1100" stroke="#dfe5ef" stroke-width="2"/><text x="136" y="488.2" text-anchor="end" fill="#657391" font-size="23">60</text>
+<path d="M231.0 430V1070" stroke="#dfe5ef" stroke-width="2"/><text x="231.0" y="1110" text-anchor="middle" fill="#657391" font-size="23">$10</text>
+<path d="M486.7 430V1070" stroke="#dfe5ef" stroke-width="2"/><text x="486.7" y="1110" text-anchor="middle" fill="#657391" font-size="23">$1</text>
+<path d="M742.5 430V1070" stroke="#dfe5ef" stroke-width="2"/><text x="742.5" y="1110" text-anchor="middle" fill="#657391" font-size="23">$0.10</text>
+<path d="M998.2 430V1070" stroke="#dfe5ef" stroke-width="2"/><text x="998.2" y="1110" text-anchor="middle" fill="#657391" font-size="23">$0.01</text>
+<circle cx="844.5" cy="1027.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="458.9" cy="885.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="397.9" cy="954.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="453.2" cy="947.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="391.0" cy="898.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="527.5" cy="955.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="663.8" cy="942.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="689.6" cy="1007.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="624.3" cy="1015.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="423.4" cy="842.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="415.1" cy="915.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="401.2" cy="897.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="339.3" cy="971.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="346.7" cy="872.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="436.3" cy="843.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="307.8" cy="758.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="843.0" cy="1019.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="546.6" cy="796.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="262.4" cy="607.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="320.4" cy="691.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="201.9" cy="587.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="296.1" cy="646.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="222.0" cy="580.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="259.1" cy="769.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="283.0" cy="774.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="390.2" cy="711.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="230.7" cy="739.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="356.2" cy="529.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="447.5" cy="646.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="283.3" cy="510.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="375.1" cy="563.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="342.7" cy="525.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="392.1" cy="789.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="284.4" cy="725.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="367.6" cy="765.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="259.0" cy="722.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="714.6" cy="806.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="637.6" cy="775.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="348.7" cy="561.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="489.5" cy="730.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="230.6" cy="494.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="387.2" cy="596.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="286.9" cy="508.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="777.5" cy="859.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="1072.7" cy="974.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="696.0" cy="796.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="838.3" cy="889.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="779.9" cy="977.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="738.0" cy="840.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="432.1" cy="665.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="561.2" cy="820.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="230.8" cy="535.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="514.2" cy="771.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="330.2" cy="581.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="545.2" cy="575.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="689.3" cy="730.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="460.0" cy="533.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="600.4" cy="615.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="516.6" cy="555.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="260.3" cy="573.6" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="327.1" cy="821.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="691.3" cy="778.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="834.3" cy="886.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="585.5" cy="713.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="752.0" cy="828.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="641.4" cy="731.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="271.4" cy="643.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="408.8" cy="827.0" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="555.5" cy="935.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="626.4" cy="895.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="543.1" cy="750.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="581.7" cy="887.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="565.7" cy="785.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="358.1" cy="779.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="342.0" cy="617.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="636.7" cy="653.2" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="780.0" cy="782.3" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="491.1" cy="568.1" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="684.3" cy="694.7" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="652.0" cy="770.5" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="588.3" cy="627.4" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="259.2" cy="484.9" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="277.4" cy="501.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="406.4" cy="813.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<circle cx="448.4" cy="842.8" r="6.5" fill="#8ca4b7" fill-opacity=".62"/>
+<polyline points="259.2,484.9 277.4,501.8 286.9,508.8 342.7,525.9 356.2,529.9 460.0,533.3 516.6,555.0 545.2,575.4 600.4,615.6 636.7,653.2 684.3,694.7 689.3,730.3 691.3,778.3 780.0,782.3 834.3,886.7 838.3,889.8 1072.7,974.8" fill="none" stroke="#00aa9a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="259.2" cy="484.9" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="277.4" cy="501.8" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="286.9" cy="508.8" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="342.7" cy="525.9" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="356.2" cy="529.9" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="460.0" cy="533.3" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="516.6" cy="555.0" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="545.2" cy="575.4" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="600.4" cy="615.6" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="636.7" cy="653.2" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="684.3" cy="694.7" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="689.3" cy="730.3" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="691.3" cy="778.3" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="780.0" cy="782.3" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="834.3" cy="886.7" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="838.3" cy="889.8" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<circle cx="1072.7" cy="974.8" r="8" fill="#00aa9a" stroke="#fff" stroke-width="3"/>
+<text x="627" y="1160" text-anchor="middle" fill="#253047" font-size="25" font-weight="700">Cost per benchmark task · USD, logarithmic scale</text>
+<text x="627" y="1194" text-anchor="middle" fill="#657391" font-size="21">Lower cost →</text>
+<path d="M92 1248H1110" stroke="#dfe5ef" stroke-width="2"/>
+<circle cx="104" cy="1293" r="9" fill="#8ca4b7"/><text x="126" y="1301" fill="#253047" font-size="23">Model configurations</text><path d="M610 1293h46" stroke="#00aa9a" stroke-width="5"/><circle cx="633" cy="1293" r="8" fill="#00aa9a"/><text x="675" y="1301" fill="#253047" font-size="23">Cost-performance frontier</text>
+<text x="92" y="1360" fill="#25104f" font-size="27" font-weight="700">Explore how the frontier has changed over time.</text>
+<text x="92" y="1420" fill="#657391" font-size="20">Source: Artificial Analysis · Snapshot, November 2026</text><text x="1110" y="1470" text-anchor="end" fill="#4b2b7c" font-size="20">octavejagora.com</text></g></svg>

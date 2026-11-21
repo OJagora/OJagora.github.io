@@ -1,0 +1,89 @@
+{
+  "_AiEfficiencyPage-!~{007}~.js": {
+    "file": "assets/AiEfficiencyPage-LMT_oBdV.css",
+    "src": "_AiEfficiencyPage-!~{007}~.js"
+  },
+  "index.html": {
+    "file": "assets/index-DHhsJXs1.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/AiProfitabilityPage.jsx",
+      "src/components/AiUsageGrowthPage.jsx",
+      "src/components/AiEfficiencyPage.jsx",
+      "src/components/AiAccessGapPage.jsx",
+      "src/components/AiInnerCirclePage.jsx",
+      "src/components/AiProfitabilityPage.jsx",
+      "src/components/AiUsageGrowthPage.jsx",
+      "src/components/AiInnerCirclePage.jsx",
+      "src/components/AiAccessGapPage.jsx",
+      "src/components/AiEfficiencyPage.jsx"
+    ],
+    "css": [
+      "assets/index-DDh5WZqQ.css"
+    ]
+  },
+  "src/components/AiAccessGapPage.jsx": {
+    "file": "assets/AiAccessGapPage-s-jdFSHs.js",
+    "name": "AiAccessGapPage",
+    "src": "src/components/AiAccessGapPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiAccessGapPage-C3q2BQJE.css",
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  },
+  "src/components/AiEfficiencyPage.jsx": {
+    "file": "assets/AiEfficiencyPage-DNvpto1F.js",
+    "name": "AiEfficiencyPage",
+    "src": "src/components/AiEfficiencyPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  },
+  "src/components/AiInnerCirclePage.jsx": {
+    "file": "assets/AiInnerCirclePage-Cgr14YAU.js",
+    "name": "AiInnerCirclePage",
+    "src": "src/components/AiInnerCirclePage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiInnerCirclePage-sVJOiq2A.css"
+    ]
+  },
+  "src/components/AiProfitabilityPage.jsx": {
+    "file": "assets/AiProfitabilityPage-DfZrzbqr.js",
+    "name": "AiProfitabilityPage",
+    "src": "src/components/AiProfitabilityPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiProfitabilityPage-W7y4hBla.css"
+    ]
+  },
+  "src/components/AiUsageGrowthPage.jsx": {
+    "file": "assets/AiUsageGrowthPage-er6zFpLs.js",
+    "name": "AiUsageGrowthPage",
+    "src": "src/components/AiUsageGrowthPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/AiUsageGrowthPage-30fZhIsg.css",
+      "assets/AiEfficiencyPage-LMT_oBdV.css"
+    ]
+  }
+}

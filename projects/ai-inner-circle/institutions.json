@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "org-academia-europaea",
+    "name": "Academia Europaea",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-academie-des-sciences",
+    "name": "Académie des sciences",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-affirm",
+    "name": "Affirm",
+    "type": "company",
+    "source_ids": [
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-ng-aifund",
+    "name": "AI Fund",
+    "type": "venture_firm",
+    "source_ids": [
+      "ng-bio"
+    ]
+  },
+  {
+    "id": "org-ai4all",
+    "name": "AI4ALL",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-fei-caltech"
+    ]
+  },
+  {
+    "id": "org-airbnb",
+    "name": "Airbnb",
+    "type": "company",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-amd",
+    "name": "AMD",
+    "type": "company",
+    "source_ids": [
+      "corp-nvidia-huang"
+    ]
+  },
+  {
+    "id": "org-american-academy-of-arts-and-sciences",
+    "name": "American Academy of Arts and Sciences",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-dean-minnesota"
+    ]
+  },
+  {
+    "id": "org-aaas",
+    "name": "American Association for the Advancement of Science",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-anthropic",
+    "name": "Anthropic",
+    "type": "company",
+    "source_ids": [
+      "afrt-dario-bio"
+    ]
+  },
+  {
+    "id": "org-apple",
+    "name": "Apple",
+    "type": "company",
+    "source_ids": [
+      "afac-kaifu-columbia",
+      "bridge-ive-apple",
+      "corp-apple-cook"
+    ]
+  },
+  {
+    "id": "org-artificial-analysis",
+    "name": "Artificial Analysis",
+    "type": "company",
+    "source_ids": [
+      "aa-about"
+    ]
+  },
+  {
+    "id": "org-acm",
+    "name": "Association for Computing Machinery",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-dean-minnesota"
+    ]
+  },
+  {
+    "id": "org-aaai",
+    "name": "Association for the Advancement of Artificial Intelligence",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio"
+    ]
+  },
+  {
+    "id": "org-att-labs",
+    "name": "AT&T Labs Research",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-aurora",
+    "name": "Aurora",
+    "type": "company",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-anu",
+    "name": "Australian National University",
+    "type": "university",
+    "source_ids": [
+      "afac-quoc-stanford"
+    ]
+  },
+  {
+    "id": "org-belfer-center",
+    "name": "Belfer Center for Science and International Affairs",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-suleyman-bio"
+    ]
+  },
+  {
+    "id": "org-bell-labs",
+    "name": "Bell Laboratories",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-berggruen",
+    "name": "Berggruen Institute",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-block",
+    "name": "Block (formerly Square)",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-bullfrog-productions",
+    "name": "Bullfrog Productions",
+    "type": "company",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-caltech",
+    "name": "California Institute of Technology",
+    "type": "university",
+    "source_ids": [
+      "afac-fei-stanford",
+      "afac-fei-caltech"
+    ]
+  },
+  {
+    "id": "org-cibc",
+    "name": "Canadian Imperial Bank of Commerce",
+    "type": "company",
+    "source_ids": [
+      "afac-salakhutdinov-cv"
+    ]
+  },
+  {
+    "id": "org-carnegie-mellon",
+    "name": "Carnegie Mellon University",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-courville-mila",
+      "afac-salakhutdinov-cmu",
+      "afac-zemel-caiac",
+      "afac-oriol-upc",
+      "afac-kaifu-columbia",
+      "ng-bio"
+    ]
+  },
+  {
+    "id": "org-cuhk",
+    "name": "Chinese University of Hong Kong",
+    "type": "university",
+    "source_ids": [
+      "afac-kaiming-mit"
+    ]
+  },
+  {
+    "id": "org-cifar",
+    "name": "CIFAR",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-bengio-umontreal",
+      "afac-courville-mila",
+      "afac-salakhutdinov-cmu",
+      "afac-graves-toronto"
+    ]
+  },
+  {
+    "id": "org-cognitive-science-society",
+    "name": "Cognitive Science Society",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio"
+    ]
+  },
+  {
+    "id": "org-columbia",
+    "name": "Columbia University",
+    "type": "university",
+    "source_ids": [
+      "afac-zemel-caiac",
+      "afac-kaifu-columbia"
+    ]
+  },
+  {
+    "id": "org-compaq",
+    "name": "Compaq",
+    "type": "company",
+    "source_ids": [
+      "multi-cook-jobs"
+    ]
+  },
+  {
+    "id": "org-ng-coursera",
+    "name": "Coursera",
+    "type": "company",
+    "source_ids": [
+      "ng-coursera"
+    ]
+  },
+  {
+    "id": "org-czi-biohub",
+    "name": "CZI Biohub",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-d-e-shaw",
+    "name": "D. E. Shaw Research",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-jumper-vanderbilt"
+    ]
+  },
+  {
+    "id": "org-ng-dlai",
+    "name": "DeepLearning.AI",
+    "type": "company",
+    "source_ids": [
+      "ng-dlai"
+    ]
+  },
+  {
+    "id": "org-ng-drive",
+    "name": "Drive.ai",
+    "type": "company",
+    "source_ids": [
+      "ng-reiley"
+    ]
+  },
+  {
+    "id": "org-elixir-studios",
+    "name": "Elixir Studios",
+    "type": "company",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-endeavor",
+    "name": "Endeavor",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-entrepreneur-first",
+    "name": "Entrepreneur First",
+    "type": "company",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-esiee-paris",
+    "name": "ESIEE Paris",
+    "type": "university",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-eureka-labs",
+    "name": "Eureka Labs",
+    "type": "company",
+    "source_ids": [
+      "afrt-karpathy-time"
+    ]
+  },
+  {
+    "id": "org-faire",
+    "name": "Faire",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-founders-fund",
+    "name": "Founders Fund",
+    "type": "venture_firm",
+    "source_ids": [
+      "afrt-thiel"
+    ]
+  },
+  {
+    "id": "org-glow",
+    "name": "Glow",
+    "type": "company",
+    "source_ids": [
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-google",
+    "name": "Google",
+    "type": "company",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-fei-stanford",
+      "afac-dean-minnesota",
+      "afac-koray-google",
+      "afac-quoc-stanford",
+      "afac-oriol-upc",
+      "afac-kaifu-columbia",
+      "corp-google",
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-deepmind",
+    "name": "Google DeepMind",
+    "type": "company",
+    "source_ids": [
+      "afac-hassabis-europaea",
+      "afac-suleyman-bio",
+      "afac-legg-usi",
+      "afac-teh-oxford",
+      "afac-jumper-chicago",
+      "afac-mnih-toronto",
+      "afac-koray-google",
+      "afac-kaiming-mit",
+      "afac-oriol-upc",
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-greylock",
+    "name": "Greylock",
+    "type": "venture_firm",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-harvard-computer-society",
+    "name": "Harvard Computer Society",
+    "type": "club",
+    "source_ids": [
+      "afrt-brockman-home"
+    ]
+  },
+  {
+    "id": "org-harvard",
+    "name": "Harvard University",
+    "type": "university",
+    "source_ids": [
+      "afac-hassabis-europaea",
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-helion",
+    "name": "Helion Energy",
+    "type": "company",
+    "source_ids": [
+      "afrt-altman-helion"
+    ]
+  },
+  {
+    "id": "org-hertz-foundation",
+    "name": "Hertz Foundation",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-dario-bio"
+    ]
+  },
+  {
+    "id": "org-high-point",
+    "name": "High Point University",
+    "type": "university",
+    "source_ids": [
+      "afac-salakhutdinov-cmu"
+    ]
+  },
+  {
+    "id": "org-hvf",
+    "name": "HVF",
+    "type": "company",
+    "source_ids": [
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-ibm",
+    "name": "IBM",
+    "type": "company",
+    "source_ids": [
+      "corp-amd",
+      "multi-cook-jobs"
+    ]
+  },
+  {
+    "id": "org-idsia",
+    "name": "IDSIA – Dalle Molle Institute for Artificial Intelligence Research",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ]
+  },
+  {
+    "id": "org-iit-kanpur",
+    "name": "Indian Institute of Technology Kanpur",
+    "type": "university",
+    "source_ids": [
+      "corp-ibm"
+    ]
+  },
+  {
+    "id": "org-inflection",
+    "name": "Inflection AI",
+    "type": "company",
+    "source_ids": [
+      "afac-suleyman-bio",
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-ivado",
+    "name": "IVADO",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-bengio-umontreal",
+      "afac-courville-mila"
+    ]
+  },
+  {
+    "id": "org-karpathy-johnson-reading-group",
+    "name": "Karpathy–Johnson AI reading group (Clubhouse)",
+    "type": "club",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-khosla-ventures",
+    "name": "Khosla Ventures",
+    "type": "venture_firm",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-ksplice",
+    "name": "Ksplice",
+    "type": "company",
+    "source_ids": [
+      "afrt-brockman-home"
+    ]
+  },
+  {
+    "id": "org-ng-landing",
+    "name": "LandingAI",
+    "type": "company",
+    "source_ids": [
+      "ng-landing"
+    ]
+  },
+  {
+    "id": "org-lawzero",
+    "name": "LawZero",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-bengio-lawzero"
+    ]
+  },
+  {
+    "id": "org-lever-for-change",
+    "name": "Lever for Change",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-linkedin",
+    "name": "LinkedIn",
+    "type": "company",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-lionhead-studios",
+    "name": "Lionhead Studios",
+    "type": "company",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-loopt",
+    "name": "Loopt",
+    "type": "company",
+    "source_ids": [
+      "afrt-altman-time"
+    ]
+  },
+  {
+    "id": "org-mit",
+    "name": "Massachusetts Institute of Technology",
+    "type": "university",
+    "source_ids": [
+      "afac-hassabis-europaea",
+      "afac-salakhutdinov-cmu",
+      "afac-dayan-max-planck",
+      "afac-kaiming-mit",
+      "ng-bio",
+      "corp-amd",
+      "afrt-brockman-path"
+    ]
+  },
+  {
+    "id": "org-max-planck-biological-cybernetics",
+    "name": "Max Planck Institute for Biological Cybernetics",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-dayan-max-planck",
+      "afac-quoc-stanford"
+    ]
+  },
+  {
+    "id": "org-mcgill",
+    "name": "McGill University",
+    "type": "university",
+    "source_ids": [
+      "afac-bengio-umontreal"
+    ]
+  },
+  {
+    "id": "org-meta",
+    "name": "Meta",
+    "type": "company",
+    "source_ids": [
+      "afac-lecun-academy",
+      "afac-kaiming-mit",
+      "corp-meta",
+      "multi-schultz-intro"
+    ]
+  },
+  {
+    "id": "org-microsoft",
+    "name": "Microsoft",
+    "type": "company",
+    "source_ids": [
+      "afac-suleyman-bio",
+      "afac-kaiming-mit",
+      "afac-kaifu-columbia",
+      "corp-microsoft",
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-mila",
+    "name": "Mila – Quebec Artificial Intelligence Institute",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-bengio-lawzero",
+      "afac-courville-mila"
+    ]
+  },
+  {
+    "id": "org-national-university-of-singapore",
+    "name": "National University of Singapore",
+    "type": "university",
+    "source_ids": [
+      "afac-teh-oxford"
+    ]
+  },
+  {
+    "id": "org-nauto",
+    "name": "Nauto",
+    "type": "company",
+    "source_ids": [
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-nyu",
+    "name": "New York University",
+    "type": "university",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-nvidia",
+    "name": "NVIDIA",
+    "type": "company",
+    "source_ids": [
+      "corp-nvidia-huang"
+    ]
+  },
+  {
+    "id": "org-oklo",
+    "name": "Oklo",
+    "type": "company",
+    "source_ids": [
+      "afrt-altman-oklo"
+    ]
+  },
+  {
+    "id": "org-openai",
+    "name": "OpenAI",
+    "type": "company",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-opendoor",
+    "name": "Opendoor",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-oracle",
+    "name": "Oracle",
+    "type": "company",
+    "source_ids": [
+      "corp-oracle"
+    ]
+  },
+  {
+    "id": "org-oregon-state",
+    "name": "Oregon State University",
+    "type": "university",
+    "source_ids": [
+      "corp-nvidia-huang"
+    ]
+  },
+  {
+    "id": "org-palantir",
+    "name": "Palantir Technologies",
+    "type": "company",
+    "source_ids": [
+      "afrt-thiel"
+    ]
+  },
+  {
+    "id": "org-paypal",
+    "name": "PayPal",
+    "type": "company",
+    "source_ids": [
+      "afrt-thiel"
+    ]
+  },
+  {
+    "id": "org-princeton",
+    "name": "Princeton University",
+    "type": "university",
+    "source_ids": [
+      "afac-fei-stanford",
+      "afrt-dario-bio"
+    ]
+  },
+  {
+    "id": "org-ramp",
+    "name": "Ramp",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-reddit",
+    "name": "Reddit",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-royal-academy-of-engineering",
+    "name": "Royal Academy of Engineering",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-royal-society-of-arts",
+    "name": "Royal Society of Arts",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hassabis-europaea"
+    ]
+  },
+  {
+    "id": "org-royal-society-of-canada",
+    "name": "Royal Society of Canada",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-bengio-umontreal"
+    ]
+  },
+  {
+    "id": "org-salk-institute",
+    "name": "Salk Institute",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-zemel-caiac",
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-sgi",
+    "name": "Silicon Graphics (SGI)",
+    "type": "company",
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ]
+  },
+  {
+    "id": "org-sinovation-ventures",
+    "name": "Sinovation Ventures",
+    "type": "venture_firm",
+    "source_ids": [
+      "afac-kaifu-columbia"
+    ]
+  },
+  {
+    "id": "org-slide",
+    "name": "Slide",
+    "type": "company",
+    "source_ids": [
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-sorbonne-university",
+    "name": "Sorbonne University (formerly Université Pierre et Marie Curie)",
+    "type": "university",
+    "source_ids": [
+      "afac-lecun-academy"
+    ]
+  },
+  {
+    "id": "org-stanford-hai",
+    "name": "Stanford Institute for Human-Centered AI",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-fei-stanford",
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-stanford",
+    "name": "Stanford University",
+    "type": "university",
+    "source_ids": [
+      "afac-fei-stanford",
+      "afac-salakhutdinov-cmu",
+      "afac-quoc-stanford",
+      "ng-bio",
+      "corp-nvidia-huang",
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-stripe",
+    "name": "Stripe",
+    "type": "company",
+    "source_ids": [
+      "afrt-brockman-home"
+    ]
+  },
+  {
+    "id": "org-sullivan-cromwell",
+    "name": "Sullivan & Cromwell",
+    "type": "other",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-technical-university-of-munich",
+    "name": "Technical University of Munich",
+    "type": "university",
+    "source_ids": [
+      "afac-graves-deepmind-lecture"
+    ]
+  },
+  {
+    "id": "org-tesla",
+    "name": "Tesla",
+    "type": "company",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-alan-turing-institute",
+    "name": "The Alan Turing Institute",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-teh-oxford"
+    ]
+  },
+  {
+    "id": "org-economist-group",
+    "name": "The Economist Group",
+    "type": "company",
+    "source_ids": [
+      "afac-suleyman-bio"
+    ]
+  },
+  {
+    "id": "org-royal-society",
+    "name": "The Royal Society",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-bengio-umontreal",
+      "afac-hassabis-europaea",
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-thiel-fellowship",
+    "name": "Thiel Fellowship",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-thiel"
+    ]
+  },
+  {
+    "id": "org-thiel-foundation",
+    "name": "Thiel Foundation",
+    "type": "nonprofit",
+    "source_ids": [
+      "afrt-thiel"
+    ]
+  },
+  {
+    "id": "org-tsinghua",
+    "name": "Tsinghua University",
+    "type": "university",
+    "source_ids": [
+      "afac-kaiming-mit"
+    ]
+  },
+  {
+    "id": "org-usi",
+    "name": "Università della Svizzera italiana",
+    "type": "university",
+    "source_ids": [
+      "afac-legg-usi"
+    ]
+  },
+  {
+    "id": "org-upc",
+    "name": "Universitat Politècnica de Catalunya",
+    "type": "university",
+    "source_ids": [
+      "afac-oriol-upc"
+    ]
+  },
+  {
+    "id": "org-university-of-montreal",
+    "name": "Université de Montréal",
+    "type": "university",
+    "source_ids": [
+      "afac-bengio-umontreal",
+      "afac-courville-mila"
+    ]
+  },
+  {
+    "id": "org-ucl",
+    "name": "University College London",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-hassabis-royal-society",
+      "afac-hassabis-europaea",
+      "afac-teh-oxford",
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-university-of-alberta",
+    "name": "University of Alberta",
+    "type": "university",
+    "source_ids": [
+      "afac-mnih-toronto"
+    ]
+  },
+  {
+    "id": "org-university-of-arizona",
+    "name": "University of Arizona",
+    "type": "university",
+    "source_ids": [
+      "afac-zemel-caiac"
+    ]
+  },
+  {
+    "id": "org-university-of-british-columbia",
+    "name": "University of British Columbia",
+    "type": "university",
+    "source_ids": [
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-uc-berkeley",
+    "name": "University of California, Berkeley",
+    "type": "university",
+    "source_ids": [
+      "afac-teh-oxford",
+      "afac-oriol-upc",
+      "ng-bio"
+    ]
+  },
+  {
+    "id": "org-uc-san-diego",
+    "name": "University of California, San Diego",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-oriol-upc"
+    ]
+  },
+  {
+    "id": "org-cambridge",
+    "name": "University of Cambridge",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-hassabis-royal-society",
+      "afac-jumper-chicago",
+      "afac-jumper-vanderbilt",
+      "afac-graves-deepmind-lecture",
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-university-of-chicago",
+    "name": "University of Chicago",
+    "type": "university",
+    "source_ids": [
+      "afac-jumper-chicago"
+    ]
+  },
+  {
+    "id": "org-edinburgh",
+    "name": "University of Edinburgh",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-graves-deepmind-lecture",
+      "afac-dayan-max-planck"
+    ]
+  },
+  {
+    "id": "org-uiuc",
+    "name": "University of Illinois Urbana-Champaign",
+    "type": "university",
+    "source_ids": [
+      "corp-ibm",
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-university-of-minnesota",
+    "name": "University of Minnesota",
+    "type": "university",
+    "source_ids": [
+      "afac-dean-minnesota"
+    ]
+  },
+  {
+    "id": "org-oxford",
+    "name": "University of Oxford",
+    "type": "university",
+    "source_ids": [
+      "afac-teh-oxford",
+      "afrt-hoffman"
+    ]
+  },
+  {
+    "id": "org-upenn",
+    "name": "University of Pennsylvania",
+    "type": "university",
+    "source_ids": [
+      "corp-apple-ternus"
+    ]
+  },
+  {
+    "id": "org-sussex",
+    "name": "University of Sussex",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio"
+    ]
+  },
+  {
+    "id": "org-university-of-toronto",
+    "name": "University of Toronto",
+    "type": "university",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-lecun-academy",
+      "afac-salakhutdinov-cmu",
+      "afac-zemel-caiac",
+      "afac-teh-oxford",
+      "afac-mnih-toronto",
+      "afac-graves-deepmind-lecture",
+      "afac-dayan-max-planck",
+      "afrt-karpathy-bio"
+    ]
+  },
+  {
+    "id": "org-university-of-washington",
+    "name": "University of Washington",
+    "type": "university",
+    "source_ids": [
+      "afac-dean-minnesota"
+    ]
+  },
+  {
+    "id": "org-fifth-circuit",
+    "name": "US Court of Appeals, Fifth Circuit",
+    "type": "government",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-national-academy-of-engineering",
+    "name": "US National Academy of Engineering",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio",
+      "afac-dean-minnesota"
+    ]
+  },
+  {
+    "id": "org-national-academy-of-sciences",
+    "name": "US National Academy of Sciences",
+    "type": "nonprofit",
+    "source_ids": [
+      "afac-hinton-bio"
+    ]
+  },
+  {
+    "id": "org-vanderbilt",
+    "name": "Vanderbilt University",
+    "type": "university",
+    "source_ids": [
+      "afac-jumper-chicago"
+    ]
+  },
+  {
+    "id": "org-vector-institute",
+    "name": "Vector Institute",
+    "type": "research_lab",
+    "source_ids": [
+      "afac-zemel-caiac"
+    ]
+  },
+  {
+    "id": "org-world-labs",
+    "name": "World Labs",
+    "type": "company",
+    "source_ids": [
+      "afac-fei-stanford"
+    ]
+  },
+  {
+    "id": "org-xoom",
+    "name": "Xoom",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  },
+  {
+    "id": "org-y-combinator",
+    "name": "Y Combinator",
+    "type": "company",
+    "source_ids": [
+      "afrt-altman-yc"
+    ]
+  },
+  {
+    "id": "org-yahoo",
+    "name": "Yahoo",
+    "type": "company",
+    "source_ids": [
+      "afac-salakhutdinov-cmu",
+      "afrt-levchin"
+    ]
+  },
+  {
+    "id": "org-yelp",
+    "name": "Yelp",
+    "type": "company",
+    "source_ids": [
+      "afrt-rabois"
+    ]
+  }
+]

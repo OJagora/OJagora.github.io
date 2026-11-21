@@ -1,0 +1,21 @@
+{
+  "snapshot_date": "2026-10-06",
+  "retrieved_at": "2026-10-06T15:09:42.908Z",
+  "intelligence_index_version": "4.3.2",
+  "api_index_version": "4.3",
+  "patch_version_source_id": "aa-methodology",
+  "patch_version_note": "API omits patch. v4.3.2 confirmed against same-day API documentation and public comparison pages. A future refresh requires explicit patch-version confirmation.",
+  "source_configurations": 691,
+  "api_snapshot_sha256": "ad2f478779e2052c0807ccbd28fb408a3d6bfd21d3ff8c88a758275b9584ba47",
+  "sampling_note": "Purposive architecture-verification catalogue, not a census. Core: open weights, official or documented inherited architecture, and unstarred current score with all ten evaluation results in a cited public table. Highest named reasoning setting selected before analysing outcomes; one setting per release. Estimated and unverified benchmark status excluded. Preview held out.",
+  "architecture_last_reviewed_on": "2026-10-08",
+  "heldout_token_supplement": {
+    "reviewed_on": "2026-10-08",
+    "slug": "mistral-large-4",
+    "index_version": "4.3.2",
+    "token_source_id": "aa-mistral-large-4-tokens",
+    "api_check_source_id": "aa-mistral-large-4-api-check",
+    "file": "mistral-token-supplement.json",
+    "note": "The same named preview configuration, index version, slug, release date, API model ID and unchanged exact score support pairing the October 8 token counts with the October 6 score and baselines. Hidden preview changes are not independently ruled out."
+  }
+}

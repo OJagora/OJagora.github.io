@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+<title id="title">When does AI pay for itself?</title>
+<desc id="desc">Illustrative simulation showing expected net value per task as the success rate increases. At 65 percent success, the estimated net value is 256.65 euros. The calculation assumes an eight-hour task, one hour of human effort, 63 euros per hour, and 30 euros in token costs.</desc>
+<rect width="1200" height="1500" fill="#fff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="82" y="127" fill="#25104f" font-size="78" font-weight="700">WHEN DOES AI</text>
+  <text x="82" y="218" fill="#25104f" font-size="78" font-weight="700">PAY FOR ITSELF?</text>
+  <text x="86" y="275" fill="#253047" font-size="29">The economics of one AI-assisted task</text>
+  <text x="165" y="365" fill="#253047" font-size="24" font-weight="700">Expected net value per task (€)</text>
+  <g stroke="#e0e6ef" stroke-width="2">
+    <line x1="165" y1="410" x2="1040" y2="410"/><line x1="165" y1="523.3" x2="1040" y2="523.3"/><line x1="165" y1="636.7" x2="1040" y2="636.7"/><line x1="165" y1="750" x2="1040" y2="750"/><line x1="165" y1="863.3" x2="1040" y2="863.3"/><line x1="165" y1="1090" x2="1040" y2="1090"/>
+    <line x1="165" y1="410" x2="165" y2="1090"/><line x1="383.75" y1="410" x2="383.75" y2="1090"/><line x1="602.5" y1="410" x2="602.5" y2="1090"/><line x1="821.25" y1="410" x2="821.25" y2="1090"/><line x1="1040" y1="410" x2="1040" y2="1090"/>
+  </g>
+  <line x1="165" y1="976.7" x2="1040" y2="976.7" stroke="#8190a9" stroke-width="2.5" stroke-dasharray="10 9"/>
+  <g fill="#667797" font-size="22" text-anchor="end">
+    <text x="145" y="418">500</text><text x="145" y="531">400</text><text x="145" y="644">300</text><text x="145" y="758">200</text><text x="145" y="871">100</text><text x="145" y="984">0</text><text x="145" y="1098">−100</text>
+  </g>
+  <g fill="#667797" font-size="23" text-anchor="middle"><text x="165" y="1125">0%</text><text x="383.75" y="1125">25%</text><text x="602.5" y="1125">50%</text><text x="821.25" y="1125">75%</text><text x="1040" y="1125">100%</text></g>
+  <text x="602" y="1175" text-anchor="middle" fill="#253047" font-size="25" font-weight="700">AI task success rate</text>
+  <path d="M165 1010.7 L1040 510.9" fill="none" stroke="#00aa98" stroke-width="7"/>
+  <circle cx="224.5" cy="976.7" r="9" fill="#fff" stroke="#6c4c96" stroke-width="4"/>
+  <path d="M224.5 976.7 L284 928" fill="none" stroke="#6c4c96" stroke-width="2"/>
+  <rect x="282" y="888" width="275" height="60" fill="#fff"/>
+  <text x="290" y="911" fill="#513178" font-size="23" font-weight="700">6.8% BREAK-EVEN</text>
+  <text x="290" y="941" fill="#667797" font-size="21">Net value = €0</text>
+  <circle cx="733.75" cy="685.8" r="12" fill="#00aa98" stroke="#fff" stroke-width="4"/>
+  <path d="M733.75 685.8 L793 632" fill="none" stroke="#00aa98" stroke-width="2"/>
+  <rect x="785" y="559" width="242" height="76" fill="#fff"/>
+  <text x="795" y="591" fill="#25104f" font-size="31" font-weight="700">€256.65</text>
+  <text x="795" y="623" fill="#253047" font-size="22">at 65% success</text>
+  <line x1="84" y1="1230" x2="1115" y2="1230" stroke="#e0e6ef" stroke-width="2"/>
+  <text x="85" y="1276" fill="#25104f" font-size="27" font-weight="700">One illustrative scenario</text>
+  <text x="85" y="1315" fill="#253047" font-size="23">8-hour task · 1 hour of human effort · €63/hour</text>
+  <text x="85" y="1351" fill="#253047" font-size="23">€30 in tokens per attempt</text>
+  <text x="85" y="1408" fill="#667797" font-size="20">Explore assumptions and sources in the interactive simulator</text>
+  <text x="1114" y="1460" text-anchor="end" fill="#25104f" font-size="21">octavejagora.com</text>
+</g>
+</svg>
+
